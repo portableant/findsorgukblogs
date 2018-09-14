@@ -13,7 +13,7 @@ Excitingly there are 469 parishes England-wide with more than 20 ‘Reeceable’
 
 Then it’s on to the analysis stage and the possibilities are endless…I’ll be looking to assess site function through coin profile (I’m particularly interested in rural shrines and temples) and to see whether I can make sense of some obvious regional patterning.
 
-[![](/files/2008/04/allplaces-300x265.jpg "allplaces")](files/2008/04/allplaces.jpg)
+[![]({{ site.baseurl }}/files/2008/04/allplaces-300x265.jpg "allplaces")](files/2008/04/allplaces.jpg)
 
-[Google Earth KMZ file](http://www.finds.org.uk/everything.kmz "Get the Google file")
+[Google Earth KMZ file](https://finds.org.ukeverything.kmz "Get the Google file")
 

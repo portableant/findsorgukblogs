@@ -12,8 +12,8 @@ The inscriptions are worn away, but one states that Armenia and Mesopotamia have
 
 To see this coin and to learn more about Roman coins found in Britain, go to the Portable Antiquities Scheme website: [www.finds.org.uk](http://www.finds.org.uk) This coin’s record number is SUSS-977223.
 
-![SUSS-977223](http://www.finds.org.uk/images/thumbnails/148945.jpg)PAS record number: SUSS-977223  
+![SUSS-977223](https://finds.org.uk/images/thumbnails/148945.jpg)PAS record number: SUSS-977223  
 Object type: Coin  
 Broadperiod: Roman  
 County of discovery: West Sussex  
-Stable url: [http://www.finds.org.uk/database/artefacts/record/id/191919](http://www.finds.org.uk/database/artefacts/record/id/191919 "SUSS-977223: a Roman Coin")
+Stable url: [https://finds.org.uk/database/artefacts/record/id/191919](https://finds.org.uk/database/artefacts/record/id/191919 "SUSS-977223: a Roman Coin")

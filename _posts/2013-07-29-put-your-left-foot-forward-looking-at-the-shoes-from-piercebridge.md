@@ -4,12 +4,12 @@ title: Put your left foot forward! Looking at the shoes from Piercebridge
 author: Philippa Walton
 ---
 
-[Put your left foot forward! Looking at the shoes from Piercebridge](http://finds.org.uk/blogs/blog/2013/07/29/put-your-left-foot-forward-looking-at-the-shoes-from-piercebridge/ "Link to Put your left foot forward! Looking at the shoes from Piercebridge")
+[Put your left foot forward! Looking at the shoes from Piercebridge](https://finds.org.uk/blogs/blog/2013/07/29/put-your-left-foot-forward-looking-at-the-shoes-from-piercebridge/ "Link to Put your left foot forward! Looking at the shoes from Piercebridge")
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A couple of weeks ago, the project was lucky to have Dr Beth Greene, an expert in Roman shoes, from the University of Western Ontario, take a look at our small assemblage of leather from the river. She’s worked extensively on the Roman shoes from Vindolanda ([http://www.vindolanda.com/doorway-articles/life-at-vindolanda](http://www.vindolanda.com/doorway-articles/life-at-vindolanda)), so she’s well placed to study our footwear! Here’s what she has to say about them:
 
-[![Our Roman shoe expert, Beth Greene](/files/2013/07/BethGreene-218x300.jpg)](/files/2013/07/BethGreene.jpg)
+[![Our Roman shoe expert, Beth Greene]({{ site.baseurl }}/files/2013/07/BethGreene-218x300.jpg)]({{ site.baseurl }}/files/2013/07/BethGreene.jpg)
 
 Our Roman shoe expert, Beth Greene
 
@@ -17,7 +17,7 @@ Our Roman shoe expert, Beth Greene
 
 So, here’s the good news: the shoes are **most definitely Roman!** They are all very well preserved and tell us a great deal about their previous owners and perhaps also the individual who deposited them in this watery resting place. One is a small sandal of about 22cm long (before chemical conservation) that may have belonged to a woman or an adolescent male. The sandal is an interesting shape that developed at the end of the 2nd century and into the 3rd, with a flat toe area and very wide at the toes and ball of the foot. This sandal type evolves to become enormous at the toe end and eventually looks more like a ping-pong paddle than a shoe! Our example is more sensible in its stylistic details, but still has a flare that can only be chalked up to fashionable tastes rather than practicality.
 
-[![A leather shoe, with fashionable paddle-shaped foot.](/files/2013/07/1-300x198.jpg)](/files/2013/07/1.jpg)
+[![A leather shoe, with fashionable paddle-shaped foot.]({{ site.baseurl }}/files/2013/07/1-300x198.jpg)]({{ site.baseurl }}/files/2013/07/1.jpg)
 
 A leather shoe, with fashionable paddle-shaped foot.
 
@@ -25,4 +25,4 @@ Another shoe also follows the trends of the time with a very pointed toe. There 
 
 With luck there will be more shoes to look at it to provide some statistically significant data. It’s early days right now and possibly pure coincidence, but one interesting detail is that all three shoes are left-footed, the inauspicious and evil side as far as the Romans were concerned (the Latin word for left is ‘sinistra’_,_ where we get the English word ‘sinister’). If I were giving away one shoe to the deity, I’d surely pick the one that brings bad luck!
 
-[July 29, 2013](http://finds.org.uk/blogs/blog/2013/07/29/put-your-left-foot-forward-looking-at-the-shoes-from-piercebridge/ "9:46 am") [Philippa Walton](http://finds.org.uk/blogs/blog/author/pwalton/ "View all posts by Philippa Walton") [People](http://finds.org.uk/blogs/blog/category/people/) [Project details](http://finds.org.uk/blogs/blog/category/project-details/) [Small finds](http://finds.org.uk/blogs/blog/category/small-finds/)   [Leave a comment](http://finds.org.uk/blogs/blog/2013/07/29/put-your-left-foot-forward-looking-at-the-shoes-from-piercebridge/#respond "Comment on Put your left foot forward! Looking at the shoes from Piercebridge")
+[July 29, 2013](https://finds.org.uk/blogs/blog/2013/07/29/put-your-left-foot-forward-looking-at-the-shoes-from-piercebridge/ "9:46 am") [Philippa Walton](https://finds.org.uk/blogs/blog/author/pwalton/ "View all posts by Philippa Walton") [People](https://finds.org.uk/blogs/blog/category/people/) [Project details](https://finds.org.uk/blogs/blog/category/project-details/) [Small finds](https://finds.org.uk/blogs/blog/category/small-finds/)   [Leave a comment](https://finds.org.uk/blogs/blog/2013/07/29/put-your-left-foot-forward-looking-at-the-shoes-from-piercebridge/#respond "Comment on Put your left foot forward! Looking at the shoes from Piercebridge")

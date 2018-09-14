@@ -7,7 +7,7 @@ author: Corrine Mills
 An experience not to be missed Monday 15th August
 =================================================
 
-![A fragment of gold runic inscription](http://www.finds.org.uk/images/cmcdonald/medium/dscn0195.jpg "A fragment of gold runic inscription")
+![A fragment of gold runic inscription](https://finds.org.uk/images/cmcdonald/medium/dscn0195.jpg "A fragment of gold runic inscription")
 
 A fragment of gold runic inscription
 

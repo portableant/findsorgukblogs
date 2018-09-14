@@ -7,9 +7,9 @@ published: 2013-08-02T09:57:29+00:00
 Treasure donation highlights a lifelong interest in archaeology
 ---------------------------------------------------------------
 
-Earlier this year, Dr Stephen Hammond discovered an [Anglo-Saxon silver pyramid-shaped sword scabbard moun](http://finds.org.uk/database/artefacts/record/id/538684)[t ](http://finds.org.uk/database/artefacts/record/id/538684)in Heacham,
+Earlier this year, Dr Stephen Hammond discovered an [Anglo-Saxon silver pyramid-shaped sword scabbard moun](https://finds.org.uk/database/artefacts/record/id/538684)[t ](https://finds.org.uk/database/artefacts/record/id/538684)in Heacham,
 
-[![Anglo-Saxon silver scabbard mount](../files/2013/08/2013T75-A-S-Sword-Mount-150x150.jpg)](../files/2013/08/2013T75-A-S-Sword-Mount.jpg)
+[![Anglo-Saxon silver scabbard mount](..{{ site.baseurl }}/files/2013/08/2013T75-A-S-Sword-Mount-150x150.jpg)](..{{ site.baseurl }}/files/2013/08/2013T75-A-S-Sword-Mount.jpg)
 
 Anglo-Saxon silver scabbard mount
 
@@ -19,7 +19,7 @@ Early Medieval sword scabbard mount are fascinating and wonderfully designed obj
 
 In an act of great generosity, Dr Hammond and the owner of the land both agreed to forego any reward in order that the sword scabbard mount could be acquired by [Norwich Castle Museum](http://www.museums.norfolk.gov.uk/Visit_Us/Norwich_Castle/index.htm) at no expense.  In the course of doing so, Dr Hammond was reminded of the first time he had made a donation to Norwich Castle Museum, in 1952!  Amazingly, he still had the certificate issued by the Town Clerk acknowledging his deed of 60 years ago.   
 
-[![Dr Hammond's Certificate from the Norwich Town Clerk](/files/2013/08/City-of-Norwich-pottery-from-Snettisham-150x150.jpg)](/files/2013/08/City-of-Norwich-pottery-from-Snettisham.jpg)
+[![Dr Hammond's Certificate from the Norwich Town Clerk]({{ site.baseurl }}/files/2013/08/City-of-Norwich-pottery-from-Snettisham-150x150.jpg)]({{ site.baseurl }}/files/2013/08/City-of-Norwich-pottery-from-Snettisham.jpg)
 
 Dr Hammond’s Certificate from the Norwich Town Clerk
 

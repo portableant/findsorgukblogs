@@ -4,7 +4,7 @@ title: The new Icomon website
 published: 2008-10-22T10:37:13+00:00
 author: Sam Moorhead
 ---
-The new [ICOMON](http://www.icomon.org "ICOMON website") website now holds my paper from their Vienna conference last year.[](/files/2008/10/viennamoorhead.pdf)
+The new [ICOMON](http://www.icomon.org "ICOMON website") website now holds my paper from their Vienna conference last year.[]({{ site.baseurl }}/files/2008/10/viennamoorhead.pdf)
 
 October 22, 2008 Sam Moorhead
 
@@ -16,7 +16,7 @@ Two gold coins of the emperor Carausius have just been found on a construction s
 Object type: Coin  
 Broadperiod: Roman  
 County of discovery: Derbyshire  
-Stable url: [http://www.finds.org.uk/database/artefacts/record/id/203507](http://www.finds.org.uk/database/artefacts/record/id/203507 "DENO-651C91: a Roman Coin")
+Stable url: [https://finds.org.uk/database/artefacts/record/id/203507](https://finds.org.uk/database/artefacts/record/id/203507 "DENO-651C91: a Roman Coin")
 
 Carausius was a Menapian (from modern Belgium). In the AD 280s he was the commander of the Roman Fleet (Classis Britannica) that patrolled the English Channel and North Sea. The fleet was commanded from Boulogne and one of its major functions was to defend Britain and Gaul (France) from Saxon raiders. Carausius fell foul of the Roman emperors Diocletian and Maximian, supposedly because he allowed the Saxons to RAID and only intercepted them afterwards, keeping the stolen loot for himself! Rather than hand himself over, Carausius declared himself emperor of Northern Gaul and Britain and set up his own mini-empire.
 
@@ -24,7 +24,7 @@ Carausius was a Menapian (from modern Belgium). In the AD 280s he was the comman
 Object type: Coin  
 Broadperiod: Roman  
 County of discovery: Derbyshire  
-Stable url: [http://www.finds.org.uk/database/artefacts/record/id/203503](http://www.finds.org.uk/database/artefacts/record/id/203503 "DENO-64DAE1: a Roman Coin")
+Stable url: [https://finds.org.uk/database/artefacts/record/id/203503](https://finds.org.uk/database/artefacts/record/id/203503 "DENO-64DAE1: a Roman Coin")
 
 > In this outrageous act of brigandage the escaping pirate \[Carausius\] first of all seized the fleet which had previously been protecting Gaul, and added a large number of ships which he built to the Roman pattern. He took over a legion, intercepted some detachments of provincial troops, press-ganged Gallic tradesmen into service, lured over with spoils from the provinces themselves numerous foreign forces,Video [jugar a la ruleta](http://www.pbsantiquesroadshow.org/firepay-jugar-a-la-ruleta-depositos.html) “Aces and faces 50 play power poker” – “Aces and faces 50 play power poker” se diferencia de los juegos de Video Poker est’¡ndar, en que se juegan 50 manos de cartas al mismo tiempo. and trained them all under the direction of the ringleaders of this conspiracy for naval duties \[Part of a speech given in honour of Constantius I, the emperor who finally retook Britain\]
 

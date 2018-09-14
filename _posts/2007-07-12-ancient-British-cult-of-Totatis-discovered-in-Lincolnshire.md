@@ -14,7 +14,7 @@ Adam Daubney, Lincolnshire Finds Liaison Officer for the Portable Antiquities Sc
 
 There are very few ancient documents that mention Toutatis, however those that do paint a picture of a fearful warrior god who demanded human sacrifices. According to a document written in the 9th century, Worshippers of Toutatis used to plunge his victims headfirst into a vat of liquid until drowned.
 
-What is furthermore fascinating about the rings is that their distribution highlights the tribal territory of the Iron Age tribe that existed at the time of the Roman conquest. The tribe known from inscriptions were called the [Corieltauvi](http://finds.org.uk/ironagecoins/tribes/tribe/id/21/), and they covered the region east of the River Trent through Lincolnshire, Nottinghamshire and Leicestershire.
+What is furthermore fascinating about the rings is that their distribution highlights the tribal territory of the Iron Age tribe that existed at the time of the Roman conquest. The tribe known from inscriptions were called the [Corieltauvi](https://finds.org.uk/ironagecoins/tribes/tribe/id/21/), and they covered the region east of the River Trent through Lincolnshire, Nottinghamshire and Leicestershire.
 
 [View Larger Map](http://maps.google.co.uk/maps/ms?ie=UTF8&hl=en&msa=0&msid=116306886908374624744.000001131f2ea67503eff&om=1&ll=47.887408,12.045307&spn=12.150282,26.490439&source=embed)
 

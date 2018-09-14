@@ -6,7 +6,7 @@ category: central-unit
 ---
 
 <div class="post-670 post type-post status-publish format-standard hentry category-news" id="post-670">
-    <h2><a href="http://finds.org.uk/blogs/centralunit/2005/08/17/welcome-to-the-schemes-blog/" rel="bookmark"
+    <h2><a href="https://finds.org.uk/blogs/centralunit/2005/08/17/welcome-to-the-schemes-blog/" rel="bookmark"
            title="Permanent Link to Welcome to the Scheme's blog">Welcome to the Scheme's blog</a></h2>
     <small>August 17th, 2005 by daniel pett</small>
 
@@ -20,8 +20,8 @@ category: central-unit
             That’s all for now folks.<br>
             DanDan</p></div>
 
-    <p class="postmetadata"> Posted in <a href="http://finds.org.uk/blogs/centralunit/category/news/"
+    <p class="postmetadata"> Posted in <a href="https://finds.org.uk/blogs/centralunit/category/news/"
                                           title="View all posts in News" rel="category tag">News</a> | <a
-            href="http://finds.org.uk/blogs/centralunit/2005/08/17/welcome-to-the-schemes-blog/#respond"
+            href="https://finds.org.uk/blogs/centralunit/2005/08/17/welcome-to-the-schemes-blog/#respond"
             title="Comment on Welcome to the Scheme's blog">Comments (0)</a></p>
 </div>

@@ -13,7 +13,7 @@ An inquest was opened at St Pancras Coroner’s Court on Monday, 18 October 2010
 
 The inquest has been opened to determine whether the hoard qualifies as Treasure.  Because the coins are less than 300 years’ old, in order to qualify as Treasure they need to meet the following criteria:
 
-[![The group of American gold coins from Hackney](/files/2010/10/2007T365-on-black-background-small1-300x225.jpg "The group of American gold coins from Hackney")](http://farm5.static.flickr.com/4113/5092576337_335dcec922_z.jpg)
+[![The group of American gold coins from Hackney]({{ site.baseurl }}/files/2010/10/2007T365-on-black-background-small1-300x225.jpg "The group of American gold coins from Hackney")](http://farm5.static.flickr.com/4113/5092576337_335dcec922_z.jpg)
 
 1. Made of gold or silver
 
@@ -43,7 +43,7 @@ Dr Barrie Cook of the British Museum (Department of Coins and Medals) stated in 
 
 A catalogue of the hoard runs as follows:
 
-[![A close-up of a selection of the coins](/files/2010/10/2007T365-close-up-small1-300x199.jpg "A close-up of a selection of the coins")](http://farm5.static.flickr.com/4089/5092576061_eb11cbb662_z.jpg)
+[![A close-up of a selection of the coins]({{ site.baseurl }}/files/2010/10/2007T365-close-up-small1-300x199.jpg "A close-up of a selection of the coins")](http://farm5.static.flickr.com/4089/5092576061_eb11cbb662_z.jpg)
 
 _Date                 Mint            Total number in find_
 

@@ -9,7 +9,7 @@ Donation of a Roman Coin Hoard
 ------------------------------
 Roman coins may be the most commonly recorded artefacts with the Portable Antiquities Scheme, but it’s not every day that someone discovers a hoard of almost 700 debased silver radiates and the pot they were buried in. Mick Green, the finder of just such a hoard in Brighstone on the Isle of
 
-[![Coins and potshers from the Brighstone Hoard](/files/2013/06/2011-T74-coins-and-pottery-150x150.jpg)](/files/2013/06/2011-T74-coins-and-pottery.jpg)
+[![Coins and potshers from the Brighstone Hoard]({{ site.baseurl }}/files/2013/06/2011-T74-coins-and-pottery-150x150.jpg)]({{ site.baseurl }}/files/2013/06/2011-T74-coins-and-pottery.jpg)
 
 Coins and potshers from the Brighstone Hoard
 

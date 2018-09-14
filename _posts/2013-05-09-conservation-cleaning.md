@@ -8,7 +8,7 @@ author: Anna Tam
 Conservation Cleaning
 ---------------------
 
-![](/files/2012/11/14-1024x532.jpg)
+![]({{ site.baseurl }}/files/2012/11/14-1024x532.jpg)
 
 To reveal important surface information (as described in the previous blog post), the coins have to be cleaned of surface dirt and corrosion products. This is done using a combination of two treatments; **chemical** and **mechanical cleaning. **
 
@@ -20,9 +20,9 @@ Two different chemical treatments are employed to clean the coins depending on t
 
 Chemical cleaning allows for large batches of coins to be cleaned at once, which is critical when cleaning such a large hoard. The conservator carefully monitors changes in the coins appearance and condition during chemical cleaning to ensure that the coins are not ‘over cleaned’. All coins which have been chemically cleaned are thoroughly rinsed with water to remove any traces of chemicals.
 
-[![chemical cleaning beaker](/files/2013/04/chemical-cleaning-beaker-300x297.jpg)](/files/2013/04/chemical-cleaning-beaker.jpg)
+[![chemical cleaning beaker]({{ site.baseurl }}/files/2013/04/chemical-cleaning-beaker-300x297.jpg)]({{ site.baseurl }}/files/2013/04/chemical-cleaning-beaker.jpg)
 
-[![Coins in Alkaline Rochelle solution. This helps to reduce the level of blue/green copper carbonates.](/files/2013/04/chemical-cleaning1-300x209.jpg)](/files/2013/04/chemical-cleaning1.jpg)
+[![Coins in Alkaline Rochelle solution. This helps to reduce the level of blue/green copper carbonates.]({{ site.baseurl }}/files/2013/04/chemical-cleaning1-300x209.jpg)]({{ site.baseurl }}/files/2013/04/chemical-cleaning1.jpg)
 
 Coins in Alkaline Rochelle solution. This helps to reduce the level of blue/green copper carbonates.
 
@@ -30,14 +30,14 @@ Coins in Alkaline Rochelle solution. This helps to reduce the level of blue/gree
 
 Mechanical cleaning is required when coins have small patches of corrosion obscuring important details.  Coins with low levels of corrosion may not need chemical treatment, but will most likely require some mechanical cleaning.  All coins which have been chemically cleaned require some form of mechanical cleaning.
 
-[![Production line of Dremel rotary brushing. ](/files/2013/04/P4030003-300x225.jpg)](/files/2013/04/P4030003.jpg)
+[![Production line of Dremel rotary brushing. ]({{ site.baseurl }}/files/2013/04/P4030003-300x225.jpg)]({{ site.baseurl }}/files/2013/04/P4030003.jpg)
 
 Production line of Dremel rotary brushing.
 
 Mechanical cleaning involves reducing corrosion products with a scalpel under magnification and brushing to remove surface corrosion product residue.  The photo above shows a production line of conservators using natural fibre dental brushes, on rotary Dremels® . This allows for a greater quantity of coins to be brushed at one time, and is more efficient than brushing them by hand.
 
-[![Following chemical cleaning the coins corrosion and dirt residues remain on the coin. This coin has been half brushed to demonstrate the difference in legibility before and after. ](/files/2012/12/brushing-from-CSRmtg-ppt-297x300.png)](/files/2012/12/brushing-from-CSRmtg-ppt.png)
+[![Following chemical cleaning the coins corrosion and dirt residues remain on the coin. This coin has been half brushed to demonstrate the difference in legibility before and after. ]({{ site.baseurl }}/files/2012/12/brushing-from-CSRmtg-ppt-297x300.png)]({{ site.baseurl }}/files/2012/12/brushing-from-CSRmtg-ppt.png)
 
 Following chemical cleaning corrosion and dirt residues remain on the coin. This coin has been brushed on one half to demonstrate the difference in legibility before and after.
 
-[May 9, 2013](http://finds.org.uk/blogs/blog/2013/05/09/conservation-cleaning/ "10:33 am")  [Ana Tam](http://finds.org.uk/blogs/blog/author/atam/ "View all posts by Ana Tam") [Conservation](http://finds.org.uk/blogs/blog/category/conservation/) [Muse Records discography](http://finds.org.uk/blogs/blog/category/muse-records-discography/)   [Leave a comment](http://finds.org.uk/blogs/blog/2013/05/09/conservation-cleaning/#respond "Comment on Conservation Cleaning")
+[May 9, 2013](https://finds.org.uk/blogs/blog/2013/05/09/conservation-cleaning/ "10:33 am")  [Ana Tam](https://finds.org.uk/blogs/blog/author/atam/ "View all posts by Ana Tam") [Conservation](https://finds.org.uk/blogs/blog/category/conservation/) [Muse Records discography](https://finds.org.uk/blogs/blog/category/muse-records-discography/)   [Leave a comment](https://finds.org.uk/blogs/blog/2013/05/09/conservation-cleaning/#respond "Comment on Conservation Cleaning")

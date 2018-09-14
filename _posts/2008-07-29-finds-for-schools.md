@@ -5,7 +5,7 @@ published: 2008-07-29T21:05:12+00:00
 
 # Finds for Schools
 
-[](/files/2008/07/tim-and-dave.jpg)[![](/files/2008/07/tim-and-dave-300x225.jpg "tim-and-dave-300x225")](/files/2008/07/tim-and-dave-300x225.jpg)
+[]({{ site.baseurl }}/files/2008/07/tim-and-dave.jpg)[![]({{ site.baseurl }}/files/2008/07/tim-and-dave-300x225.jpg "tim-and-dave-300x225")]({{ site.baseurl }}/files/2008/07/tim-and-dave-300x225.jpg)
 
 Dave and Tim
 

@@ -20,14 +20,14 @@ published: 2010-07-26T20:34:23+00:00
             recorded by Tom Brindle, our acting <acronym title="Finds Liaison Officer">FLO</acronym> for Staffordshire
             and the West Midlands.</p>
 
-        <p><img style="float: right;" src="http://www.finds.org.uk/images/thumbnails/290816.jpg"
+        <p><img style="float: right;" src="https://finds.org.uk/images/thumbnails/290816.jpg"
                 alt="WMID-D6D183"><acronym title="The Portable Antiquities Scheme"><acronym
                 title="Portable Antiquities Scheme">PAS</acronym></acronym> record number: WMID-D6D183<br>
             Object type: Coin<br>
             Broadperiod: Roman<br>
             County of discovery: Shropshire<br>
-            Stable url: <a href="http://www.finds.org.uk/database/artefacts/record/id/400298"
-                           title="WMID-D6D183: a Roman Coin" class="liinternal">http://www.finds.org.uk/database/artefacts/record/id/400298</a>
+            Stable url: <a href="https://finds.org.uk/database/artefacts/record/id/400298"
+                           title="WMID-D6D183: a Roman Coin" class="liinternal">https://finds.org.uk/database/artefacts/record/id/400298</a>
         </p>
 
         <p>Several FLOs expressed dismay, that the object was a Roman coin and a metal detector find, I think they were

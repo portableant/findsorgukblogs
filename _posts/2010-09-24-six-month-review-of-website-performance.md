@@ -12,14 +12,14 @@ published: 2010-09-24
     <small>September 24th, 2010 by Daniel Pett</small>
 
     <div class="entry">
-        <p><img class="flow" title="The Crosby Garrett Helmet" src="http://finds.org.uk/documents/image/19269498b.jpg"
+        <p><img class="flow" title="The Crosby Garrett Helmet" src="https://finds.org.uk/documents/image/19269498b.jpg"
                 alt="The Crosby Garrett Helmet" width="300" height="423"></p>
 
         <p>The Scheme’s new website has been online now for 6 months and I’ve been looking at the performance and costs
             incurred during this period. We’ve had several large discoveries since the site went live – the <a
-                    href="http://finds.org.uk/database/artefacts/record/id/387181" title="Frome Hoard record"
+                    href="https://finds.org.uk/database/artefacts/record/id/387181" title="Frome Hoard record"
                     class="liinternal">Frome Hoard</a> and the <a
-                    href="http://finds.org.uk/database/artefacts/record/id/404767" title="The Roman helmet record"
+                    href="https://finds.org.uk/database/artefacts/record/id/404767" title="The Roman helmet record"
                     class="liinternal">Crosby Garrett Roman Helmet</a> for instance. However, they aren’t typical
             objects so we don’t get the big spikes in referral from large news aggregators or providers daily. I’m a
             little disappointed that web traffic hasn’t grown significantly since we went live with the new site, but
@@ -39,9 +39,9 @@ published: 2010-09-24
                 <p></p>
 
                 <div id="attachment_1006" class="wp-caption alignnone" style="width: 310px"><a
-                        href="/files/2010/09/pattern.jpg" class="liimagelink"
+                        href="{{ site.baseurl }}/files/2010/09/pattern.jpg" class="liimagelink"
                         rel="lightbox[990]"><img class="size-medium wp-image-1006" title="Typical weekly pattern"
-                                                 src="/files/2010/09/pattern-300x44.jpg"
+                                                 src="{{ site.baseurl }}/files/2010/09/pattern-300x44.jpg"
                                                  alt="Typical weekly pattern" width="300" height="44"></a>
 
                     <p class="wp-caption-text">Typical weekly pattern</p></div>
@@ -89,7 +89,7 @@ published: 2010-09-24
                         title="eXtensible Markup Language">XML</acronym>/JSON/KML functions and feeds.
             </li>
             <li>A more detailed breakdown can be found in <a
-                    href="/files/2010/09/findsorguk.pdf" class="lipdf">this
+                    href="{{ site.baseurl }}/files/2010/09/findsorguk.pdf" class="lipdf">this
                 <acronym title="Portable Document Format">PDF</acronym></a></li>
         </ul>
         <h4>New functions</h4>
@@ -102,9 +102,9 @@ published: 2010-09-24
                 for Parliamentary data
                 <ul>
                     <li>Finds by constituency boundary, for example the <a
-                            href="http://finds.org.uk/news/theyworkforyou/finds/constituency/Arundel+and+South+Downs"
+                            href="https://finds.org.uk/news/theyworkforyou/finds/constituency/Arundel+and+South+Downs"
                             class="liinternal">Arundel consituency</a></li>
-                    <li>Data on local MP, for example <a href="http://finds.org.uk/news/theyworkforyou/mp/id/10777"
+                    <li>Data on local MP, for example <a href="https://finds.org.uk/news/theyworkforyou/mp/id/10777"
                                                          title="David Cameron's details" class="liinternal">David
                         Cameron</a></li>
                     <li>Number of Scheduled monuments within boundary</li>
@@ -112,7 +112,7 @@ published: 2010-09-24
             </li>
             <li>Heavy use of YQL throughout the website
                 <ul>
-                    <li><a href="http://www.finds.org.uk/flickr" class="liinternal">Flickr images</a> pulled in</li>
+                    <li><a href="https://finds.org.ukflickr" class="liinternal">Flickr images</a> pulled in</li>
                     <li>Oauth YQL calls to make use of Yahoo! geo functions</li>
                 </ul>
             </li>
@@ -122,7 +122,7 @@ published: 2010-09-24
             <li>Integrated Geoplanet’s data into database backend from their data dump</li>
             <li>Added old OS maps from the National Library of Scotland (these are great and easy to implement) to most
                 of our maps, for example a search for ‘<a
-                        href="http://finds.org.uk/database/search/map/description/sompting"
+                        href="https://finds.org.uk/database/search/map/description/sompting"
                         title="Sompting finds mapped" class="liinternal">Sompting</a>‘ axeheads and click on
                 ‘historical’
             </li>
@@ -131,7 +131,7 @@ published: 2010-09-24
             </li>
             <li>Integrated the English Heritage Scheduled Monuments dataset (only available to higher level users.)</li>
             <li>Pulled in data from Amazon for our references (prices, book cover art etc) for example <a
-                    href="http://finds.org.uk/database/publications/publication/id/1390"
+                    href="https://finds.org.uk/database/publications/publication/id/1390"
                     title="View a reference with Amazon data pulled in" class="liinternal">‘Toys, trifles and
                 trinkets’</a> by Egan and Forsyth
             </li>
@@ -145,14 +145,14 @@ published: 2010-09-24
             </li>
             <li>Used some semantic techniques (<acronym
                     title="Friend Of A Friend is a RDF dialect for describing relationships">FOAF</acronym> for example
-                – our <a href="http://www.finds.org.uk/contacts/" class="liinternal">contacts</a> page uses this in
+                – our <a href="https://finds.org.ukcontacts/" class="liinternal">contacts</a> page uses this in
                 rdfa)
             </li>
             <li>Context switched formats for a wide array of pages across the site</li>
-            <li>Got <a href="http://www.finds.org.uk/database/oai" title="Get access to our oai interface"
+            <li>Got <a href="https://finds.org.uk/database/oai" title="Get access to our oai interface"
                        class="liinternal">OAI access</a> working
             </li>
-            <li>Created extensive <a href="http://www.finds.org.uk/info/sitemap" title="Our sitemap index file"
+            <li>Created extensive <a href="https://finds.org.ukinfo/sitemap" title="Our sitemap index file"
                                      class="liinternal">sitemaps</a> for search indexing
             </li>
         </ul>
@@ -165,7 +165,7 @@ published: 2010-09-24
             functions that allowed the public to record their own objects, and this has resulted in the addition of 740
             records from 32 recorders. We expect this number to increase following the release of an instructional guide
             produced by our Kent FLA and <acronym title="Finds Liaison Officer">FLO</acronym> – (Jess Bryan and <a
-                    href="http://finds.org.uk/contacts/staff/profile/id/123" title="Jen's profile" class="liinternal">Jen
+                    href="https://finds.org.uk/contacts/staff/profile/id/123" title="Jen's profile" class="liinternal">Jen
                 Jackson</a>).</p>
         <h4>Users</h4>
 
@@ -184,23 +184,23 @@ published: 2010-09-24
 
         <p>58 new research projects have been added to our research register with the following levels of activity:</p>
         <ul>
-            <li><a href="http://finds.org.uk/research/projects/level/1/Undergraduate" class="liinternal">7
+            <li><a href="https://finds.org.uk/research/projects/level/1/Undergraduate" class="liinternal">7
                 Undergraduate</a></li>
-            <li><a href="http://finds.org.uk/research/projects/level/2/Masters+degree" class="liinternal">20 Masters
+            <li><a href="https://finds.org.uk/research/projects/level/2/Masters+degree" class="liinternal">20 Masters
                 degree</a></li>
-            <li><a href="http://finds.org.uk/research/projects/level/3/PhD+level+research" class="liinternal">12 PhD
+            <li><a href="https://finds.org.uk/research/projects/level/3/PhD+level+research" class="liinternal">12 PhD
                 level research</a></li>
-            <li><a href="http://finds.org.uk/research/projects/level/4/Large+scale+research+AHRC" class="liinternal">3
+            <li><a href="https://finds.org.uk/research/projects/level/4/Large+scale+research+AHRC" class="liinternal">3
                 Large scale research AHRC</a></li>
-            <li><a href="http://finds.org.uk/research/projects/level/5/Major+publication" class="liinternal">3 Major
+            <li><a href="https://finds.org.uk/research/projects/level/5/Major+publication" class="liinternal">3 Major
                 publication</a></li>
-            <li><a href="http://finds.org.uk/research/projects/level/6/Magazine+journal+article" class="liinternal">1
+            <li><a href="https://finds.org.uk/research/projects/level/6/Magazine+journal+article" class="liinternal">1
                 Magazine/journal article</a></li>
-            <li><a href="http://finds.org.uk/research/projects/level/7/Desk+based+assessment" class="liinternal">1 Desk
+            <li><a href="https://finds.org.uk/research/projects/level/7/Desk+based+assessment" class="liinternal">1 Desk
                 based assessment</a></li>
-            <li><a href="http://finds.org.uk/research/projects/level/9/Personal+research+project" class="liinternal">10
+            <li><a href="https://finds.org.uk/research/projects/level/9/Personal+research+project" class="liinternal">10
                 Personal research project</a></li>
-            <li><a href="http://finds.org.uk/research/projects/level/10/Archaeology+society+project" class="liinternal">1
+            <li><a href="https://finds.org.uk/research/projects/level/10/Archaeology+society+project" class="liinternal">1
                 Archaeology society project</a></li>
         </ul>
         <p>962,601 searches have been performed since relaunch. We’ve had 132 reports of incorrect data being published

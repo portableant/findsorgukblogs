@@ -1,16 +1,16 @@
 ---
 layout: default
-author: Daniel Pett]
+author: Daniel Pett
 category: central-unit
 published: 2005-10-20
 ---
 
-[Finding a Lost Emperor in a Clay Pot](/2005/10/20/lostemperor/ "Permanent Link to Finding a Lost Emperor in a Clay Pot")
--------------------------------------------------------------------------------------------------------------------------
+Finding a Lost Emperor in a Clay Pot
+------------------------------------
 
 October 20th, 2005 by daniel pett
 
-[![](/files/2005/10/domitianus.jpg "domitianus")](/files/2005/10/domitianus.jpg)
+[![]({{ site.baseurl }}/files/2005/10/domitianus.jpg "domitianus")]({{ site.baseurl }}/files/2005/10/domitianus.jpg)
 
 Coin of Domitianus
 

@@ -9,7 +9,7 @@ category: central-unit
 
 October 20th, 2005 by daniel pett
 
-[![The People's Network homepage](/files/2005/10/ppns.jpg "ppns")](/files/2005/10/ppns.jpg)
+[![The People's Network homepage]({{ site.baseurl }}/files/2005/10/ppns.jpg "ppns")]({{ site.baseurl }}/files/2005/10/ppns.jpg)
 
 The PNDS website
 

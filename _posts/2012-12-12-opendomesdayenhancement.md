@@ -28,9 +28,9 @@ title: Adding Open Domesday data to object records
             displayed below.</p>
 
         <div id="attachment_111" class="wp-caption alignnone" style="width: 471px"><a
-                href="/files/2012/12/openDomesDay.png" class="liimagelink"
+                href="{{ site.url }}{{ site.baseurl }}/files/2012/12/openDomesDay.png" class="liimagelink"
                 rel="lightbox[110]"><img class="size-full wp-image-111" alt="Open Domesday data added to a record"
-                                         src="/files/2012/12/openDomesDay.png" width="461"
+                                         src="{{ site.baseurl }}/files/2012/12/openDomesDay.png" width="461"
                                          height="142"></a>
 
             <p class="wp-caption-text">Open Domesday data added to a record</p></div>
