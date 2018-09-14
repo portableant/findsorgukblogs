@@ -4,6 +4,10 @@ title: Querying Seneschal for uris for reuse
 published: 2013-07-31
 author: Daniel Pett
 ---
+
+Querying Seneschal for uris for reuse
+-------------------------------------
+
 I’m currently working on mapping PAS data to the [CIDOC-CRM](http://www.cidoc-crm.org/) and I’m trying to align our thesauri with the [SENESCHAL](http://www.heritagedata.org/blog/about-heritage-data/seneschal/) uris. To get the all the URIs from their system, run this SPARQL query on their [endpoint](http://heritagedata.org/test/sparql.php) with the URI, preferred label and scope note being obtained. I can then dump these into my database or create a CSV file easily from the results to reference later.
 
 ### FISH object thesaurus

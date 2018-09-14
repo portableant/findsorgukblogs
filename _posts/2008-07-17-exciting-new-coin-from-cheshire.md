@@ -1,12 +1,14 @@
 ---
 layout: default
 published: 2008-07-17T12:42:17+00:00
+title: Exciting New Coin from Cheshire!!
+author: Frances McIntosh
 ---
 
-[Exciting New Coin from Cheshire!!](http://finds.org.uk/blogs/northwest/2008/07/17/exciting-new-coin-from-cheshire/ "Link to Exciting New Coin from Cheshire!!")
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Exciting New Coin from Cheshire!!
+---------------------------------
 
-[](/files/2008/07/pay-106.jpg)[![](http://finds.org.uk/blogs/northwest/files/2008/07/pay-106-300x205.jpg "pay-106")](http://finds.org.uk/blogs/northwest/files/2008/07/pay-106.jpg)
+[](/files/2008/07/pay-106.jpg)[![](/files/2008/07/pay-106-300x205.jpg "pay-106")](/files/2008/07/pay-106.jpg)
 
 As promised here are more details about the Quadrans which was recorded with me from Cheshire. I have been really lucky as this is my 2nd one of these in less than 18 months (there are less than 10 on the PAS database I think).
 
@@ -18,4 +20,3 @@ Obverse- Laureate head right
 
 Reverse- Two clasped hands, holding cauceus and two corn ears
 
-[July 17, 2008](http://finds.org.uk/blogs/northwest/2008/07/17/exciting-new-coin-from-cheshire/ "12:42 pm")  [Frances McIntosh](http://finds.org.uk/blogs/blog/author/frances-mcintosh/ "View all posts by Frances McIntosh") [coin](http://finds.org.uk/blogs/blog/category/coin/) [find](http://finds.org.uk/blogs/blog/category/find/) [Romans](http://finds.org.uk/blogs/blog/category/romans/) [Rome](http://finds.org.uk/blogs/blog/category/rome/)   [Leave a comment](http://finds.org.uk/blogs/northwest/2008/07/17/exciting-new-coin-from-cheshire/#respond "Comment on Exciting New Coin from Cheshire!!")

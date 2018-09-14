@@ -3,8 +3,8 @@ layout: default
 published: 2008-06-06T13:23:19+00:00
 ---
 
-[All change in Cheshire, Greater Manchester and Merseyside](http://finds.org.uk/blogs/northwest/2008/06/06/all-change-in-cheshire-greater-manchester-and-merseyside/ "Link to All change in Cheshire, Greater Manchester and Merseyside")
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+All change in Cheshire, Greater Manchester and Merseyside
+---------------------------------------------------------
 
 This is just to update people as to the FLO post for these 3 counties. From September I will be going part time in order to start an MLitt at Newcastle University. There will hopefully be someone else coming in part time so that the post is still going to be filled full time.
 
@@ -12,4 +12,3 @@ To keep things organised the area will be split geographically- at least for clu
 
 The museums will still be visited once a month and the clubs every 3 months as I have been doing so there should be no real disruption to routines, some people will just have a new person to meet. We will both still be based at Liverpool as I am now and so people can come into that office.
 
-[June 6, 2008](http://finds.org.uk/blogs/northwest/2008/06/06/all-change-in-cheshire-greater-manchester-and-merseyside/ "1:23 pm")  [daniel pett](http://finds.org.uk/blogs/blog/author/daniel-pett/ "View all posts by daniel pett") [County news](http://finds.org.uk/blogs/blog/category/county-news/)   [Leave a comment](http://finds.org.uk/blogs/northwest/2008/06/06/all-change-in-cheshire-greater-manchester-and-merseyside/#respond "Comment on All change in Cheshire, Greater Manchester and Merseyside")

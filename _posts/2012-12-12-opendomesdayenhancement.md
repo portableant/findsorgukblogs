@@ -1429,31 +1429,7 @@ echo $this-&gt;domesdayNear($lat, $lng, $radius);
                 </table>
             </div>
         </div>
-        <!-- [Format Time: 0.0568 seconds] -->
         <p>&nbsp;</p>
-
-        <p><span class="st_facebook_buttons" st_title="Adding Open Domesday data to object records"
-                 st_url="/2012/12/12/opendomesdayenhancement/"
-                 displaytext="Facebook"></span><span class="st_twitter_buttons"
-                                                     st_title="Adding Open Domesday data to object records"
-                                                     st_url="/2012/12/12/opendomesdayenhancement/"
-                                                     displaytext="Twitter"></span><span class="st_email_buttons"
-                                                                                        st_title="Adding Open Domesday data to object records"
-                                                                                        st_url="/2012/12/12/opendomesdayenhancement/"
-                                                                                        displaytext="Email"></span><span
-                class="st_sharethis_buttons" st_title="Adding Open Domesday data to object records"
-                st_url="/2012/12/12/opendomesdayenhancement/"
-                displaytext="ShareThis"></span><span class="st_fblike_buttons"
-                                                     st_title="Adding Open Domesday data to object records"
-                                                     st_url="/2012/12/12/opendomesdayenhancement/"
-                                                     displaytext="Facebook Like"></span><span class="st_plusone_buttons"
-                                                                                              st_title="Adding Open Domesday data to object records"
-                                                                                              st_url="/2012/12/12/opendomesdayenhancement/"
-                                                                                              displaytext="Google +1"></span><span
-                class="st_pinterest _buttons" st_title="Adding Open Domesday data to object records"
-                st_url="/2012/12/12/opendomesdayenhancement/"
-                displaytext="Pinterest"></span></p></div>
-    <!-- .entry-content -->
 
 
 </article>

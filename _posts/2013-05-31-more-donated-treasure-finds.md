@@ -5,8 +5,8 @@ title: More donated treasure finds
 author: Ian Richardson
 ---
 
-[More donated treasure finds](http://finds.org.uk/blogs/blog/2013/05/31/more-donated-treasure-finds/ "Link to More donated treasure finds")
--------------------------------------------------------------------------------------------------------------------------------------------
+More donated treasure finds
+---------------------------
 
 Here are two more recent finds reported under the Treasure Act which were able to be acquired by museums after the finders and landowners kindly waived their right to a reward.[![2012T640_Roman_Brooch](/files/2013/05/2012T640_Roman_Brooch-150x150.jpg)](/files/2013/05/2012T640_Roman_Brooch.jpg)
 

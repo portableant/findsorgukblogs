@@ -4,8 +4,9 @@ published: 2013-06-04T13:35:09+00:00
 title: Wonderful,wonderful Copenhagen!
 author: Philippa Walton
 ---
-[Wonderful, wonderful Copenhagen!](http://finds.org.uk/blogs/blog/2013/06/04/wonderful-wonderful-copenhagen/ "Link to Wonderful, wonderful Copenhagen!")
---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Wonderful, wonderful Copenhagen!
+--------------------------------
 
 Things have been very quiet on the Piercebridge front recently, as I’ve been grappling with a chapter on the function of coinage in Roman Britain and more than 2600 coins from Old Winteringham in Lincolnshire!
 

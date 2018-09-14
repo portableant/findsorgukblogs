@@ -4,8 +4,9 @@ title: Conservation Cleaning
 published: 2013-05-09T10:33:05+00:00
 author: Anna Tam
 ---
-[Conservation Cleaning](http://finds.org.uk/blogs/blog/2013/05/09/conservation-cleaning/ "Link to Conservation Cleaning")
--------------------------------------------------------------------------------------------------------------------------
+
+Conservation Cleaning
+---------------------
 
 ![](/files/2012/11/14-1024x532.jpg)
 

@@ -4,8 +4,8 @@ published: 2010-10-18
 author: Ian Richardson 
 ---
 
-[Inquest opened for Gold American Coins from Hackney, Greater London](/double-eagles/ "Permanent Link to Inquest opened for Gold American Coins from Hackney, Greater London")
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Inquest opened for Gold American Coins from Hackney, Greater London
+-------------------------------------------------------------------
 
 October 18th, 2010 by Ian Richardson
 

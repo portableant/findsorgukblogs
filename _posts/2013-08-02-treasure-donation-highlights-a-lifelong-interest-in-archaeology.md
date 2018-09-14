@@ -3,6 +3,10 @@ title: Treasure donation highlights a lifelong interest in archaeology
 layout: default
 published: 2013-08-02T09:57:29+00:00
 ---
+
+Treasure donation highlights a lifelong interest in archaeology
+---------------------------------------------------------------
+
 Earlier this year, Dr Stephen Hammond discovered an [Anglo-Saxon silver pyramid-shaped sword scabbard moun](http://finds.org.uk/database/artefacts/record/id/538684)[t ](http://finds.org.uk/database/artefacts/record/id/538684)in Heacham,
 
 [![Anglo-Saxon silver scabbard mount](http://finds.org.uk/blogs/treasure/files/2013/08/2013T75-A-S-Sword-Mount-150x150.jpg)](http://finds.org.uk/blogs/treasure/files/2013/08/2013T75-A-S-Sword-Mount.jpg)

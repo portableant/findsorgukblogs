@@ -5,8 +5,8 @@ author: Steve Ashby
 published: 2008-07-18T14:46:24+00:00
 ---
 
-[Northants Review Part III: The Roman Period](/2008/07/18/northants-review-part-iii-the-roman-period/ "Link to Northants Review Part III: The Roman Period")
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Northants Review Part III: The Roman Period
+-------------------------------------------
 
 Hello again! We’re back with a review of the data from Roman Northants; thanks again to my assistant Katie Robbins for all her backgound research.
 
@@ -61,5 +61,3 @@ There was also an amazingly intricately cast steelyard weight ([NARC-8D6343](htt
 On the subject of trade, let’s not forget the coins. Quite apart from all the ‘grot’ (as the number of Roman coins from Northants to date stands at 3351 records, it is really starting to provide an invaluable resource for understanding economy and settlement in Roman Northamptonshire), we’ve had one or two coins that are notable in aesthetic and numismatic terms, including unusual nummi ([NARC-8CF536](http://www.findsdatabase.org.uk/hms/pas_obj.php?type=finds&id=0014378D036012CD "Rare nummus") and [NARC-78D771](http://www.findsdatabase.org.uk/hms/pas_obj.php?type=finds&id=0014357909901B75 "Magnentius nummus")), and rare silver denarii of Marc Antony ([NARC-E2D310](http://www.findsdatabase.org.uk/hms/pas_obj.php?type=finds&id=001434E34100145D "Antony denarius")) and Antoninus Pius ([NARC-A3E503](http://www.findsdatabase.org.uk/hms/pas_obj.php?type=finds&id=001436A411601500 "Silver denarius")).
 
 [](/files/2008/07/roman-radiate.jpg)[![](/files/2008/07/roman-radiate-300x238.jpg "roman-radiate")](/files/2008/07/roman-radiate.jpg)Recently, we had this unusual [barbarous coin](http://www.findsdatabase.org.uk/hms/pas_obj.php?type=finds&id=001485A42A201AC9 "Salonina radiate"), copying a radiate of Salonina (wife of Gallienus). There is only one coin like this in the entire Cunetio hoard! It might not look like much to most of us, but Sam, the PAS’s coin guru at the BM, picked it out. So please don’t forget to show us your grot! Bring it in, bring it in, bring it in!
-
-[July 18, 2008](/2008/07/18/northants-review-part-iii-the-roman-period/ "2:46 pm") [Steve Ashby](http://finds.org.uk/blogs/blog/author/steve-ashby/ "View all posts by Steve Ashby") [archaeology](http://finds.org.uk/blogs/blog/category/archaeology/) [archeology](http://finds.org.uk/blogs/blog/category/archeology/) [arkeologi](http://finds.org.uk/blogs/blog/category/arkeologi/) [Finds](http://finds.org.uk/blogs/blog/category/finds/) [northamptonshire](http://finds.org.uk/blogs/blog/category/northamptonshire/) [Research](http://finds.org.uk/blogs/blog/category/research/) [roman](http://finds.org.uk/blogs/blog/category/roman/)

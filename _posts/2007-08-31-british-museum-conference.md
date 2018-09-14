@@ -5,8 +5,8 @@ published: 2007/08/31
 author: Daniel Pett
 ---
 
-[Archaeology 2008 – A conference at the British Museum](http://finds.org.uk/blogs/appliednumismatics/2007/08/31/callforpapers/ "Link to Archaeology 2008 – A conference at the British Museum")
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Archaeology 2008 – A conference at the British Museum
+-----------------------------------------------------
 
 Archaeology 2008 – A conference at the British Museum, 9th-10th February 2008:
 
@@ -23,5 +23,4 @@ British Museum
 London, WC1B 3DG  
 020 7323 8432
 
-[August 31, 2007](http://finds.org.uk/blogs/appliednumismatics/2007/08/31/callforpapers/ "11:29 am")  [Sam Moorhead](http://finds.org.uk/blogs/appliednumismatics/author/sam/ "View all posts by Sam Moorhead") [Conferences](http://finds.org.uk/blogs/appliednumismatics/category/conferences/)   [Leave a comment](http://finds.org.uk/blogs/appliednumismatics/2007/08/31/callforpapers/#respond "Comment on Archaeology 2008 – A conference at the British Museum")
    
