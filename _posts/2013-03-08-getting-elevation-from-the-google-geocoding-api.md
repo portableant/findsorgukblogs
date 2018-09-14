@@ -106,18 +106,10 @@ To use this in your code do the below:
 
 Use the service class
 
-
-
-$api = new Pas\_Service\_Geo\_Elevation(); $elevation = $api->getElevation($data\['declong'\], $data\['declat'\]);
-
-1
-
-2
-
-$api  \=  new  Pas\_Service\_Geo\_Elevation();
-
-$elevation  \=  $api\->getElevation($data\['declong'\],  $data\['declat'\]);
+    $api = new Pas\_Service\_Geo\_Elevation(); $elevation = $api->getElevation($data\['declong'\], $data\['declat'\]);
+    
+    $api  \=  new  Pas\_Service\_Geo\_Elevation();
+    
+    $elevation  \=  $api\->getElevation($data\['declong'\],  $data\['declat'\]);
 
 Pretty simple.
-
-[March 8, 2013](https://finds.org.uk/blogs/labs/2013/03/08/getting-elevation-from-the-google-geocoding-api/ "12:11 pm") [Daniel Pett](https://finds.org.uk/blogs/labs/author/admin/ "View all posts by Daniel Pett") [Mapping](https://finds.org.uk/blogs/labs/category/mapping/) [php](https://finds.org.uk/blogs/labs/category/php-2/)  [elevation](https://finds.org.uk/blogs/labs/tag/elevation/) [Google](https://finds.org.uk/blogs/labs/tag/google/)   [Leave a comment](https://finds.org.uk/blogs/labs/2013/03/08/getting-elevation-from-the-google-geocoding-api/#respond "Comment on Getting elevation from the Google geocoding api")
