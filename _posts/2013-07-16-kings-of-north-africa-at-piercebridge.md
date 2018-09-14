@@ -4,6 +4,10 @@
  published: 2013-07-16
  author: Philippa Walton
  ---
+ 
+ Kings of North Africa at Piercebridge
+ -------------------------------------
+ 
  [![]({{ site.baseurl }}/files/2013/07/436-300x190.jpg)]({{ site.baseurl }}/files/2013/07/436.jpg)
  
  A bronze coin of Juba II of Numidia
