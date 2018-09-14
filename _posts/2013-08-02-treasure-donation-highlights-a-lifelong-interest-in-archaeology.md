@@ -9,7 +9,7 @@ Treasure donation highlights a lifelong interest in archaeology
 
 Earlier this year, Dr Stephen Hammond discovered an [Anglo-Saxon silver pyramid-shaped sword scabbard moun](http://finds.org.uk/database/artefacts/record/id/538684)[t ](http://finds.org.uk/database/artefacts/record/id/538684)in Heacham,
 
-[![Anglo-Saxon silver scabbard mount](/files/2013/08/2013T75-A-S-Sword-Mount-150x150.jpg)](/files/2013/08/2013T75-A-S-Sword-Mount.jpg)
+[![Anglo-Saxon silver scabbard mount](../files/2013/08/2013T75-A-S-Sword-Mount-150x150.jpg)](../files/2013/08/2013T75-A-S-Sword-Mount.jpg)
 
 Anglo-Saxon silver scabbard mount
 
