@@ -2,7 +2,11 @@
 layout: default
 title: Fund Launched to acquire the bitterley hoard
 author: Peter Reavill
+category: the-marches
 ---
+Fund Launched to acquire the bitterley hoard
+--------------------------------------------
+
 The Friends of Ludlow Museum are today launching a fund to acquire and conserve the Bitterley Hoard.
 
 [![Pot of Coins in the ground]({{ site.baseurl }}/files/2013/07/hoard-excavation-1024x768.jpg)]({{ site.baseurl }}/files/2013/07/hoard-excavation.jpg)

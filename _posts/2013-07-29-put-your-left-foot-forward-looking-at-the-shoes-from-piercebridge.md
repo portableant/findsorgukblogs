@@ -4,9 +4,8 @@ title: Put your left foot forward! Looking at the shoes from Piercebridge
 author: Philippa Walton
 ---
 
-[Put your left foot forward! Looking at the shoes from Piercebridge](https://finds.org.uk/blogs/blog/2013/07/29/put-your-left-foot-forward-looking-at-the-shoes-from-piercebridge/ "Link to Put your left foot forward! Looking at the shoes from Piercebridge")
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+Put your left foot forward! Looking at the shoes from Piercebridge
+------------------------------------------------------------------
 A couple of weeks ago, the project was lucky to have Dr Beth Greene, an expert in Roman shoes, from the University of Western Ontario, take a look at our small assemblage of leather from the river. She’s worked extensively on the Roman shoes from Vindolanda ([http://www.vindolanda.com/doorway-articles/life-at-vindolanda](http://www.vindolanda.com/doorway-articles/life-at-vindolanda)), so she’s well placed to study our footwear! Here’s what she has to say about them:
 
 [![Our Roman shoe expert, Beth Greene]({{ site.baseurl }}/files/2013/07/BethGreene-218x300.jpg)]({{ site.baseurl }}/files/2013/07/BethGreene.jpg)
@@ -24,5 +23,3 @@ A leather shoe, with fashionable paddle-shaped foot.
 Another shoe also follows the trends of the time with a very pointed toe. There are at least 6-10 cm. at the end of this insole that would never have been properly walked in, but exist in order to create a certain style for the shoe with a very elongated and pointed toe. This style became popular toward the end of the 2nd century. I often think these look a lot like modern ‘winklepickers’, a shoe style inspired by medieval French nobles and popular since the 1950s with rock and rollers, mods, goths, and punks—generally the footwear choice of many culturally alternative groups. I don’t think this is what the Romans had in mind. It was just a fashion trend as far as I surmise, but it just goes to show that the Romans were once again the innovators!
 
 With luck there will be more shoes to look at it to provide some statistically significant data. It’s early days right now and possibly pure coincidence, but one interesting detail is that all three shoes are left-footed, the inauspicious and evil side as far as the Romans were concerned (the Latin word for left is ‘sinistra’_,_ where we get the English word ‘sinister’). If I were giving away one shoe to the deity, I’d surely pick the one that brings bad luck!
-
-[July 29, 2013](https://finds.org.uk/blogs/blog/2013/07/29/put-your-left-foot-forward-looking-at-the-shoes-from-piercebridge/ "9:46 am") [Philippa Walton](https://finds.org.uk/blogs/blog/author/pwalton/ "View all posts by Philippa Walton") [People](https://finds.org.uk/blogs/blog/category/people/) [Project details](https://finds.org.uk/blogs/blog/category/project-details/) [Small finds](https://finds.org.uk/blogs/blog/category/small-finds/)   [Leave a comment](https://finds.org.uk/blogs/blog/2013/07/29/put-your-left-foot-forward-looking-at-the-shoes-from-piercebridge/#respond "Comment on Put your left foot forward! Looking at the shoes from Piercebridge")
