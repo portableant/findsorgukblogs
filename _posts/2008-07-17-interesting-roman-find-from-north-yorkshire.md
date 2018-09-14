@@ -2,7 +2,7 @@
 layout: default
 published: 2008-07-17T12:34:35+00:00
 title: Interesting Roman find from North Yorkshire
-author: 
+category: north-yorkshire
 ---
 
 Interesting Roman find from North Yorkshire

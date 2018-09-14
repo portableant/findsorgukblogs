@@ -3,6 +3,7 @@ layout: default
 author: Ian Richardson
 title: The right attitude
 published: 2013-07-12T14:49:49+00:00
+category: treasure
 ---
 The right attitude
 ------------------

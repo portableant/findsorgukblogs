@@ -2,6 +2,7 @@
 title: Treasure donation highlights a lifelong interest in archaeology
 layout: default
 published: 2013-08-02T09:57:29+00:00
+category: treasure
 ---
 
 Treasure donation highlights a lifelong interest in archaeology

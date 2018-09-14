@@ -2,6 +2,7 @@
 layout: default
 published: 2005-08-18T19:21:44+00:00
 author: Corrine Mills
+category: central-unit
 ---
 
 An experience not to be missed Monday 15th August

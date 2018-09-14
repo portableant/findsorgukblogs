@@ -3,6 +3,7 @@ layout: default
 title: Northamptonshire Archaeology Open Day
 published: 2008-03-21T01:29:37+00:00
 author: Steve Ashby
+category: northants
 ---
 
 Northamptonshire Archaeology Open Day

@@ -3,6 +3,7 @@ layout: default
 title: Ancient British cult of Totatis discovered in Lincolnshire
 published: 2007-07-12T13:53:41+00:00
 author: Adam Daubney
+category: lincolnshire
 ---
 
 Ancient British cult of Totatis discovered in Lincolnshire

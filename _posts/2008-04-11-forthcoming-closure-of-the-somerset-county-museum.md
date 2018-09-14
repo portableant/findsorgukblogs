@@ -1,6 +1,8 @@
 ---
 layout: default
 published: 2008-04-11T12:12:47+00:00
+category: somerset
+title: Forthcoming Closure of the Somerset County Museum
 ---
 
 Forthcoming Closure of the Somerset County Museum
@@ -14,4 +16,3 @@ Naomi will be moving to the Record Office in Obridge Road, Taunton, in August 20
 
 The Museum is due to reopen as the Museum of Somerset in August 2010.
 
-[April 11, 2008](https://finds.org.uk/blogs/somerset/2008/04/11/forthcoming-closure-of-the-somerset-county-museum/ "12:12 pm")  [daniel pett](https://finds.org.uk/blogs/blog/author/daniel-pett/ "View all posts by daniel pett") [Events](https://finds.org.uk/blogs/blog/category/events/)   [Leave a comment](https://finds.org.uk/blogs/somerset/2008/04/11/forthcoming-closure-of-the-somerset-county-museum/#respond "Comment on Forthcoming Closure of the Somerset County Museum")

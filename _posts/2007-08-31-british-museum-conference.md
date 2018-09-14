@@ -3,6 +3,7 @@ layout: default
 title: Archaeology 2008 – A conference at the British Museum
 published: 2007/08/31
 author: Daniel Pett
+category: central-unit
 ---
 
 Archaeology 2008 – A conference at the British Museum

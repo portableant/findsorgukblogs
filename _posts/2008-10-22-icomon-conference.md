@@ -3,6 +3,7 @@ layout: default
 title: The new Icomon website
 published: 2008-10-22T10:37:13+00:00
 author: Sam Moorhead
+category: central-unit
 ---
 The new [ICOMON](http://www.icomon.org "ICOMON website") website now holds my paper from their Vienna conference last year.[]({{ site.baseurl }}/files/2008/10/viennamoorhead.pdf)
 

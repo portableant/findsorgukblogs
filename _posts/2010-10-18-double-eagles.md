@@ -2,6 +2,7 @@
 layout: default 
 published: 2010-10-18
 author: Ian Richardson 
+category: treasure
 ---
 
 Inquest opened for Gold American Coins from Hackney, Greater London

@@ -3,6 +3,7 @@ layout: default
 title: 1st World War Soldier
 published: 2006-03-07T10:05:48+00:00
 author: Adam Daubney
+category: lincolnshire
 ---
 1st World War Soldier
 ---------------------

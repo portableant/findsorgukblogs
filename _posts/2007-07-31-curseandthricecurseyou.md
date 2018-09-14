@@ -2,7 +2,11 @@
 layout: default
 title: Curse and thrice curse you 
 published: 2007-07-31
+category: central-unit
 ---
+
+Curse and thrice curse you
+--------------------------
 
 Early this year, a metal detectorist called Tom Redmayne was searching in a muddy field in the parish of Fulstow in Lincolnshire. He had already found Roman pottery (Samian ware from Gaul), some late Roman coins and several lead weights. Then he found several pieces pieces of lead, two of which were folded over.When he carefully unfolded them, he saw that they had holes drilled in them. In the centre of each was an impression. He took them to [Adam Daubney](https://finds.org.uk/people/profile.php?personID=61), the Portable Antiquities Scheme Finds Liaison Officer for Lincolnshire, who realised that they were coin impressions.![The curse tablet](https://finds.org.uk/wordpress/wp-content/uploads/2007/07/image.gif)
 

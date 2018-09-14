@@ -3,6 +3,7 @@ layout: default
 published: 2008-06-23T15:35:42+00:00
 author: Sam Moorhead
 title: Sam Moorhead visits the NW
+category: north-west
 ---
 
 Sam Moorhead visits the NW

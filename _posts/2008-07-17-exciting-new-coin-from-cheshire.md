@@ -3,6 +3,7 @@ layout: default
 published: 2008-07-17T12:42:17+00:00
 title: Exciting New Coin from Cheshire!!
 author: Frances McIntosh
+category: north-west
 ---
 
 Exciting New Coin from Cheshire!!

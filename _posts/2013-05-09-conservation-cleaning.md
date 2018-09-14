@@ -3,6 +3,7 @@ layout: default
 title: Conservation Cleaning
 published: 2013-05-09T10:33:05+00:00
 author: Anna Tam
+category: frome-hoard
 ---
 
 Conservation Cleaning

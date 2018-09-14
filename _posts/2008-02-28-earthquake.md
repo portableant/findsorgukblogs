@@ -3,6 +3,7 @@ layout: default
 published: 2008-02-28
 author: Adam Daubney
 title: Earthquake
+category: lincolnshire
 ---
 
 Earthquake!

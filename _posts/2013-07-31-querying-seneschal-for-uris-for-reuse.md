@@ -3,6 +3,7 @@ layout: default
 title: Querying Seneschal for uris for reuse
 published: 2013-07-31
 author: Daniel Pett
+category: labs
 ---
 
 Querying Seneschal for uris for reuse

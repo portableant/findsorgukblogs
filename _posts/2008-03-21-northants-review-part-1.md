@@ -3,6 +3,7 @@ layout: default
 title: Northants Review Part I
 published: 2008-03-21
 author: Steve Ashby
+category: northants
 ---
 
 Northants Review Part I: The Early Prehistoric Period

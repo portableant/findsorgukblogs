@@ -3,6 +3,7 @@ layout: default
 published: 2013-06-04T13:35:09+00:00
 title: Wonderful,wonderful Copenhagen!
 author: Philippa Walton
+category: romannumismaticsphd
 ---
 
 Wonderful, wonderful Copenhagen!

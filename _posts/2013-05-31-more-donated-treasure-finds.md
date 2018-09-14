@@ -3,6 +3,7 @@ layout: default
 published: 2013-05-31
 title: More donated treasure finds
 author: Ian Richardson
+category: treasure
 ---
 
 More donated treasure finds

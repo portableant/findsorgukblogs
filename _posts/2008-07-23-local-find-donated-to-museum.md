@@ -3,6 +3,7 @@ layout: default
 published: 2008-07-23T12:28:06+00:00
 title: Local Find Donated to Museum
 author: Frances McIntosh
+category: north-west
 ---
 Local Find Donated to Museum
 ----------------------------

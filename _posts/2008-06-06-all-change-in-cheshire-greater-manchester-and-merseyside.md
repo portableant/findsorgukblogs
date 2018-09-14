@@ -1,6 +1,8 @@
 ---
 layout: default
 published: 2008-06-06T13:23:19+00:00
+author: Frances McIntosh
+category: north-west
 ---
 
 All change in Cheshire, Greater Manchester and Merseyside

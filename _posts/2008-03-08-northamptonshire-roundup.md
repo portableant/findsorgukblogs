@@ -3,6 +3,7 @@ layout: default
 published: 2008-03-08
 title: Northamptonshire round up
 author: Steve Ashby
+category: northants
 ---
 
 Northants Period roundups

@@ -1,6 +1,8 @@
 ---
 layout: default
 published: 2008-04-23T14:44:15+00:00
+category: isle-of-wight
+author: Frank Basford
 ---
 
 Another goodie: medieval macehead!

@@ -2,6 +2,7 @@
 layout: default
 title: Two carausian aurei from the midlands
 published: 2008/01/24
+category: central-unit
 ---
 
 A rare Roman coin of the emperor Trajan that celebrates Rome’s conquest of Mesopotamia (modern Iraq) in AD 115, has just been recorded with the Portable Antiquities Scheme. It was found by Frank Kurzeja at Shoreham-by-Sea and reported to Liz Andrews-Wilson, Finds Liaison Officer for Sussex.
@@ -16,4 +17,5 @@ To see this coin and to learn more about Roman coins found in Britain, go to the
 Object type: Coin  
 Broadperiod: Roman  
 County of discovery: West Sussex  
-Stable url: [https://finds.org.uk/database/artefacts/record/id/191919](https://finds.org.uk/database/artefacts/record/id/191919 "SUSS-977223: a Roman Coin")
+Stable url: [
+https://finds.org.uk/database/artefacts/record/id/191919](https://finds.org.uk/database/artefacts/record/id/191919 "SUSS-977223: a Roman Coin")

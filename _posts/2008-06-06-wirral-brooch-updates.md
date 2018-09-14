@@ -1,6 +1,8 @@
 ---
 layout: default
 published: 2008-06-06T13:26:59+00:00
+category: north-west
+author: Frances McIntosh
 ---
 
 Wirral Brooch Updates
