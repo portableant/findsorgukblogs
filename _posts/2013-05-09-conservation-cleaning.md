@@ -40,5 +40,3 @@ Mechanical cleaning involves reducing corrosion products with a scalpel under ma
 [![Following chemical cleaning the coins corrosion and dirt residues remain on the coin. This coin has been half brushed to demonstrate the difference in legibility before and after. ]({{ site.baseurl }}/files/2012/12/brushing-from-CSRmtg-ppt-297x300.png)]({{ site.baseurl }}/files/2012/12/brushing-from-CSRmtg-ppt.png)
 
 Following chemical cleaning corrosion and dirt residues remain on the coin. This coin has been brushed on one half to demonstrate the difference in legibility before and after.
-
-[May 9, 2013](https://finds.org.uk/blogs/blog/2013/05/09/conservation-cleaning/ "10:33 am")  [Ana Tam](https://finds.org.uk/blogs/blog/author/atam/ "View all posts by Ana Tam") [Conservation](https://finds.org.uk/blogs/blog/category/conservation/) [Muse Records discography](https://finds.org.uk/blogs/blog/category/muse-records-discography/)   [Leave a comment](https://finds.org.uk/blogs/blog/2013/05/09/conservation-cleaning/#respond "Comment on Conservation Cleaning")
