@@ -1,7 +1,7 @@
 ---
-layout:
+layout: default
 author: Philippa Walton
-title:
+title: Dr James Gerrard joins the team
 published: 2013-03-25T12:21:43+00:00
 category: piercebridge
 ---
