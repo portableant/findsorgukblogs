@@ -1,10 +1,10 @@
- ---
- layout: default
- title: Kings of North Africa at Piercebridge
- published: 2013-07-16
- author: Philippa Walton
- category: piercebridge
- ---
+---
+layout: default
+title: Kings of North Africa at Piercebridge
+published: 2013-07-16
+author: Philippa Walton
+category: piercebridge
+---
  
  Kings of North Africa at Piercebridge
  -------------------------------------
