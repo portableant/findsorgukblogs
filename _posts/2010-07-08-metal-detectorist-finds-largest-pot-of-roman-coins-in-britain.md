@@ -66,8 +66,6 @@ Because of the weight of the coins and the fragility of the pot in which they we
 
 Each of the 67 groups of coins was washed and sorted separately and as a result we know that the great majority (85 per cent) of the coins of Carausius, the latest coins in the hoard, were contained within a single layer (Context 16). This gives us a fascinating insight into how the coins were placed in the pot, as a group of coins of Carausius must have been tipped into the pot separately from the rest of the coins.
 
-[![Somerset County Council Logo]({{ site.baseurl }}/files/2010/07/1234367899-182x300.jpg "1234367899")]({{ site.baseurl }}/files/2010/07/1234367899.jpg)About 570 coin hoards of this period are known from Britain, a greater concentration than from any other part of the Roman Empire. The largest hoard ever found in Britain contained 54,912 coins dating from AD 180 to 274 and was found in two containers at Cunetio, near Mildenhall in Wiltshire; another hoard of 47,912 coins of AD 251-90 was found at Normanby in Lincolnshire in 1983.
-
 <div>
 
     <p>Summary of the coins found in the hoard (note: these quantities are provisional and the final figures will
@@ -295,14 +293,14 @@ Each of the 67 groups of coins was washed and sorted separately and as a result 
 
     <p>
         <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="300"
-                codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">
+                codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">
             <param name="flashvars"
                    value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Ffinds%2Fsets%2F72157624319051565%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Ffinds%2Fsets%2F72157624319051565%2F&amp;set_id=72157624319051565&amp;jump_to=">
             <param name="allowFullScreen" value="true">
-            <param name="src" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649">
+            <param name="src" value="https://www.flickr.com/apps/slideshow/show.swf?v=71649">
             <param name="allowfullscreen" value="true">
             <embed type="application/x-shockwave-flash" width="400" height="300"
-                   src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowfullscreen="true"
+                   src="https://www.flickr.com/apps/slideshow/show.swf?v=71649" allowfullscreen="true"
                    flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Ffinds%2Fsets%2F72157624319051565%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Ffinds%2Fsets%2F72157624319051565%2F&amp;set_id=72157624319051565&amp;jump_to=">
         </object>
     </p>
