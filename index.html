@@ -3,22 +3,32 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-pagination: 
-  enabled: true
+pagination:
+enabled: true
 ---
 
+<!--<ul class="post-list">-->
+    <!--{% for post in site.posts %}-->
+    <!--<li><span class="post-meta">{{ post.published }}</span>-->
+        <!--<h3>-->
+            <!--<a class="post-link" href="{{ post.url }}">{{ post.title }}</a>-->
+        <!--</h3>-->
+        <!--<p>{{ post.author }}</p>-->
+    <!--</li>-->
+    <!--{% endfor %}-->
+<!--</ul>-->
 
-{% if paginator.total_pages > 1 %}
-<ul>
-  {% if paginator.previous_page %}
-  <li>
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li>
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+<!--{% if paginator.total_pages > 1 %}-->
+<!--<ul>-->
+    <!--{% if paginator.previous_page %}-->
+    <!--<li>-->
+        <!--<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>-->
+    <!--</li>-->
+    <!--{% endif %}-->
+    <!--{% if paginator.next_page %}-->
+    <!--<li>-->
+        <!--<a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>-->
+    <!--</li>-->
+    <!--{% endif %}-->
+<!--</ul>-->
+<!--{% endif %}-->

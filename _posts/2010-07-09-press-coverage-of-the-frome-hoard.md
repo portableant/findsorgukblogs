@@ -3,7 +3,7 @@ layout: default
 published: 2010-07-09T09:22:24+00:00
 author: Daniel Pett
 category: frome-hoard
-title:Press coverage of the hoard’s discovery
+title: Press coverage of the hoard discovery
 ---
 
 Press coverage of the hoard’s discovery
