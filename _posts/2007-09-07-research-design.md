@@ -2,13 +2,12 @@
 layout: default
 author: Philippa Walton
 category: romannumismaticsphd
-title:
-published:
+title: Research Design
+published: 2009-09-07
 ---
 
-[Research Design](http://finds.org.uk/blogs/romannumismaticsphd/2007/09/07/research-design/ "Permanent Link to Research Design")
---------------------------------------------------------------------------------------------------------------------------------
-
+Research Design
+---------------
 September 7th, 2007 by Philippa Walton
 
 And just in case you are really interested, here’s an edited version of my Research Design for the project. As you can see I’ve only got a little bit of work to do!!
