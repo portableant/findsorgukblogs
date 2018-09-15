@@ -38,5 +38,6 @@ James explains the dating of Black Burnished ware to Bob
 It’s early days and the next step is to get the pottery up to Newcastle so I can study it properly. That said, one striking aspect of this pottery is the lack of any flagons (jugs). I’m not sure how to explain this but it’s a hint that these boxes of pottery have secrets to reveal.”
 
 [![James, Philippa, Bob and Rolfe on pottery sorting duty]({{ site.baseurl }}/piercebridge/files/2013/03/Potteryday-020-300x225.jpg)]({{ site.baseurl }}/piercebridge/files/2013/03/Potteryday-020.jpg)
+[![James, Philippa, Bob and Rolfe on pottery sorting duty]({{ site.baseurl }}/piercebridge/files/2013/03/Potteryday-020-300x225.jpg)]({{ site.baseurl }}/piercebridge/files/2013/03/Potteryday-020.jpg)
 
 James, Philippa, Bob and Rolfe on pottery sorting duty
