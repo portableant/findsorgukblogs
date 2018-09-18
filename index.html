@@ -7,6 +7,26 @@ pagination:
 enabled: true
 ---
 
+Total posts: 
+{% comment %}
+*
+*   Counter: This include counts your jekyll posts
+*
+{% endcomment %}{% assign counter = 0 %}{% for item in site.posts %}{% unless item.published == false %}{% assign counter=counter | plus:1 %}{% endunless %}{% endfor %}{{ counter }}
+
+
+{% for category in site.categories %}
+<li><a name="{{ category | first }}">{{ category | first }}</a>
+    <ul>
+        {% for posts in category %}
+        {% for post in posts %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+        {% endfor %}
+    </ul>
+</li>
+{% endfor %}
+
 <!--<ul class="post-list">-->
     <!--{% for post in site.posts %}-->
     <!--<li><span class="post-meta">{{ post.published }}</span>-->
