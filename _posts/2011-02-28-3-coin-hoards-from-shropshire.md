@@ -3,8 +3,7 @@ layout: default
 published: 2011-02-28
 author: Peter Reavill
 category: the-marches
-title:
-PAS Finds from Shropshire and Herefordshire published in West Midlands Archaeology
+title: PAS Finds from Shropshire and Herefordshire published in West Midlands Archaeology
 ---
 
 PAS Finds from Shropshire and Herefordshire published in West Midlands Archaeology
