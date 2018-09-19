@@ -1,13 +1,13 @@
 ---
 author: Laura Burnett
 category: sussex
-published:2010/07/23
+published: 2010-07-23
 title: A timely legend
 layout: default
 ---
 
-[A timely legend]({{ site.baseurl }}/sussex/2010/07/23/a-timely-legend/ "Permanent Link to A timely legend")
--------------------------------------------------------------------------------------------------------------------
+# A timely legend
+
 
 July 23rd, 2010 by Laura Burnett
 
