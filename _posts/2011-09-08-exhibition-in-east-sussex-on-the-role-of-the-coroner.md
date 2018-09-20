@@ -3,8 +3,7 @@ layout: default
 published: 2011-09-08
 author: Ian Richardson
 category: treasure
-title: Exhibition in
-East Sussex on the role of the Coroner
+title: Exhibition in East Sussex on the role of the Coroner
 ---
 
 Exhibition in East Sussex on the role of the Coroner
