@@ -31,7 +31,7 @@ The next day the local Archaeological Officer and Worcestershire Historic Enviro
 
 At the start of July, archaeologists from WHEAS excavated a small trench centred on the find-spot. The aim of the excavation was to establish the archaeological context of the hoard. In particular, the team wanted to establish whether the hoard had been buried in open ground, like most hoards, or on a settlement of some kind, as suggested by the earlier finds, which included a Roman bow brooch. The team included both of the metal-detectorists who found the hoard, as well as the Finds Liaison Officer, David Kendrick and Debs Fox of Museums Worcestershire.
 
-[![The discovery of the hoard](http://finds.org.uk/blogs/westmidlands/files/2011/10/The-discovery-of-the-hoard-300x146.jpg)](http://finds.org.uk/blogs/westmidlands/files/2011/10/The-discovery-of-the-hoard.jpg)
+[![The discovery of the hoard]({{ site.baseurl }}/files/2011/10/The-discovery-of-the-hoard-300x146.jpg)]({{ site.baseurl }}/files/2011/10/The-discovery-of-the-hoard.jpg)
 
 The hoard find spot excavations
 
@@ -59,11 +59,11 @@ The hoard is currently going through the treasure process, within the next few m
 
 After the inquest has been held and it has been declared treasure it is the job of the Treasure Valuation committee to decide a fair market value for the coins so that the finders and landowner can be rewarded as well as giving Museums Worcestershire an opportunity to acquire the hoard.After the hoard has been valued the museum will have 4 months to raise the money so that they can acquire the hoard and preserve the find intact for future generations to admire and academic research.
 
-[![Florian pre cleaning](http://finds.org.uk/blogs/westmidlands/files/2011/10/florianpre-300x284.jpg)](http://finds.org.uk/blogs/westmidlands/files/2011/10/florianpre.jpg)
+[![Florian pre cleaning]({{ site.baseurl }}/files/2011/10/florianpre-300x284.jpg)]({{ site.baseurl }}/files/2011/10/florianpre.jpg)
 
 Florian pre cleaning
 
-[![Florian post cleaning](http://finds.org.uk/blogs/westmidlands/files/2011/10/florianpost-300x293.jpg)](http://finds.org.uk/blogs/westmidlands/files/2011/10/florianpost.jpg)
+[![Florian post cleaning]({{ site.baseurl }}/files/2011/10/florianpost-300x293.jpg)]({{ site.baseurl }}/files/2011/10/florianpost.jpg)
 
 Florian post cleaning
 
