@@ -1,9 +1,9 @@
 ---
-layout:default
-author: Rob 'Dwarf lover' Collins
+layout: default
+author: Rob Collins
 published: 2007-09-18
-category: Japan
-title: The Latest Roman Coin from Hadrian’s Wall: a small 5th century purse hoard
+category: north-east
+title: The Latest Roman Coin from Hadrian’s Wall a small 5th century purse hoard
 ---
 
 The Latest Roman Coin from Hadrian’s Wall: a small 5th century purse hoard
