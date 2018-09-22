@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Northants Review Part IV: The ‘Post-Roman’ and ‘Early Anglo-Saxon’ Periods
+title: Northants Review Part IV The Post-Roman and Early Anglo-Saxon Periods
 published: 2008-08-01
 category: northants
 author: Steve Ashby
