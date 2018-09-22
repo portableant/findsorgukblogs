@@ -35,19 +35,17 @@ All of this evidence comes from a mixture of historical sources, excavation, geo
 
 Well, one area in which it shows great potential is in understanding the importance of tribal identities and regionality in post-Roman Britain. [Recent work](http://www.wansdyke21.org.uk/wansdyke/wanart/laycock.htm) by Stuart Laycock on the distribution of late Roman and early Saxon metalwork has led him to suggest that Britain after the Romans was a complex, ununified system of tribes and enclaves; a picture perhaps analagous to the Balkans in the late 20th century. Such a scenario would be easily exploited by invading Angles, Saxons, and Jutes. This idea is not yet proven, but metal-detected data has played a fundamental role in its development, and will continue to be important in discussion and debate around the subject. What was the situation in Northants, part of the region dominated by( prior to the Roman arrivals, and perhaps after their withdrawal) a tribe known as the Corieltauvi, for example? We need more research to find out, so please keep recording your finds with us, with as precise findspot data as possible.
 
-[]({{ site.baseurl }}/files/2008/08/supporting-arm-brooch-300x298.jpg "supporting-arm-brooch")](http://finds.org.uk/blogs/northamptonshire/files/2008/08/supporting-arm-brooch.jpg)
-
-Supporting-Arm Brooch
+### Supporting-Arm Brooch
 
 The first evidence of migrants comes from a couple of very early, continental-style brooches. This [supporting arm brooch](http://www.findsdatabase.org.uk/hms/pas_obj.php?type=finds&id=001425E3BE801579 "Supporting-Armed Brooch") dates to around the late 5th-century, and clearly still wears its Roman influence on its sleeve. Importantly, it is a rare type in Britain, but is more well-known in the Germanic homelands of Schleswig-Holstein, northern Germany. Tantalisingly then, it might therefore have arrived in Britain on the clothes of one of the first Anglo-Saxon settlers.
 
-[](http://finds.org.uk/counties/pasnorthants/files/2008/08/radiate-headed-brooch.jpg)[![](http://finds.org.uk/blogs/northamptonshire/files/2008/08/radiate-headed-brooch-225x300.jpg "radiate-headed-brooch")](http://finds.org.uk/blogs/northamptonshire/files/2008/08/radiate-headed-brooch.jpg)
+[]({{ site.baseurl }}/files/2008/08/radiate-headed-brooch.jpg)[![]({{ site.baseurl }}/files/2008/08/radiate-headed-brooch-225x300.jpg "radiate-headed-brooch")]({{ site.baseurl }}/files/2008/08/radiate-headed-brooch.jpg)
 
-Radiate-headed Brooch
+### Radiate-headed Brooch
 
 Slightly later in date is this [radiate-headed brooch](http://www.findsdatabase.org.uk/hms/pas_obj.php?type=finds&id=00147D9BDEB01897 "Radiate-headed brooch"), which dates to around the 6th-century, and has its closest parallels in continental Europe. It may betray a Frankish influence in the area. Though it is difficult to prove as much on the basis of a single find, it does raise the question. As such, the archaeological importance of recording these metal-detected artefacts and their findspots is clear. When we have enough data to map it, distribution analyses may considerably chnge our understanding of life and death in Northamptonshire in the wake of the Roman withdrawal and the first years of Germanic settlement.
 
-[](http://finds.org.uk/counties/pasnorthants/files/2008/08/brooch.jpg)[![](http://finds.org.uk/blogs/northamptonshire/files/2008/08/brooch-300x243.jpg "brooch")](http://finds.org.uk/blogs/northamptonshire/files/2008/08/brooch.jpg)
+[]({{ site.baseurl }}/files/2008/08/brooch.jpg)[![]({{ site.baseurl }}/files/2008/08/brooch-300x243.jpg "brooch")]({{ site.baseurl }}/files/2008/08/brooch.jpg)
 
 An Anglo-Saxon Small-Long Brooch from Northamptonshire
 
