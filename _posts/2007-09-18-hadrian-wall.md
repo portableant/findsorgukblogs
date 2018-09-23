@@ -11,7 +11,7 @@ The Latest Roman Coin from Hadrian’s Wall: a small 5th century purse hoard
 
 September 18th, 2007 by Daniel Pett
 
-**[Rob Collins](http://www.finds.org.uk/people/profile.php?personID=64 "Rob;s profile"), FLO North East**
+**[Rob Collins](https://finds.org.uk/people/profile.php?personID=64 "Rob;s profile"), FLO North East**
 
 [![]({{ site.baseurl }}/files/2007/09/figure-1-225x300.jpg "figure-1")]({{ site.baseurl }}/files/2007/09/figure-1.jpg)Metal detectorist Barry Seger of the Tyneside Detecting Association was searching a field in the Great Whittington area of Northumberland in May 2007. During the course of his examination of the field, he recovered 8 late Roman copper-alloy nummi all in a relatively straight line. He reported his finds to the local Finds Liaison Officer for the Portable Antiquities Scheme.
 
@@ -24,29 +24,29 @@ The small number of coins, combination of mints, and broad range of dates sugges
 [![]({{ sit.baseurl }}/files/2007/09/figure-2-300x225.jpg "figure-2")]({{ sit.baseurl }}/files/2007/09/figure-2.jpg)All eight coins that Barry found were relatively small and somewhat worn copper-alloy nummi typical of the 4th century. Such coin finds are fairly common for detectorists, particularly those of Constantine the Great and his sons, and because of this frequency, many finders do not get particularly excited when they encounter a nummus. However, these coins contain a lot of information, and someone trained in the identification of Roman coinage can provide a wealth of information. Barry’s coins are listed in detail, with the primary elements separated for ease of identification and comparison.
 
 1\. Victoriae Laetae Princ Perp type, dating AD 318  
-Emperor: [Constantine I](http://www.finds.org.uk/romancoins/obverse.php?emperorID=97 "Constantine I details")  
+Emperor: [Constantine I](https://finds.org.uk/romancoins/obverse.php?emperorID=97 "Constantine I details")  
 RIC: VII p. 431, nos. 47-48  
 Obverse: Laureate helmeted, cuirassed bust right  
 Obverse Inscription: â€¦NVSâ€¦Aâ€¦  
 Reverse: Victories facing each other holding shield with VOT PR over central altar  
 Reverse Inscription: â€¦TAEâ€¦INC PEâ€¦  
-Mint: ASIS\*, 1st officina of [Siscia](http://www.finds.org.uk/romancoins/mint.php?ID=10 "Mint details for Siscia") (modern Croatia)  
+Mint: ASIS\*, 1st officina of [Siscia](https://finds.org.uk/romancoins/mint.php?ID=10 "Mint details for Siscia") (modern Croatia)  
 Diameter: 18.33mm Thickness: 2.03mm Weight: 2.8g
 
 Note: There is evidence for silver washing of this coin.
 
 2\. Gloria Exercitus type, dating AD 330â€“335  
-Emperor: [Constantius II](http://www.finds.org.uk/romancoins/obverse.php?emperorID=101 "Constantius II details")  
+Emperor: [Constantius II](https://finds.org.uk/romancoins/obverse.php?emperorID=101 "Constantius II details")  
 RIC: VII p. 581, no. 75  
 Obverse: Cuirassed, laureate bust right  
 Obverse Inscription: \[F\]L IVL CONSTANTIVS NOBâ€¦  
 Reverse: Two soldiers holding spears to the outside with one standard between them  
 Reverse Inscription: GLOR/IA EXERâ€¦TVS  
-Mint: (CO)?â€¦, probably [Constantinople](http://www.finds.org.uk/romancoins/mint.php?ID=13 "Mint details for Constantinople")  
+Mint: (CO)?â€¦, probably [Constantinople](https://finds.org.uk/romancoins/mint.php?ID=13 "Mint details for Constantinople")  
 Diameter: 17.65mm Thickness: 1.43mm Weight: 1.7g
 
 3\. Gloria Exercitus type, dating AD 337â€“341  
-Emperor: [Constans](http://www.finds.org.uk/romancoins/obverse.php?emperorID=87 "Details for Constans")  
+Emperor: [Constans](https://finds.org.uk/romancoins/obverse.php?emperorID=87 "Details for Constans")  
 RIC: type as VIII p. 490, no. 18  
 Obverse: Luareate diademed, draped and cuirassed bust right  
 Obverse Inscription: D\[N\] CONSTA/NS P F AVG  
@@ -58,7 +58,7 @@ Diameter: 17.92mm Thickness: 0.92mm Weight: 1.2g
 Notes: SM (Sacra Moneta) is a prefix used at mints from Heraklea eastwards in this period.
 
 4\. Fel Temp Reparatio type, contemporary copy, dating c. AD 355â€“361  
-Emperor: [Constans](http://www.finds.org.uk/romancoins/obverse.php?emperorID=87 "Details for Constans") or [Constantius II](http://www.finds.org.uk/romancoins/obverse.php?emperorID=101 "Constantius II details")  
+Emperor: [Constans](https://finds.org.uk/romancoins/obverse.php?emperorID=87 "Details for Constans") or [Constantius II](https://finds.org.uk/romancoins/obverse.php?emperorID=101 "Constantius II details")  
 RIC: type as VIII, p. 191, no. 189  
 Obverse: Pearl-diademed, \[draped?\] and cuirassed bust right  
 Obverse Inscription: DN CONSâ€¦  
@@ -68,7 +68,7 @@ Mint: worn away, probably Balkan or Eastern mint
 Diameter: 16.85mm Thickness: 2.46mm Weight: 3.7g
 
 5\. Fel Temp Reparatio type, a contemporary copy, dating c. AD 355-361  
-Emperor: [Constans](http://www.finds.org.uk/romancoins/obverse.php?emperorID=87 "Details for Constans")  
+Emperor: [Constans](https://finds.org.uk/romancoins/obverse.php?emperorID=87 "Details for Constans")  
 RIC: type as VIII, p. 191, no. 189  
 Obverse: Pearl-diademed, draped and cuirassed bust right  
 Obverse Inscription: â€¦NS PF AVG  
@@ -77,30 +77,30 @@ Reverse Inscription: FEL TEMPâ€¦
 Mint: worn away, probably Balkan or Eastern mint  
 Diameter: 16.16mm Thickness: 1.69mm Weight: 2.2g
 
-Notes: [Constans](http://www.finds.org.uk/romancoins/obverse.php?emperorID=87 "Details for Constans") died in AD 350 when the Falling Horseman types were still being struck on a larger module. This copy was probably struck at least five years later.
+Notes: [Constans](https://finds.org.uk/romancoins/obverse.php?emperorID=87 "Details for Constans") died in AD 350 when the Falling Horseman types were still being struck on a larger module. This copy was probably struck at least five years later.
 
 6\. Securitas Republicae type, dating AD 364-367  
 Emperor: [Valentinian I  
-](http://www.finds.org.uk/romancoins/obverse.php?emperorID=152 "Valentinian I")LRBC: II, p. 56, nos. 481â€“483  
+](https://finds.org.uk/romancoins/obverse.php?emperorID=152 "Valentinian I")LRBC: II, p. 56, nos. 481â€“483  
 Obverse: Robed, diademed bust right  
 Obverse Inscription: â€¦NVS PF AVG  
 Reverse: Security facing left with wreath and palm.  
 Reverse Inscription: SECVRITAâ€¦  
-Mint: OF/II//CONS\[T\], 2nd officina of [Arles](http://www.finds.org.uk/romancoins/mint.php?ID=3 "Details for the mint at Arles") (France)  
+Mint: OF/II//CONS\[T\], 2nd officina of [Arles](https://finds.org.uk/romancoins/mint.php?ID=3 "Details for the mint at Arles") (France)  
 Diameter: 16.38mm Thickness: 1.65mm Weight: 2.0g
 
 7\. Securitas Rei Publicae type, dating AD 364-378  
 Emperor: House of Valentinian, probably [Valentinian I  
-](http://www.finds.org.uk/romancoins/obverse.php?emperorID=152 "Valentinian I details")RIC: IX type as p. 64, no. 9; LRBC p. 56, 501  
+](https://finds.org.uk/romancoins/obverse.php?emperorID=152 "Valentinian I details")RIC: IX type as p. 64, no. 9; LRBC p. 56, 501  
 Obverse: Pearl-diademed, draped and cuirassed bust right  
 Obverse Inscription: illegible  
 Reverse: Victory advancing left with wreath and palm  
 Reverse Inscription: illegible \[SECVRITAS REI PVBLICAE\]  
-Mint: â€¢/â€“//\[ \]CON, almost certainly [Arles](http://www.finds.org.uk/romancoins/mint.php?ID=3 "Details for the mint at Arles") (as opposed to Constantinople)  
+Mint: â€¢/â€“//\[ \]CON, almost certainly [Arles](https://finds.org.uk/romancoins/mint.php?ID=3 "Details for the mint at Arles") (as opposed to Constantinople)  
 Diameter: 17.01mm Thickness: 1.86mm Weight: 2.4g
 
 8\. Gloria Romanorum type, dating AD 406â€“408  
-Emperor: [Arcadius](http://www.finds.org.uk/romancoins/obverse.php?emperorID=86 "Details for Arcadius"), [Honorius](http://www.finds.org.uk/romancoins/obverse.php?emperorID=113 "Details for Honorius") or [Theodosius II](http://www.finds.org.uk/romancoins/obverse.php?emperorID=149 "Details for Theodosius II")  
+Emperor: [Arcadius](https://finds.org.uk/romancoins/obverse.php?emperorID=86 "Details for Arcadius"), [Honorius](https://finds.org.uk/romancoins/obverse.php?emperorID=113 "Details for Honorius") or [Theodosius II](https://finds.org.uk/romancoins/obverse.php?emperorID=149 "Details for Theodosius II")  
 RIC: type as RIC X 142 ff  
 Obverse: Pearl-diademed, draped and cuirassed bust right; behind bust, star  
 Obverse Inscription: illegible  
@@ -133,6 +133,6 @@ It should also be pointed out that this reasoning applies only to the latest coi
 
 **Further Considerations**
 
-There are a number of other aspects that Barry’s Gloria Romanorum coin have raised. Primarily, this is one of recognition. Most Roman coins books pertaining to Britain do not depict many (if any) 5th century coin issues. So it is necessary that the identifier have experience or knowledge of late Roman coins from the Continent -  in this case the Portable Antiquities Scheme’s Find Adviser for Iron Age and Roman coins, [Sam Moorhead](http://www.finds.org.uk/people/profile.php?personID=87 "Sam Moorhead's profile"), was able to identify the coin because he has published many coins from excavations in the Mediterranean. Also, to an untrained or unfamiliar eye, Barry’s coin appears similar to a Gloria Exercitus type issued by the House of Constantine, which is a very common find. This makes me wonder if there are more of these coins out there, either found by detectorists or archaeologists that have been misidentified. Not only is this possible, but it is even likely, as if this coin has made it to northern England, there must be more throughout the rest of the country, particularly in the South.
+There are a number of other aspects that Barry’s Gloria Romanorum coin have raised. Primarily, this is one of recognition. Most Roman coins books pertaining to Britain do not depict many (if any) 5th century coin issues. So it is necessary that the identifier have experience or knowledge of late Roman coins from the Continent -  in this case the Portable Antiquities Scheme’s Find Adviser for Iron Age and Roman coins, [Sam Moorhead](https://finds.org.uk/people/profile.php?personID=87 "Sam Moorhead's profile"), was able to identify the coin because he has published many coins from excavations in the Mediterranean. Also, to an untrained or unfamiliar eye, Barry’s coin appears similar to a Gloria Exercitus type issued by the House of Constantine, which is a very common find. This makes me wonder if there are more of these coins out there, either found by detectorists or archaeologists that have been misidentified. Not only is this possible, but it is even likely, as if this coin has made it to northern England, there must be more throughout the rest of the country, particularly in the South.
 
-So, I encourage you to re-examine your collections casting your eye towards late Roman coins. Are you certain which emperor issued the coin? If you have any doubts, it is best to show the coin to your local [Finds Liaison Officer](http://www.finds.org.uk/involved/contacts.php "List of FLO contacts").
+So, I encourage you to re-examine your collections casting your eye towards late Roman coins. Are you certain which emperor issued the coin? If you have any doubts, it is best to show the coin to your local [Finds Liaison Officer](https://finds.org.uk/involved/contacts.php "List of FLO contacts").

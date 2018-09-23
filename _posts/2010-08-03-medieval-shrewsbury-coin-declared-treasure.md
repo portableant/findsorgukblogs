@@ -28,11 +28,11 @@ PAS record number: HESH-4AA683
 Object type: Coin
 Broadperiod: MEDIEVAL
 County of discovery: Shropshire
-Stable url: [http://finds.org.uk/database/artefacts/record/id/251501](http://www.finds.org.uk/database/artefacts/record/id/251501 "HESH-4AA683: a Medieval Coin")
+Stable url: [http://finds.org.uk/database/artefacts/record/id/251501](https://finds.org.uk/database/artefacts/record/id/251501 "HESH-4AA683: a Medieval Coin")
 
 See the link below for other coins of Henry III struck in Shrewsbury between 1248-1250 AD:
-[http://www.finds.org.uk/database/search/results/objecttype/coin/broadperiod/Medieval/ruler/204/mint/194](http://www.finds.org.uk/database/search/results/objecttype/coin/broadperiod/Medieval/ruler/204/mint/194)
+[https://finds.org.uk/database/search/results/objecttype/coin/broadperiod/Medieval/ruler/204/mint/194](https://finds.org.uk/database/search/results/objecttype/coin/broadperiod/Medieval/ruler/204/mint/194)
 
-and a link to the results mapped:  [http://www.finds.org.uk/database/search/map/objecttype/coin/broadperiod/Medieval/ruler/204/mint/194](http://www.finds.org.uk/database/search/map/objecttype/coin/broadperiod/Medieval/ruler/204/mint/194) or a map embedded in the page:
+and a link to the results mapped:  [https://finds.org.uk/database/search/map/objecttype/coin/broadperiod/Medieval/ruler/204/mint/194](https://finds.org.uk/database/search/map/objecttype/coin/broadperiod/Medieval/ruler/204/mint/194) or a map embedded in the page:
 
 [View Larger Map](http://maps.google.co.uk/maps?f=q&source=embed&hl=en&geocode=&q=http:%2F%2Fwww.finds.org.uk%2Fdatabase%2Fsearch%2Fresults%2Fobjecttype%2Fcoin%2Fbroadperiod%2FMedieval%2Fruler%2F204%2Fmint%2F194%2Fformat%2Fkml&sll=53.800651,-4.064941&sspn=13.418145,39.506836&ie=UTF8&ll=50.651456,-3.117625&spn=1.144343,4.896004)

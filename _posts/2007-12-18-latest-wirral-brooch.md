@@ -14,9 +14,9 @@ Just this week I have recorded a Wirral brooch which was actually found on the W
 to see them, keep them coming! This is a great example as most of the distinguishing features are still visible despite
 some wear and corrosion and the enamel is still so bright. Look it up on the database at LVPL-64EDF0.
 
-![LVPL-64EDF0](http://www.finds.org.uk/images/thumbnails/159589.jpg)PAS record number: LVPL-64EDF0
+![LVPL-64EDF0](https://finds.org.uk/images/thumbnails/159589.jpg)PAS record number: LVPL-64EDF0
 
 Object type: Brooch
 Broadperiod: Roman
 County of discovery: Merseyside
-Stable url: [http://www.finds.org.uk/database/artefacts/record/id/203502](http://www.finds.org.uk/database/artefacts/record/id/203502 "LVPL-64EDF0: a Roman Brooch")
+Stable url: [https://finds.org.uk/database/artefacts/record/id/203502](https://finds.org.uk/database/artefacts/record/id/203502 "LVPL-64EDF0: a Roman Brooch")

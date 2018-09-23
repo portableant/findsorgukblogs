@@ -17,7 +17,7 @@ The festival kicked off in Colchester with the opening of our Medieval Treasures
 
 [![]({{ site.baseurl }}/files/2010/07/IMG_7689-300x200.jpg)]({{ site.baseurl }}/files/2010/07/IMG_7689.jpg)
 
-The exhibition contains a cross loaned from the the Royal Collections, a late medieval enamelled gold cross which is still worn by the Abbot of Buckfast Abbey (Devon) each Christmas and several objects found by metal detectorists throughout the county including a gold finger ring (PAS record @  [ESS-A3CCF3](http://www.finds.org.uk/database/artefacts/record/id/214680) ) and a copper alloy devotional badge depicting the crucifixion ( [ESS-302D31](http://www.finds.org.uk/database/artefacts/record/id/188842)).
+The exhibition contains a cross loaned from the the Royal Collections, a late medieval enamelled gold cross which is still worn by the Abbot of Buckfast Abbey (Devon) each Christmas and several objects found by metal detectorists throughout the county including a gold finger ring (PAS record @  [ESS-A3CCF3](https://finds.org.uk/database/artefacts/record/id/214680) ) and a copper alloy devotional badge depicting the crucifixion ( [ESS-302D31](https://finds.org.uk/database/artefacts/record/id/188842)).
 
 The first weekend of the Festival saw our local Young Archaeologists (YAC) conducting a survey of the ruins immediately outside the front of Colchester Castle. As well as forming part of the defences of the Castle, there is also the remains of a Medieval Chapel, with origins going back to an Anglo-Saxon wooden chapel with painted wall plaster (part of which can be seen in the Anglo-Norman gallery of the Castle Museum).  The YAC members learnt how to draw scale plans and looked at Roman material recycled by the Normans for their building projects.
 

@@ -11,7 +11,7 @@ Sam Moorhead at the British Museum writes that this coin shows Trajan standing t
 
 The inscriptions are worn away, but one states that Armenia and Mesopotamia have been brought back under Roman domination. Not content with his conquest of Dacia (modern Romania), Trajan determined to defeat his Middle Eastern enemies and this coin is his ‘mission accomplished’ statement that circulated throughout the Roman Empire. Ironically, the Roman occupation of Iraq was short-lived; Trajan’s successor, Hadrian, pulled out of Mesopotamia only a couple of years later.
 
-To see this coin and to learn more about Roman coins found in Britain, go to the Portable Antiquities Scheme website: [www.finds.org.uk](http://www.finds.org.uk) This coin’s record number is SUSS-977223.
+To see this coin and to learn more about Roman coins found in Britain, go to the Portable Antiquities Scheme website: [www.finds.org.uk](https://finds.org.uk) This coin’s record number is SUSS-977223.
 
 ![SUSS-977223](https://finds.org.uk/images/thumbnails/148945.jpg)PAS record number: SUSS-977223  
 Object type: Coin  

@@ -12,7 +12,7 @@ Coin Data from South Cheshire
 
 As mentioned previously, a large assemblage of coins from South Cheshire was put onto the database recently which added
 hugely to our data for this county. I have converted these coins into Reece periods to analyse them. The Roman period is
-split into Reece periods for coins(see [http://www.finds.org.uk/romancoins/reece.php](http://www.finds.org.uk/romancoins/reece.php)
+split into Reece periods for coins(see [https://finds.org.uk/romancoins/reece.php](https://finds.org.uk/romancoins/reece.php)
 for more information). Using these periods and the formula Richard Reece devised, allows us to compare coin data from
 different sites and areas. This is the type of work Philippa Walton is doing for the whole of England for her Phd which
 is showing very interesting results already.

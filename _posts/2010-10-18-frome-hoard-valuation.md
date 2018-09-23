@@ -51,7 +51,7 @@ The Art Fund is the national fundraising charity for works of art and plays a ma
 
 #### Portable Antiquities Scheme
 
-The Portable Antiquities Scheme was established to encourage the recording of archaeological finds found by the public, and also supports the mandatory reporting of Treasure (such as the Frome Hoard) under the Treasure Act 1996. The Scheme is managed by the British Museum on behalf of the Museums, Libraries & Archives Council. Across England and Wales its Finds Liaison Officers liaise with finders and record their finds, which are published on its online database ([www.finds.org.uk](http://www.finds.org.uk)) so that people can learn about the archaeology of their local area, and also for the advancement of archaeological knowledge.
+The Portable Antiquities Scheme was established to encourage the recording of archaeological finds found by the public, and also supports the mandatory reporting of Treasure (such as the Frome Hoard) under the Treasure Act 1996. The Scheme is managed by the British Museum on behalf of the Museums, Libraries & Archives Council. Across England and Wales its Finds Liaison Officers liaise with finders and record their finds, which are published on its online database ([www.finds.org.uk](https://finds.org.uk)) so that people can learn about the archaeology of their local area, and also for the advancement of archaeological knowledge.
 
 Contact Roger Bland, Head of Portable Antiquities and Treasure, 020 7323 8611; e-mail: rbland@thebritishmuseum.ac.uk
 

@@ -40,39 +40,39 @@ PAS record number: CPAT-446CE7
 Object type: Seal matrix
 Broadperiod: MEDIEVAL
 County of discovery: Powys
-Stable url: [http://www.finds.org.uk/database/artefacts/record/id/236047](http://www.finds.org.uk/database/ajax/embed/id/236047/database/artefacts/record/id/236047 "CPAT-446CE7: a Medieval Seal matrix")
+Stable url: [https://finds.org.uk/database/artefacts/record/id/236047](https://finds.org.uk/database/ajax/embed/id/236047/database/artefacts/record/id/236047 "CPAT-446CE7: a Medieval Seal matrix")
 
-![CPAT-E87263](http://www.finds.org.uk/images/thumbnails/193694.jpg)
+![CPAT-E87263](https://finds.org.uk/images/thumbnails/193694.jpg)
 
 PAS record number: CPAT-E87263
 Object type: Harness Fitting
 Broadperiod: IRON AGE
 County of discovery: Shropshire
-Stable url: [http://www.finds.org.uk/database/artefacts/record/id/238280](http://www.finds.org.uk/database/ajax/embed/id/238280/database/artefacts/record/id/238280 "CPAT-E87263: a Iron Age Harness fitting")
+Stable url: [https://finds.org.uk/database/artefacts/record/id/238280](https://finds.org.uk/database/ajax/embed/id/238280/database/artefacts/record/id/238280 "CPAT-E87263: a Iron Age Harness fitting")
 
-![CPAT-FE6537](http://www.finds.org.uk/images/thumbnails/194267.jpg)
+![CPAT-FE6537](https://finds.org.uk/images/thumbnails/194267.jpg)
 
 PAS record number: CPAT-FE6537
 Object type: Token
 Broadperiod: POST MEDIEVAL
 County of discovery: Shropshire
-Stable url: [http://www.finds.org.uk/database/artefacts/record/id/238299](http://www.finds.org.uk/database/ajax/embed/id/238299/database/artefacts/record/id/238299 "CPAT-FE6537: a Post Medieval Token")
+Stable url: [https://finds.org.uk/database/artefacts/record/id/238299](https://finds.org.uk/database/ajax/embed/id/238299/database/artefacts/record/id/238299 "CPAT-FE6537: a Post Medieval Token")
 
-![CPAT-5486C1](http://www.finds.org.uk/images/thumbnails/290045.jpg)
+![CPAT-5486C1](https://finds.org.uk/images/thumbnails/290045.jpg)
 
 PAS record number: CPAT-5486C1
 Object type: AXEHEAD
 Broadperiod: BRONZE AGE
 County of discovery: Denbighshire
-Stable url: [http://www.finds.org.uk/database/artefacts/record/id/399510](http://www.finds.org.uk/database/ajax/embed/id/399510/database/artefacts/record/id/399510 "CPAT-5486C1: a Bronze Age Axehead")
+Stable url: [https://finds.org.uk/database/artefacts/record/id/399510](https://finds.org.uk/database/ajax/embed/id/399510/database/artefacts/record/id/399510 "CPAT-5486C1: a Bronze Age Axehead")
 
-![CPAT-227A56](http://www.finds.org.uk/images/thumbnails/213879.jpg)
+![CPAT-227A56](https://finds.org.uk/images/thumbnails/213879.jpg)
 
 PAS record number: CPAT-227A56
 Object type: Coin
 Broadperiod: POST MEDIEVAL
 County of discovery: Powys
-Stable url: [http://www.finds.org.uk/database/artefacts/record/id/259849](http://www.finds.org.uk/database/ajax/embed/id/259849/database/artefacts/record/id/259849 "CPAT-227A56: a Post Medieval Coin")
+Stable url: [https://finds.org.uk/database/artefacts/record/id/259849](https://finds.org.uk/database/ajax/embed/id/259849/database/artefacts/record/id/259849 "CPAT-227A56: a Post Medieval Coin")
 
 Both Jeff and I wish Rod a very happy second (or is it third) retirement and thank him most sincerely for all his hard work for the PAS. His commitment has made a huge difference to the PAS locally and he will be missed.
 
@@ -80,11 +80,11 @@ Jeff Spencer and Peter Reavill
 
 A full list of finds recorded by Rod can be found here
 
-[http://www.finds.org.uk/database/search/results/recorderID/00146B1E1CE0181E/](http://www.finds.org.uk/database/search/results/recorderID/00146B1E1CE0181E/)
+[https://finds.org.uk/database/search/results/recorderID/00146B1E1CE0181E/](https://finds.org.uk/database/search/results/recorderID/00146B1E1CE0181E/)
 
 which can be mapped here
 
-[http://www.finds.org.uk/database/search/map/recorderID/00146B1E1CE0181E](http://www.finds.org.uk/database/search/map/recorderID/00146B1E1CE0181E)
+[https://finds.org.uk/database/search/map/recorderID/00146B1E1CE0181E](https://finds.org.uk/database/search/map/recorderID/00146B1E1CE0181E)
 
 
 [View Larger Map](http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=http:%2F%2Fwww.finds.org.uk%2Fdatabase%2Fsearch%2Fresults%2FrecorderID%2F00146B1E1CE0181E%2Fformat%2Fkml%2F&sll=37.0625,-95.677068&sspn=50.823846,113.818359&ie=UTF8&t=h&ll=52.660286,-2.525438&spn=1.626444,2.698068)

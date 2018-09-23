@@ -46,7 +46,7 @@ At the moment museum staff are working to develop the seventeenth century displa
 
 for the full PAS Treasure report see:
 
-http://www.finds.org.uk/database/artefacts/record/id/269641
+https://finds.org.uk/database/artefacts/record/id/269641
 
 for details of the original press release see:
 

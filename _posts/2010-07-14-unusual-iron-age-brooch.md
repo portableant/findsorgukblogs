@@ -19,4 +19,4 @@ Object type: Brooch
 Broadperiod: Iron Age
 County of discovery: Berkshire
 
-Stable url: [https://www.finds.org.uk/database/artefacts/record/id/397880](http://www.finds.org.uk/database/artefacts/record/id/397880 "BERK-4EFFC6: a Iron Age Brooch")
+Stable url: [https://www.finds.org.uk/database/artefacts/record/id/397880](https://finds.org.uk/database/artefacts/record/id/397880 "BERK-4EFFC6: a Iron Age Brooch")

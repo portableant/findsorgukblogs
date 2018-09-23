@@ -59,7 +59,7 @@ Comment by [corinne mills](http://ourpasthistory.com) — November 7, 2007 @ [4:
 
 Good comment Paul – I wholeheartedly agree. More and more finders ARE being responsible and reporting finds. I’m glad that you see that the efforts of the PAS and various archaeologists are bringing sucess. Lets keep on with the outreach.
 
-Comment by [Adam Daubney](http://www.finds.org.uk) — November 7, 2007 @ [5:04 pm](#comment-5)
+Comment by [Adam Daubney](https://finds.org.uk) — November 7, 2007 @ [5:04 pm](#comment-5)
 
 5.  ![](http://1.gravatar.com/avatar/9a29fb149644c5fdb09de4e72188926d?s=32&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G)
 

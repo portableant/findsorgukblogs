@@ -100,7 +100,7 @@ In the previous existence of our database over at [findsdatabase.org.uk](http://
 
 #### Running costs for following domains:
 
-[www.finds.org.uk](http://www.finds.org.uk)  
+[www.finds.org.uk](https://finds.org.uk)  
 [www.findsdatabase.org.uk](http://www.findsdatabase.org.uk)  
 [www.staffordshirehoard.org.uk](http://www.staffordshirehoard.org.uk)  
 [www.pastexplorers.org.uk](http://www.pastexplorers.org.uk)
