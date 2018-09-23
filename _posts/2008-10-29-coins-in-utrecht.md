@@ -1,7 +1,7 @@
 ---
 layout: default
 author: Philippa Walton
-category: romannumismaticsphd
+category: roman-numismatics-phd
 title: Coins in Utrecht
 published: 2008-10-29
 ---

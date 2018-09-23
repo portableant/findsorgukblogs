@@ -2,7 +2,7 @@
 layout: default
 title: Getting started with a PhD
 author: Philippa Walton
-category: romannumismaticsphd
+category: roman-numismatics-phd
 published: 2007/10/02
 ---
 

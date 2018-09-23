@@ -2,7 +2,7 @@
 layout: default
 published: October 10th, 2008
 title: The Satyricon
-category: romannumismaticsphd
+category: roman-numismatics-phd
 author: Philippa Walton
 ---
 The Satyricon

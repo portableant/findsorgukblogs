@@ -1,7 +1,7 @@
 ---
 layout: default
 author: Philippa Walton
-category: romannumismaticsphd
+category: roman-numismatics-phd
 title: Research Design
 published: 2009-09-07
 ---
