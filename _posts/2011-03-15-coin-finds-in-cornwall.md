@@ -3,7 +3,7 @@ layout: default
 title: Coin finds in Cornwall
 published: 2011-03-15T15:57:23+00:00
 author: Sam Moorhead
-category: FindsAdvisers
+category: finds-advisers
 ---
 Coin finds in Cornwall
 ----------------------
