@@ -28,6 +28,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 ############################################################
 # Exclude from processing.
@@ -41,3 +42,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Pagination
+paginate: 1
+paginate_path: "/page/:num/"
