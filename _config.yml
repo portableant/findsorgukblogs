@@ -45,5 +45,5 @@ plugins:
 
 
 # Pagination
-paginate: 1
+paginate: 20
 paginate_path: "/page/:num/"
