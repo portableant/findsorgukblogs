@@ -1,0 +1,76 @@
+---
+author: Daniel Pett
+published: 2010-07-09T13:32:03+00:00
+category: central-unit
+title: Using our data to place a google map on your own site (without the api)
+layout: default
+---
+
+# Using our data to place a google map on your own site (without the api)
+
+This post is just a short overview of how you can get our data onto your website without being uber-geeky and knowing how to play with our Applications Programming Interface (API – more on this over the next month or so.)  The Scheme’s website can now serve up various different flavours of content by means of context switching. You can now get:
+
+1.  RSS
+2.  ATOM
+3.  XML (finds lists and searches are returned in MIDAS format, other pages just plain XML responses)
+4.  JSON
+5.  KML
+6.  CSV
+
+To find out what versions of the content you can retrieve for a page is pretty simple. If you scroll towards the foot of any page on our website, look for the text:
+
+> This page is available in: {contexts available} representations.
+
+This makes use of the Zend Framework context switch parameter -format. So any URL that has an alternative representation just needs appending format/{context}. So for example, you want to view all finds for Essex in ATOM format you would call this url:
+
+[http://www.finds.org.uk/database/search/results/county/ESSEX/format/atom](http://www.finds.org.uk/database/search/results/county/ESSEX/format/atom "Atom feed for finds")
+
+You can now use this output within your own site using simple software tools such as widgets, simplepie etc. However, what is probably of more interest to many people is getting a map of objects found locally to them. So for example, you run a parish council and you want all objects found in the district. Let’s try my home district of South Cambridgeshire. If you go to our advanced search facility and scroll to the bottom and choose county as Cambridgeshire and district as South Cambridgeshire, then submit the form and wait a second for the search to complete.
+
+Now that the results are there, look at the page foot for the representations available and you’ll see the letters KML. If you click on this, you can now get data in the format that can be used in many online mapping programmes and Google Earth. So if you want to see this on the map, copy the URL generated; in this case:
+
+[http://www.finds.org.uk/database/search/results/county/CAMBRIDGESHIRE/district/SOUTH+CAMBRIDGESHIRE/format/kml](http://www.finds.org.uk/database/search/results/county/CAMBRIDGESHIRE/district/SOUTH+CAMBRIDGESHIRE/format/kml "South Cambs finds")
+
+Now head over to [http://maps.google.com](http://maps.google.com "Google maps").
+
+In the search bar, paste the URL that you copied and press search.
+
+![Google maps search bar with url pasted in](http://finds.org.uk/blogs/centralunit/files/2010/07/search-300x20.png "search")
+
+The map should now change to show pins for degraded findspot locations. These pins are only provided when the ‘to be known as’ field has not been filled in and the actual points are taken from the 1km grid reference (4 figure). So the map should now render like the below image:
+
+[![Google map generated from the KML ](http://finds.org.uk/blogs/centralunit/files/2010/07/map-300x148.png "map")](http://finds.org.uk/blogs/centralunit/files/2010/07/map.png)
+
+Now you have generated this map, you can grab either the link for the map and send directly to some one, or you can grab the HTML code to embed the map into a webpage. Look in the top corner of the map for the control labelled embed and click this; you then get the layer appearing which looks like the image below:
+
+![Link box from google](http://finds.org.uk/blogs/centralunit/files/2010/07/link.png "link")
+
+As this post deals with embedding the map on your own webpage, it is assumed that you can enter raw HTML directly. Copy the text which is contained in the box labelled “Paste HTML to embed in website”. This looks like:
+
+\[sourcecode\]
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+        src="http://maps.google.com/maps?f=q&amp;source=s\_q&amp;hl=en&amp;geocode=&amp;q=http:%2F%2Fwww.finds.org.uk%2Fdatabase%2Fsearch%2Fresults%2Fcounty%2FCAMBRIDGESHIRE%2Fdistrict%2FSOUTH%2BCAMBRIDGESHIRE%2Fformat%2Fkml&amp;sll=37.0625,-95.677068&amp;sspn=47.885545,114.169922&amp;IE\=UTF8&amp;ll=52.257917,-0.000189&amp;spn=0.72983,0.782087&amp;iwloc=lyrftr:kml:cF4oaez0SXhtHIuPUpXMoJUR9uPk2SiORITteHHHGjS0fvow5su0kSjIVdHy4TwDOfCcxM4bseHHEGTe2fPgy5si2VKsJEzIMAg,gf42aba810981b24d,52.065156,0.171661,0,-32&amp;output=embed"></iframe>
+<br /><small>
+    <a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=http:%2F%2Fwww.finds.org.uk%2Fdatabase%2Fsearch%2Fresults%2Fcounty%2FCAMBRIDGESHIRE%2Fdistrict%2FSOUTH%2BCAMBRIDGESHIRE%2Fformat%2Fkml&amp;sll=37.0625,-95.677068&amp;sspn=47.885545,114.169922&amp;IE\=UTF8&amp;ll=52.257917,-0.000189&amp;spn=0.72983,0.782087&amp;iwloc=lyrftr:kml:cF4oaez0SXhtHIuPUpXMoJUR9uPk2SiORITteHHHGjS0fvow5su0kSjIVdHy4TwDOfCcxM4bseHHEGTe2fPgy5si2VKsJEzIMAg,gf42aba810981b24d,52.065156,0.171661,0,-32" style="color:#0000FF;text-align:left">View Larger Map</a>
+</small>
+\[/sourcecode\]
+
+Then once you have pasted this code into your webpage, saved it and if you aren’t using a content management system, upload it to your website and then the map will be embedded as shown below:
+
+[View Larger Map](http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=http:%2F%2Fwww.finds.org.uk%2Fdatabase%2Fsearch%2Fresults%2Fcounty%2FCAMBRIDGESHIRE%2Fdistrict%2FSOUTH%2BCAMBRIDGESHIRE%2Fformat%2Fkml&sll=37.0625,-95.677068&sspn=47.885545,114.169922&ie=UTF8&ll=52.257917,-0.000189&spn=0.72983,0.782087&iwloc=lyrftr:kml:cF4oaez0SXhtHIuPUpXMoJUR9uPk2SiORITteHHHGjS0fvow5su0kSjIVdHy4TwDOfCcxM4bseHHEGTe2fPgy5si2VKsJEzIMAg,gf42aba810981b24d,52.065156,0.171661,0,-32)
+
+In the infowindow bubbles that come up when you click on a findspot location, you will see this text:
+
+> This findspot has been produced from the 4 figure reference. It is not the precise findspot.
+
+As mentioned above, due to findspot security/ landowner privacy, and an agreement we have with the major body that gives us artefact spatial information, we cannot publish co-ordinates publicly at a precision greater than parish or 1km square (4 figure grid reference) and we also hold back from view finds that have had the “to be known as” field. Therefore, the map you get from this is not 100% accurate! **This is not something we can change.**
+
+A couple of weeks ago, we sent a mailshot out to all MPs for England and Wales, detailing how they could get finds for their constituency onto their own webpages. This is done in exactly the same way as the above and constituency finds feeds can be obtained from the news section of the website under (and powered by [YQL](http://github.com/portableant/yql-tables/tree/master/twfy/) calls of the [theyworkforyou](http://www.theyworkforyou.com/api/) API):
+
+[http://finds.org.uk/news/theyworkforyou/constituencies](http://finds.org.uk/news/theyworkforyou/constituencies)
+
+Two examples with finds in their constituencies are the coalition leaders (the Roman coin hoard from Frome announced on the 8th July, had a colalition type coin inside). David Cameron’s [constituency of Witney](http://finds.org.uk/news/theyworkforyou/finds/constituency/Witney) shows this map:
+
+And Nick Clegg’s [Sheffield Hallam constituency](http://finds.org.uk/news/theyworkforyou/finds/constituency/Sheffield+Hallam) shows this map:
+
+Once geoRSS is enabled and working properly, you can also do the above using any of the feeds for finds where the context switch called is ATOM. This will be done by the middle of next week, alongside ATOM paging.
