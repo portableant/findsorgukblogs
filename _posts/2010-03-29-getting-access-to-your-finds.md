@@ -6,7 +6,7 @@ title: Getting access to your finds
 layout: default
 ---
 
-# Getting access to your finds]
+# Getting access to your finds
 
 Building the Scheme’s new database was fraught with a huge array of privacy problems ranging from findspot to personal details. The Scheme takes this very seriously, but we do recognise that our registered users have always had a desire to get access to their records that the Scheme has recorded on their behalf. Many finders have hundreds of objects, some just have one; but, they all would like to be able to access these without searching for them/
 

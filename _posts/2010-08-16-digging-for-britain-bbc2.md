@@ -43,8 +43,8 @@ The preview videos from 360 Production below, gives you some more details about 
            flashvars="videoId=97158122001&amp;playerID=69701127001&amp;playerKey=AQ%2E%2E,AAAAD0_ZRwk%2E,IdD7rBQ-Sp80c4RSCkREBK5OUDtPKYlN&amp;domain=embed&amp;dynamicStreaming=true"
            bgcolor="#FFFFFF" title="Adobe Flash Player">
 </object>
-</p>
-<p>
+
+
     <object id="flashObj" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="270"
             codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">
         <param name="bgcolor" value="#FFFFFF">
@@ -67,7 +67,7 @@ The preview videos from 360 Production below, gives you some more details about 
                flashvars="videoId=97158157001&amp;playerID=69701126001&amp;playerKey=AQ%2E%2E,AAAAD0_ZRwk%2E,IdD7rBQ-Sp80c4RSCkREBK5OUDtPKYlN&amp;domain=embed&amp;dynamicStreaming=true"
                bgcolor="#FFFFFF">
     </object>
-</p>
+
 
 You can read more about this production on 360′s [blog](http://www.360production.com/index.php/2010/08/digging-for-britain-bbc2/) and there’s a few newspaper articles already floating around (listed below):
 
