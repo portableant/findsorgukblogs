@@ -57,7 +57,7 @@ Service class for interacting with Domesday site
 
     public function  __construct(){
 
-    $this->setUri($this->-uri);
+    $this->setUri($this->_uri);
 
     $client  =  self::getHttpClient();
 
@@ -75,13 +75,13 @@ Service class for interacting with Domesday site
 
     case  'format':
 
-    $this->-params['format']  =  $this->setResponseType($value);
+    $this->_params['format']  =  $this->setResponseType($value);
 
     break;
 
     default:
 
-    $this->-params[$key]  =  $value;
+    $this->_params[$key]  =  $value;
 
     break;
 
@@ -97,7 +97,7 @@ Service class for interacting with Domesday site
 
     {
 
-    return  $this->-params;
+    return  $this->_params;
 
     }
 
@@ -105,15 +105,15 @@ Service class for interacting with Domesday site
 
     {
 
-    if  (!in-array(strtolower($responseType),  $this->-responseTypes))  {
+    if  (!in-array(strtolower($responseType),  $this->_responseTypes))  {
 
     throw  new  Pas-Service-Domesday-Exception('Invalid Response Type');
 
     }
 
-    $this->-responseType  =  strtolower($responseType);
+    $this->_responseType  =  strtolower($responseType);
 
-    return  $this->-responseType;
+    return  $this->_responseType;
 
     }
 
@@ -121,7 +121,7 @@ Service class for interacting with Domesday site
 
     {
 
-    return  $this->-responseType;
+    return  $this->_responseType;
 
     }
 
@@ -191,7 +191,7 @@ Service class for interacting with Domesday site
 
     {
 
-    if(!in-array($method,$this->-methods)){
+    if(!in-array($method,$this->_methods)){
 
     throw  new  Pas-Service-Domesday-Exception('That is not a valid method');
 
@@ -199,7 +199,7 @@ Service class for interacting with Domesday site
 
     foreach($params as  $k  =>  $v)  {
 
-    if(!in-array($k,  $this->-placeNearParams)){
+    if(!in-array($k,  $this->_placeNearParams)){
 
     unset($params['k']);
 
@@ -209,7 +209,7 @@ Service class for interacting with Domesday site
 
     $this->setParams($params);
 
-    $path  =  $this->-apiPath  .  $method;
+    $path  =  $this->_apiPath  .  $method;
 
     return  $this->sendRequest('GET',  $path);
 
@@ -286,9 +286,9 @@ This needs rewriting for OO PHP and chained methods and perhaps moving HTML to a
 
     public  function  --construct(){
 
-    $this->-domesday  =  new  Pas-Service-Domesday-Place();
+    $this->_domesday  =  new  Pas-Service-Domesday-Place();
 
-    $this->-cache  =  Zend-Registry::get('cache');
+    $this->_cache  =  Zend-Registry::get('cache');
 
     }
 
@@ -318,15 +318,15 @@ This needs rewriting for OO PHP and chained methods and perhaps moving HTML to a
 
     public  function  getPlacesNear(array  $params,  $key  ){
 
-    if  (!($this->-cache->test($key)))  {
+    if  (!($this->_cache->test($key)))  {
 
-    $data  =  $this->-domesday->getData('placesnear',  $params);
+    $data  =  $this->_domesday->getData('placesnear',  $params);
 
-    $this->-cache->save($data);
+    $this->_cache->save($data);
 
     }  else  {
 
-    $data  =  $this->-cache->load($key);
+    $data  =  $this->_cache->load($key);
 
     }
 
@@ -340,13 +340,13 @@ This needs rewriting for OO PHP and chained methods and perhaps moving HTML to a
 
     $html  =  '<h3>Adjacent Domesday Book places</h3>';
 
-    $html  .=  '<a  href="'  .  $this->-url  .  '"><img class="dec flow" src="http://domesdaymap.co.uk/media/images/lion1.gif" width="67" height="93"/></a>';
+    $html  .=  '<a  href="'  .  $this->_url  .  '"><img class="dec flow" src="http://domesdaymap.co.uk/media/images/lion1.gif" width="67" height="93"/></a>';
 
     $html  .=  '<ul>';
 
     foreach($response as  $domesday){
 
-    $html  .=  '<li><a href="'  .  $this->-baseurl  .  $domesday->grid  .  '/'  .  $domesday->vill-slug
+    $html  .=  '<li><a href="'  .  $this->_baseurl  .  $domesday->grid  .  '/'  .  $domesday->vill-slug
 
     .  '">'.  $domesday->vill  .  '</a></li>';
 
