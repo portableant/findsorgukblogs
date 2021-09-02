@@ -8,7 +8,7 @@ category: treasure
 
 Anglo-Saxon silver scabbard mount
 
-Earlier this year, Dr Stephen Hammond discovered an [Anglo-Saxon silver pyramid-shaped sword scabbard mount](https://finds.org.uk/database/artefacts/record/id/538684) in Heacham, Norfolk.  
+Earlier this year, Dr Stephen Hammond discovered an [Anglo-Saxon silver pyramid-shaped sword scabbard mount](https://finds.org.uk/database/artefacts/record/id/538684) in Heacham, Norfolk. 
 
 He recorded the find with the Norfolk Identification and Recording Service, (who host the Portable Antiquities Scheme’s Finds Liaison Officer) who reported the mount to the coroner as potential Treasure.   
 
@@ -16,4 +16,4 @@ Early Medieval sword scabbard mount are fascinating and wonderfully designed obj
 
 In an act of great generosity, Dr Hammond and the owner of the land both agreed to forego any reward in order that the sword scabbard mount could be acquired by [Norwich Castle Museum](http://www.museums.norfolk.gov.uk/Visit_Us/Norwich_Castle/index.htm) at no expense.  In the course of doing so, Dr Hammond was reminded of the first time he had made a donation to Norwich Castle Museum, in 1952!  Amazingly, he still had the certificate issued by the Town Clerk acknowledging his deed of 60 years ago.   
 
-Dr Hammond has had more than a handlful of Treasure finds over the years, but this historic document shows just how long he has been pursuing his hobby.  Thank you again Dr Hammond, to you and the landowner!
+Dr Hammond has had more than a handful of Treasure finds over the years, but this historic document shows just how long he has been pursuing his hobby.  Thank you again Dr Hammond, to you and the landowner!
