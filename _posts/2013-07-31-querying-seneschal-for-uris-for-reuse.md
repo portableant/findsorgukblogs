@@ -12,11 +12,11 @@ I’m currently working on mapping PAS data to the [CIDOC-CRM](http://www.cidoc-
 
 To obtain the URIs and extra information from the FISH archaeological objects thesaurus which number 2020:
 
-	PREFIX skos: &lt;http://www.w3.org/2004/02/skos/core#&gt;
+	PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 	SELECT \*
 	WHERE {
 	?subject a skos:Concept ;
-	skos:inScheme &lt;http://purl.org/heritagedata/schemes/mda\_obj&gt; ;
+	skos:inScheme <http://purl.org/heritagedata/schemes/mda\_obj> ;
 	skos:prefLabel ?label ;
 	skos:scopeNote ?note
 	}
@@ -26,11 +26,11 @@ To obtain the URIs and extra information from the FISH archaeological objects th
 
 To obtain the English Heritage period URIs which number 30 in total:
 
-	PREFIX skos: &lt;http://www.w3.org/2004/02/skos/core#&gt;
+	PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 	SELECT \*
 	WHERE {
 	?subject a skos:Concept ;
-	skos:inScheme &lt;http://purl.org/heritagedata/schemes/eh\_period&gt;;
+	skos:inScheme <http://purl.org/heritagedata/schemes/eh\_period>;
 	skos:prefLabel ?label;
 	}
 	ORDER BY ASC(?label)
@@ -39,24 +39,24 @@ To obtain the English Heritage period URIs which number 30 in total:
 
 To obtain the English Heritage building materials URIs which number 231 in total:
 
-PREFIX skos: &lt;http://www.w3.org/2004/02/skos/core#&gt;
-SELECT \*
-WHERE {
-?subject a skos:Concept ;
-skos:inScheme &lt;http://purl.org/heritagedata/schemes/eh\_tbm&gt;;
-skos:prefLabel ?label;
-}
-ORDER BY ASC(?label)
+	PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+	SELECT \*
+	WHERE {
+	?subject a skos:Concept ;
+	skos:inScheme <http://purl.org/heritagedata/schemes/eh\_tbm>;
+	skos:prefLabel ?label;
+	}
+	ORDER BY ASC(?label)
 
 ### EH Event types
 
 To obtain the English Heritage event type URIs  of which there are 97:
 
-	PREFIX skos: &lt;http://www.w3.org/2004/02/skos/core#&gt;
+	PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 	SELECT \*
 	WHERE {
 	?subject a skos:Concept ;
-	skos:inScheme &lt;http://purl.org/heritagedata/schemes/agl\_et&gt; ;
+	skos:inScheme <http://purl.org/heritagedata/schemes/agl\_et> ;
 	skos:prefLabel ?label ;
 	}
 	ORDER BY ASC(?label)
@@ -65,11 +65,11 @@ To obtain the English Heritage event type URIs  of which there are 97:
 
 To obtain the EH monument type URIs of which there are 4855:
 
-	PREFIX skos: &lt;http://www.w3.org/2004/02/skos/core#&gt;
+	PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 	SELECT \*
 	WHERE {
 	?subject a skos:Concept ;
-	skos:inScheme &lt;http://purl.org/heritagedata/schemes/eh\_tmt2&gt; ;
+	skos:inScheme <http://purl.org/heritagedata/schemes/eh\_tmt2> ;
 	skos:prefLabel ?label ;
 	}
 	ORDER BY ASC(?label)
@@ -78,11 +78,11 @@ To obtain the EH monument type URIs of which there are 4855:
 
 To get a count for any of these:
 
-	PREFIX skos: &lt;http://www.w3.org/2004/02/skos/core#&gt;
+	PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 	SELECT (COUNT(\*) AS ?count)
 	WHERE {
 	?subject a skos:Concept ;
-	skos:inScheme &lt;SCHEME URI&gt; ;
+	skos:inScheme <SCHEME URI> ;
 }
 
 ### Offsetting
@@ -93,7 +93,7 @@ The end point returns a maximum of 250 records, and so to get more results, use 
 	SELECT \*
 	WHERE {
 	?subject a skos:Concept;
-	skos:inScheme &lt;YOUR SCHEME URI&gt;;
+	skos:inScheme <YOUR SCHEME URI>;
 	skos:prefLabel ?label;
 	skos:scopeNote ?note
 	}
