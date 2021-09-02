@@ -5,9 +5,6 @@ author: Ian Richardson
 title: PAS shines at Current Archaeology 2011
 category: treasure
 ---
-PAS shines at Current Archaeology 2011
---------------------------------------
-
 February 26th, 2011 by Ian Richardson
 
 This weekend, for the third year out of the last four, the British Museum plays host to the annual Current Archaeology Conference. The conference is well-known for the breadth of topics covered and the diverse array of talented speakers taking part simultaneously across two lecture theatres. It also bestows its own unique set of reader-chosen awards, and the Portable Antiquities Scheme (PAS) featured heavily in those given out this year.
@@ -20,4 +17,4 @@ The highlight of this first day’s events was the handing out of the Current 
 
 Taking advantage of a unique opportunity to capture several hundred archaeologists together in one space on a Saturday evening, the organisers of the Current Archaeology conference treated all those present to a once-in-a-decade appearance by the (in)famous rock band ‘Timothy Darvill and the Standing Stones’. Displaying a surprising range of musical knowledge, the group (led by early morning presenter and lead guitarist Professor Timonthy Darvill of Bournemouth University) crooned away to songs from some of the industry’s best-known talents, from Elvis Prestly to CCR, the Beatles to the Rolling Stones, Blondie to the Kaiser Chiefs. What better way to end the evening than to pogo along with fan Julian Richards to ‘I Predict a Riot’? (Yes, we are geeks…)
 
-[![]({{ site.baseurl }}/files/2011/02/Current-Archaeology-2011-018-300x225.jpg)]({{ site.baseurl }}/files/2011/02/Current-Archaeology-2011-018.jpg)
+![]({{ site.baseurl }}/files/2011/02/Current-Archaeology-2011-018-300x225.jpg)

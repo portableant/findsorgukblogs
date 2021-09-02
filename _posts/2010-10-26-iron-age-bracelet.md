@@ -6,11 +6,7 @@ category: north-east
 title: Iron Age bracelet
 ---
 
-# Iron Age Bracelet
-
-October 26th, 2010 by Frances McIntosh
-
-[![]({{ site.baseurl }}/files/2010/10/DUR-F3F8C4-lance-todd-obj-300x292.jpg)]({{ site.baseurl }}/files/2010/10/DUR-F3F8C4-lance-todd-obj.jpg)
+![]({{ site.baseurl }}/files/2010/10/DUR-F3F8C4-lance-todd-obj-300x292.jpg)
 
 Iron Age bracelet fragment
 

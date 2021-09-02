@@ -5,13 +5,7 @@ published: 2011-03-17
 category: north-east
 title: Bronze Age Spearhead from Co. Durham
 ---
-
-Bronze Age Spearhead from Co. Durham
-------------------------------------
-
-March 17th, 2011 by Frances McIntosh
-
-[![]({{ site.baseurl }}/files/2011/03/IMG_4577-279x300.jpg)]({{ site.baseurl }}/files/2011/03/IMG_4577.jpg)
+![]({{ site.baseurl }}/files/2011/03/IMG_4577-279x300.jpg)
 
 In January this year a local metal detectorist kindly donated one of his finds to my handling collection to be used on outreach and education events. As it got to the front of my queue of artefacts this week, my volunteer and I set to pinning it down typologically in order to record it.
 

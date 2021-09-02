@@ -6,12 +6,9 @@ category: somerset
 title: Royal wedding souvenir
 ---
 
-Royal wedding souvenir
-======================
-
 With Royal wedding fever all over media I was interested to come across this [find](http://finds.org.uk/database/artefacts/record/id/104160) which shows souvenirs of Royal weddings are nothing new. It is a silver heart shaped locket found in two pieces with moulded portraits of a crowned Charles II on one side (flanked by the incised initials C/R) and his wife, Katherine of Braganza, (flanked by K/R) on the other. It commemorates their marriage in 1662 and was found near the site of the Battle of Sedgemoor, which took place on 6th July 1685. It is possible that the locket was lost by someone fighting on the side of the King during the battle.
 
-[![](http://finds.org.uk/blogs/somerset/files/2011/04/C6EDD1-1024x750.jpg)](http://finds.org.uk/blogs/somerset/files/2011/04/C6EDD1.jpg)
+![](http://finds.org.uk/blogs/somerset/files/2011/04/C6EDD1-1024x750.jpg)
 
 SOM-C6EDD1: Locket commemorating the marriage of Charles II and Katherine of Braganza
 

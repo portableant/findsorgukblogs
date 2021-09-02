@@ -6,10 +6,7 @@ published: 2012-04-12T09:23:13+00:00
 title: Staffordshire Hoard Talks at Birmingham Museum and Art Gallery
 ---
 
-# Staffordshire Hoard Talks at Birmingham Museum and Art Gallery
-
-
-[![The hoard]({{ site.baseurl }}/files/2012/04/clip_image002.jpg)]({{ site.baseurl }}/files/2012/04/clip_image002.jpg)
+![The hoard]({{ site.baseurl }}/files/2012/04/clip_image002.jpg)
 
 Birmingham Museum and Art Gallery have organised a season of Sunday afternoon lectures on the Staffordshire Hoard. These lectures will address four very different aspects of the hoard from its initial discovery and study, the conservation work being undertaken, and what it all means for Mercia and Britain in the Early Medieval Period. It is expected that demand for places will be high so book early to avoid disappointment !!!
 
@@ -34,12 +31,6 @@ Sunday 18th August, 2pm-3pm
 The Hoard as a Window onto England in the age of the Conversion to Christianity
 
 In this talk Professor Nicholas Brooks delves deeper into the context of the Staffordshire Hoard, looking at how religion was going through a process of change during this period in Britain and how the Hoard pieces can illustrate these changes.
-
-For more information on current Staffordshire Hoard exhibition at BMAG see
-http://www.bmag.org.uk/events?id=892
-Or
-
-http://www.staffordshirehoard.org.uk/
 
 All talks will take place in the Waterhall, Birmingham Museum and Art Gallery
 Tickets are £6 per person. Advanced booking is advised for these events.

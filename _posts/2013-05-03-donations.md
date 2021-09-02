@@ -6,10 +6,9 @@ category: treasure
 title: Donations
 ---
 
-Donations
----------
+An Early Medieval silver-gilt disc brooch, now in the care of the Isle of Wight Heritage Service.  Both the finder and landowners waived their right to a reward in this case [IOW-A33D42](http://finds.org.uk/database/artefacts/record/id/406067)
 
-An Early Medieval silver-gilt disc brooch, now in the care of the Isle of Wight Heritage Service.  Both the finder and landowners waived their right to a reward in this case [(ref. IOW-A33D42)]({{ site.baseurl }}/files/2013/05/2010-T524-150x150.jpg)](http://finds.org.uk/database/artefacts/record/id/406067)
+![]({{ site.baseurl }}/files/2013/05/2010-T524-150x150.jpg)
 
 An Early Medieval silver-gilt disc brooch, now in the care of the Isle of Wight Heritage Service. Both the finder and landowners waived their right to a reward in this case (ref. IOW-A33D42)
 

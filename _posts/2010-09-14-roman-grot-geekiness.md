@@ -1,7 +1,10 @@
-# Roman Grot- the geekiness continues!
-
-September 14th, 2010 by Frances McIntosh
-
+---
+layout: default
+author: Frances McIntosh
+published: 2010-09-14
+title: Roman Grot- the geekiness continues!
+category: north-east
+---
 Now most detectorists will have heard of Sam Moorhead, the Roman Coin Advisor for the PAS and his quest for ‘grots’. Sam would love all the 4th century coins to be recorded as he realised that these, often worn and horrid, coins were not being reported and so the data was skewing our understanding of the rural occupation of Roman Britain.
 Since Sam’s quest started metal detectorists have responded with gusto- to the point where some FLOs may wish Sam had not started on this quest! The number of coins on the PAS database has now increased dramatically and Philippa Walton (previously the FLO in the North East) will soon finish a PhD on the Roman coinage recorded on the PAS and how it has changed the picture we have of coin use across the country.
 Like most FLOs I record plenty of Roman coins, since starting in 2007  I have recorded 919 and this is whilst working part time for 2 of those years- and in total there are 139,113 Roman coins on the database- so the volume of data is huge!

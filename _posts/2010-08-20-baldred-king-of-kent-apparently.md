@@ -5,11 +5,7 @@ author: Adam Daubney
 category: lincolnshire
 title: Baldred, King of Kent (apparently)
 ---
-
-Baldred, King of Kent (apparently).
-===================================
-
-[![]({{ site.baseurl }}/files/2010/08/LIN9407-1024x642.jpg)]({{ site.baseurl }}/files/2010/08/LIN9407.jpg)
+![]({{ site.baseurl }}/files/2010/08/LIN9407-1024x642.jpg)
 
 This broken silver penny was recently brought in to me for recording, found near Lincoln.
 

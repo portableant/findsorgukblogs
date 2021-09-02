@@ -6,9 +6,6 @@ category: frome-hoard
 title: Anna Day One of the Frome Hoard
 ---
 
-Anna – Day one
-==============
-
 22.04.10
 
 I was up bright and early to drive to the site this morning. We were off to a good start already – the sun was shining – meaning no worries about digging holes in the rain!
@@ -19,8 +16,7 @@ Dave began by revealing the carefully disguised (and amazingly small) hole that 
 
 The turf and some of the topsoil had been removed and we stool around the trench gawping at something sticking out in the middle. Katie and I had immediately recognised it as a Roman Black Burnished Ware dish turned upside down, as this is a type of pottery that we often record. Its centre was cracked and had caved in – just inside a few tantalising bronze coins could be spotted. In a rough circle around the dish was the outline of the top of a small pit, dug by whoever buried it originally.
 
-[![]({{ site.baseurl }}/files/2010/07/Witham-Friary-Day-1-2-0531-300x225.jpg)]({{ site.baseurl }}/files/2010/07/Witham-Friary-Day-1-2-0531.jpg)
-
+![]({{ site.baseurl }}/files/2010/07/Witham-Friary-Day-1-2-0531-300x225.jpg)
 (C) Salisbury and South Wiltshire Museum
 
 Was that it? Dave would still have done the right thing asking for us to excavate the site to be on the safe side, but it would have been such as shame if this was all that had turned up as a result. However, Alan began to inspect the dish more closely and called us to have a look. It appeared that the dish was sitting within something wider – the rim of a much bigger vessel.
@@ -29,7 +25,7 @@ Alan got back to work immediately, following the line of the original pit, whil
 
 Soon the shoulders of the pot began to emerge and for the first time we had some idea of what we were dealing with. The pot was getting bigger by the second as we dug further. In fact it was even bigger than we had initially guessed, as the neck was fairly narrow. If it was filled with coins then it could potentially be an enormous hoard.
 
-[![]({{ site.baseurl }}/files/2010/07/Witham-Friary-Day-1-2-072-300x225.jpg)]({{ site.baseurl }}/files/2010/07/Witham-Friary-Day-1-2-072.jpg)
+![]({{ site.baseurl }}/files/2010/07/Witham-Friary-Day-1-2-072-300x225.jpg)
 
 (C) Salisbury and South Wiltshire Museum
 

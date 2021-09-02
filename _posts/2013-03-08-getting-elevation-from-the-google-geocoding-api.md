@@ -3,9 +3,8 @@ layout: default
 published: 2013-03-08T12:11:24+00:00
 author: Daniel Pett
 category: labs
+title:  Getting elevation from the Google geocoding api
 ---
-Getting elevation from the Google geocoding api
-===============================================
 
 The code below can be used to access Google’s elevation API and retrieve single point data easily using Zend HTTP Client. I previously used the geonames API, but found that too flaky for production. There are restrictions on using this api:
 
@@ -22,84 +21,84 @@ Access the google elevation
 
 
     <?php
-    
+
     /\*\* A class for getting elevation of a latlon point against the google api
     \* @version 1
     \* @author Daniel Pett
     \* @license GNU
     \* @package Pas\_Service
-    
+
     \* @subpackage Geo
-    
+
     \* @category Pas
-    
+
     \* @see https://developers.google.com/maps/documentation/elevation/
-    
+
     \* @uses Zend\_Http\_Client
-    
+
     \* @uses Zend\_Json
-    
+
     \*/
-    
+
     class  Pas\_Service\_Geo\_Elevation{
-    
+
     const  ELEVATIONURI  \=  'http://maps.googleapis.com/maps/api/elevation/json';
-    
+
     /\*\* Get the coordinates from an address string
-    
+
          \* @param float $lat
-    
+
          \* @param float $lon
-    
+
          \* @access public
-    
+
          \*/
-    
+
     public  function  \_getElevationApiCall($lat,  $lon)  {
-    
+
     $client  \=  new  Zend\_Http\_Client();
-    
+
     $client\->setUri(self::ELEVATIONURI);
-    
+
     $client->setParameterGet('locations',  $lon  .  ','  .  $lat)
            ->setParameterGet('sensor',  'false');
-    
+
     $result  \=  $client\->request('GET');
-    
+
     $response  \=  Zend\_Json\_Decoder::decode($result\->getBody(),
-    
+
     Zend\_Json::TYPE\_OBJECT);
-    
+
     return  $response;
-    
+
     }
-    
+
     /\*\* Get the coordinates of an address
-    
+
          \* @param float $lat
-    
+
          \* @param float $lon
-    
+
          \* @access public
-    
+
          \*/
-    
+
     public  function  getElevation($lat,  $lon){
-    
+
     $response  \=  $this\->\_getElevationApiCall($lat,  $lon);
-    
+
     if(isset($response\->results\[0\]\->elevation)){
-    
+
     return  $response\->results\[0\]\->elevation;
-    
+
     }  else  {
-    
+
     return  null;
-    
+
     }
-    
+
     }
-    
+
     }
 
 To use this in your code do the below:
@@ -107,9 +106,9 @@ To use this in your code do the below:
 Use the service class
 
     $api = new Pas\_Service\_Geo\_Elevation(); $elevation = $api->getElevation($data\['declong'\], $data\['declat'\]);
-    
+
     $api  \=  new  Pas\_Service\_Geo\_Elevation();
-    
+
     $elevation  \=  $api\->getElevation($data\['declong'\],  $data\['declat'\]);
 
 Pretty simple.

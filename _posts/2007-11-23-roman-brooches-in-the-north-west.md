@@ -5,8 +5,6 @@ author: Frances McIntosh
 category: north-west
 title:  Roman Brooches in the North West.
 ---
-Roman Brooches in the North West…
----------------------------------
 
 …well, Greater Manchester, Merseyside and Cheshire really. Nick Herepath, my predecessor did a study on this topic in the past and I am hoping to continue this with plans for expansion and diversification. To this end I thought I would let people know what I am doing and then you can all help!
 
@@ -17,6 +15,3 @@ Secondly I want to carry out some work on Wirral type brooches. This is a type n
 There are very few of these brooches known about/recorded. This is another plea to all those detectorists/members of the public who may have one hidden at home, not realising what it is or how much you could help with an interesting study to prove that the Wirral made something pretty amazing. So if you think (after reading my next post) that you may have one of these brooches, the please get in touch with me.
 
 I will try to keep people updated with my research on this topic. I have already done a little spotlight on a Kraftig profilierte type which will fit nicely into the catalogue (in the distant future!)
-
-[]({{ site.baseurl }}/files/2007/11/jackson-brooch.jpg "The brooch itself")[![](http://finds.org.uk/blogs/northwest/files/2007/11/jackson-brooch-300x129.jpg "jackson-brooch")](http://finds.org.uk/blogs/northwest/files/2007/11/jackson-brooch.jpg)
-

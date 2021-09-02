@@ -6,9 +6,6 @@ author: Laura McLean
 category: essex
 ---
 
-Bronze Age Hoard from the Burnham on Crouch Area
-================================================
-
 In late September Laura McLean (Essex FLO) was contacted by a landowner who had given permission for a metal detectorist to search on his land. He had said that a few interesting objects had turned up, and could he bring them in for examination. Well, a few interesting objects actually turned out to be a lot of metal work, forming a Bronze Age Hoard. The landowner and the detectorist Mr J Humphreys brought the objects into Colchester and Ipswich Museums to be examined and reported under the Treasure Act.
 
 Mr Humpreys was on holiday in Essex when he made the discovery. About a week later, Laura was contacted by three Essex based metal detectorists who also had permission to detect on the same land. Mr W Hill, Mr C Mann and Mr G Starr had recovered even more Bronze Age material from the same area as the original find.
@@ -19,7 +16,7 @@ In early October, Laura McLean, Kate Orr (assistant FLO) and three members of th
 
 A 2 meter square trench was excavated with the help of the detectortists to find the remaining metal work concentrations and to locate the pottery vessel. Once the area marking the pot was reached, a careful excavation around the vessel began.
 
-[![]({{ site.baseurl }}/files/2010/10/IMG_2372-300x225.jpg)]({{ site.baseurl }}/files/2010/10/IMG_2372.jpg)
+![]({{ site.baseurl }}/files/2010/10/IMG_2372-300x225.jpg)
 
 Excavating the hoard area
 
@@ -29,17 +26,17 @@ So a fragile, fractured pot, full of very heavy metal work. Decision time – sh
 
 As the chance to excavate an in situ hoard is so rare (as most reported are out of context in the plough soil) and the fact there is pottery involved makes it even more unusual, we made the decision to block lift as this would allow us to get the maximum amount of information about the deposit. This would also give us the opportunity to x-ray the vessel back in the lab, giving us a clearer understanding of the order objects were deposited in the vessel.
 
-[![]({{ site.baseurl }}/files/2010/10/f2-300x225.jpg)]({{ site.baseurl }}/files/2010/10/f2.jpg)
+![Wrapping the pot in clingfilm!]({{ site.baseurl }}/files/2010/10/f2-300x225.jpg)
 
-wrapping the pot in clingfilm!
+Wrapping the pot in clingfilm!
 
 So, out came the cling film to hold the pot together whilst we dug around it and undermined it so that it could be lifted. This was a rather slow and painstaking process, making sure the vessel was supported whilst digging around it. Eventually the vessel was ready to be lifted, and for rather a small pot it was bloomin heavy with all the metalwork inside!
 
-[![]({{ site.baseurl }}/files/2010/10/f3-300x225.jpg)]({{ site.baseurl }}/files/2010/10/f3.jpg)
+![Excavating the pot]({{ site.baseurl }}/files/2010/10/f3-300x225.jpg)
 
 Excavating the pot
 
-[![]({{ site.baseurl }}/files/2010/10/f4-300x225.jpg)]({{ site.baseurl }}/files/2010/10/f4.jpg)
+![Lifting the pot]({{ site.baseurl }}/files/2010/10/f4-300x225.jpg)
 
 Lifting the pot
 

@@ -6,8 +6,6 @@ category: essex
 title: Metal detecting… in Italy!
 ---
 
-Metal detecting… in Italy!
-==========================
 
 I just about have time for this short post -  Everyone is keeping me busy with new finds to record now that the metal detecting season is getting into full swing!!
 

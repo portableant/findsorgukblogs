@@ -6,10 +6,7 @@ category: the-marches
 title: PAS Finds from Shropshire and Herefordshire published in West Midlands Archaeology
 ---
 
-PAS Finds from Shropshire and Herefordshire published in West Midlands Archaeology
-==================================================================================
-
-[![Roman Mount from Shrewsbury Area Shropshire]({{ site.baseurl }}/files/2011/01/HESH-43BE841-300x255.jpg)]({{ site.baseurl }}/files/2011/01/HESH-43BE841.jpg)
+![Roman Mount from Shrewsbury Area Shropshire]({{ site.baseurl }}/files/2011/01/HESH-43BE841-300x255.jpg)
 
 Every year the PAS team in the West Midlands are asked to contribute to West Midlands Archaeology, a journal that tries to capture all the archaeological work carried out within the year (see [http://www.britarch.ac.uk/cbawm/WMA.php](http://www.britarch.ac.uk/cbawm/WMA.php)). We as a group try and identify objects that are both locally and regionally imporant finds; however we also like to highlight particularly good examples of more common or  specific types of find.
 

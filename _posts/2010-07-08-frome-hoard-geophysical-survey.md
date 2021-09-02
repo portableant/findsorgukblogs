@@ -6,11 +6,7 @@ published: 2010-07-08T09:01:51+00:00
 category: frome-hoard
 ---
 
-Frome hoard geophysical survey
-==============================
-
-[![Geophysical survey in progress]({{ site.baseurl }}/files/2010/07/geophys-225x300.jpg)]({{ site.baseurl }}/files/2010/07/geophys.jpg)
-
+![Geophysical survey in progress]({{ site.baseurl }}/files/2010/07/geophys-225x300.jpg)
 Geophysics (c) Somerset County Council
 
 04.05.10

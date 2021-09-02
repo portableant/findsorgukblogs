@@ -1,11 +1,8 @@
 ---
-author: Daniel Pett
+author: Frances McIntosh
 category: north-east
+title: General North East Update
 ---
-
-# General North East Update
-
-August 2nd, 2010 by Frances McIntosh
 
 This is my first post on the North East blog and so thought I would just update people as to the situation here in the NE.
 
@@ -19,10 +16,8 @@ My first find which I would like to feature is not Roman, in fact it is late Med
 
 Although it looks simple and is not made from precious metal it is none-the-less another piece of the past which is improving our knowledge of material culture and how it differs or is the same across the country. The majority of Medieval and Post Medieval lead toys were found in London but the data recorded with the PAS is changing this and showing that these items were used all over the country, even if it was in smaller numbers.
 
-[![brown ampulla DUR-35B102](/files/2010/08/brown-ampulla-DUR-35B102-150x150.jpg "brown ampulla DUR-35B102")](..//northeast/2010/08/02/general-north-east-update/brown-ampulla-dur-35b102/ "brown ampulla DUR-35B102")
+![brown ampulla DUR-35B102](/files/2010/08/brown-ampulla-DUR-35B102-150x150.jpg "brown ampulla DUR-35B102")
 
-[![Lead toy jug](/files/2010/08/brown-ampulla-DUR-35B1021-150x150.jpg "DUR-35B102")](..//northeast/2010/08/02/general-north-east-update/brown-ampulla-dur-35b102-2/ "DUR-35B102")
+![Lead toy jug](/files/2010/08/brown-ampulla-DUR-35B1021-150x150.jpg "DUR-35B102")
 
 Lead toy jug
-Heading style Horizontal rule Bullet Code block style Fence Em delimiter Strong delimiter Link style Link reference style
-turndown is copyright © 2017 Dom Christie and is released under the MIT license

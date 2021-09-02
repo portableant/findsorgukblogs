@@ -2,17 +2,12 @@
 layout: default
 author: Angie Bolton
 category: west-midlands
-published:
+published: January 5th, 2011
 title: PAS and CBA West Midlands
 ---
-PAS and CBA West Midlands
--------------------------
-
-January 5th, 2011 by Angie Bolton
-
 Happy New Year
 
-[![]({{ site.baseurl }}/files/2011/01/CBAWM-300x149.jpg)]({{ site.baseurl }}/files/2011/01/CBAWM.jpg)
+![]({{ site.baseurl }}/files/2011/01/CBAWM-300x149.jpg)
 
 Thought I would let people know of the revamped CBA West Midlands website which is now up and running. It can be found at
 

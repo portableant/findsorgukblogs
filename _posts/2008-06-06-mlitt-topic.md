@@ -43,7 +43,7 @@ This brooch also seems to be a British variant on the Roman style Trumpet brooch
 of the acceptance of Roman fashions with British influence. Apart from Philpotts work little study has gone into these 
 brooches, it may be possible to distinguish different classes within this type once they have been catalogued more accurately. 
 It is also hoped to confirm the origin of the style of the brooch, Philpott talks about the brooch drawing on a number of 
-decorative and stylistic features of other broochesâ€™ and also whether the Wirral brooch influenced any other types.
+decorative and stylistic features of other brooches' and also whether the Wirral brooch influenced any other types.
 
 Since Philpott's 1999 publication, the number of Wirral brooches known has more than doubled (from England, Wales and 
 Scotland), mostly through the work of the PAS and it is anticipated that this number will continue to rise. As a result 

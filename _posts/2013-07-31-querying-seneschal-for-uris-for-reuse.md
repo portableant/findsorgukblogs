@@ -6,9 +6,6 @@ author: Daniel Pett
 category: labs
 ---
 
-Querying Seneschal for uris for reuse
--------------------------------------
-
 I’m currently working on mapping PAS data to the [CIDOC-CRM](http://www.cidoc-crm.org/) and I’m trying to align our thesauri with the [SENESCHAL](http://www.heritagedata.org/blog/about-heritage-data/seneschal/) uris. To get the all the URIs from their system, run this SPARQL query on their [endpoint](http://heritagedata.org/test/sparql.php) with the URI, preferred label and scope note being obtained. I can then dump these into my database or create a CSV file easily from the results to reference later.
 
 ### FISH object thesaurus
@@ -16,8 +13,8 @@ I’m currently working on mapping PAS data to the [CIDOC-CRM](http://www.cidoc-
 To obtain the URIs and extra information from the FISH archaeological objects thesaurus which number 2020:
 
 	PREFIX skos: &lt;http://www.w3.org/2004/02/skos/core#&gt;
-	SELECT \* 
-	WHERE { 
+	SELECT \*
+	WHERE {
 	?subject a skos:Concept ;
 	skos:inScheme &lt;http://purl.org/heritagedata/schemes/mda\_obj&gt; ;
 	skos:prefLabel ?label ;
@@ -30,8 +27,8 @@ To obtain the URIs and extra information from the FISH archaeological objects th
 To obtain the English Heritage period URIs which number 30 in total:
 
 	PREFIX skos: &lt;http://www.w3.org/2004/02/skos/core#&gt;
-	SELECT \* 
-	WHERE { 
+	SELECT \*
+	WHERE {
 	?subject a skos:Concept ;
 	skos:inScheme &lt;http://purl.org/heritagedata/schemes/eh\_period&gt;;
 	skos:prefLabel ?label;
@@ -43,8 +40,8 @@ To obtain the English Heritage period URIs which number 30 in total:
 To obtain the English Heritage building materials URIs which number 231 in total:
 
 PREFIX skos: &lt;http://www.w3.org/2004/02/skos/core#&gt;
-SELECT \* 
-WHERE { 
+SELECT \*
+WHERE {
 ?subject a skos:Concept ;
 skos:inScheme &lt;http://purl.org/heritagedata/schemes/eh\_tbm&gt;;
 skos:prefLabel ?label;
@@ -57,7 +54,7 @@ To obtain the English Heritage event type URIs  of which there are 97:
 
 	PREFIX skos: &lt;http://www.w3.org/2004/02/skos/core#&gt;
 	SELECT \*
-	WHERE { 
+	WHERE {
 	?subject a skos:Concept ;
 	skos:inScheme &lt;http://purl.org/heritagedata/schemes/agl\_et&gt; ;
 	skos:prefLabel ?label ;
@@ -70,7 +67,7 @@ To obtain the EH monument type URIs of which there are 4855:
 
 	PREFIX skos: &lt;http://www.w3.org/2004/02/skos/core#&gt;
 	SELECT \*
-	WHERE { 
+	WHERE {
 	?subject a skos:Concept ;
 	skos:inScheme &lt;http://purl.org/heritagedata/schemes/eh\_tmt2&gt; ;
 	skos:prefLabel ?label ;
@@ -83,7 +80,7 @@ To get a count for any of these:
 
 	PREFIX skos: &lt;http://www.w3.org/2004/02/skos/core#&gt;
 	SELECT (COUNT(\*) AS ?count)
-	WHERE { 
+	WHERE {
 	?subject a skos:Concept ;
 	skos:inScheme &lt;SCHEME URI&gt; ;
 }
@@ -92,7 +89,7 @@ To get a count for any of these:
 
 The end point returns a maximum of 250 records, and so to get more results, use OFFSET n as shown below:
 
-	PREFIX skos: 
+	PREFIX skos:
 	SELECT \*
 	WHERE {
 	?subject a skos:Concept;
@@ -102,4 +99,3 @@ The end point returns a maximum of 250 records, and so to get more results, use 
 	}
 	ORDER BY ASC(?label)
 	OFFSET 250
-                               

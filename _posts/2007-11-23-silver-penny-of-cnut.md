@@ -6,8 +6,6 @@ title: Silver penny of Cnut
 category: lincolnshire
 ---
 
-Silver penny of Cnut
-====================
 
 Thought i’d share this little gem with you all recently found in the County – a silver hammered penny of King Cnut (1016-1035).  This is a ‘pointed helmet’ type, for obvious reasons, and so can be dated a little narrower to AD1024-30.  The obverse reads ‘CNUT REX ANG’.
 

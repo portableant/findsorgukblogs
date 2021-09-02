@@ -12,7 +12,7 @@ Anna – Day three
 
 This morning was a little quieter than usual. Dave couldn’t make it until later as he was working and Katie was having a much needed day off as her partner’s children were going to be with them. So when I arrived it was just me and Alan. The morning light was beautifully clear and I had the perfect opportunity to take some shots of the site before we began working. 
 
-[![]({{ site.baseurl }}/files/2010/07/Copy-of-IMG_4150-200x300.jpg)]({{ site.baseurl }}/files/2010/07/Copy-of-IMG_4150.jpg)
+![]({{ site.baseurl }}/files/2010/07/Copy-of-IMG_4150-200x300.jpg)
 
 Morning - day two (C) Somerset County Council
 
@@ -24,7 +24,7 @@ Before too long more people began to arrive on site. The landowners continued to
 
 Excitement had been building as we neared the bottom of the vessel. The size of the hoard naturally depended on that of the pot and we had no way of knowing its shape until we had removed all the coins. Suddenly, however, the sides began to narrow rapidly and we realised that we had finally reached the bottom. I was so excited that I sent a picture to Katie, who I had been keeping updated all day. She promptly decided that she couldn’t miss out any longer and would come out with her partner and the kids.  We were surprised at the small diameter of the vessel’s base and this added another piece to the puzzle - it was unlikely that it would have stood up unsupported when fully filled and so was probably buried to a certain point, before then being filled with coins.
 
-[![]({{ site.baseurl }}/files/2010/07/IMG_4234-300x200.jpg)]({{ site.baseurl }}/files/2010/07/IMG_4234.jpg)
+![]({{ site.baseurl }}/files/2010/07/IMG_4234-300x200.jpg)
 
 The pot (C) Somerset County Council
 
@@ -34,7 +34,7 @@ The final stage was the removal of the rest of the pot once we had cleaned and p
 
 Filling in the hole felt like both a momentous event and a slight anticlimax. We had removed a hoard that had sat in the spot since the Roman period and which we already knew was going to add a huge amount to our understanding of this period. We had learnt an enormous ourselves amount along the way, both about this period in history and also about how to excavate such a hoard whilst preserving the evidence that it and its surrounding context contained. It had been an amazing three days of learning for everyone involved. And we were extremely pleased to have been able to share the experience with Dave and Mr and Mrs Sheppard and their family, who all contributed their considerable knowledge of the surrounding area. As the soil was shovelled back into the hole Dave threw in a couple of coins (foreign ones I think – just to confuse them!) – an instinctive reaction to mark the occasion, which we all understood and shared.
 
-[![]({{ site.baseurl }}/files/2010/07/IMG_42861-300x200.jpg)]({{ site.baseurl }}/files/2010/07/IMG_42861.jpg)
+![]({{ site.baseurl }}/files/2010/07/IMG_42861-300x200.jpg)
 
 Everyone - day three (C) Somerset County Council
 

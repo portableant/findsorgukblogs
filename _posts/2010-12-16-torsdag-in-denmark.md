@@ -6,9 +6,6 @@ category: danish-research
 title: Torsdag in Denmark
 ---
 
-Torsday in Denmark
-------------------
-
 It’s snowing…. but important things first:
 
 At tea Australia are 179 for 6! England won the toss and decided to field. Ponting was out for 12 (pictured). Only Hussey offered any resilience (out for 61). If England get the wicket of Haddin (and perhaps Johnson) before the close of play, we are well on course to retain the Ashes by the end of the weekend.

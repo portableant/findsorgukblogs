@@ -6,9 +6,6 @@ author: Daniel Pett
 category: central-unit
 ---
 
-Leveraging geodata for enriched records
-=======================================
-
 This post discusses how I’ve been using various geodata tools (principally Yahoo!, but also Flickr shapefiles, Google’s maps and geocoder apis, Geonames, OSdata and I’m now exploring the Unlock project from Edina to see what they can offer as well), for the enrichment of our database. I started writing this post back in May, but as I’ve just spoken at the [W3G unconference](http://www.w3gconf.com/) in Stratford-on-Avon, I thought I’d finish it and get it out. Gary Gale and his helpers produced a very good un-conference, at which I met some very interesting people (shame TW Bell couldn’t come!) and saw some good examples of what other people are up to.
 
 My presentation from that conference is embedded here:

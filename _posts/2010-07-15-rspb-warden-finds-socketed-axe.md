@@ -6,10 +6,6 @@ category: wiltshire
 title: RSPB warden finds socketed axehead!
 ---
 
-
-RSPB warden finds socketed axehead!
------------------------------------
-
 First of all, welcome to the Wiltshire blog on the \*new\* PAS database! I hope to post a ‘find of the moment’ every few weeks or so.
 
 Today I am handing back this rather unusual Middle Bronze Age (1400-1150 BC) socketed axehead, found in the Marlborough area by a RSPB warden checking birds. It was just lying on the surface of the field!

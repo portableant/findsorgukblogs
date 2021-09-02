@@ -6,10 +6,7 @@ published: 2011-11-09T16:11:00+00:0
 category: lincolnshire
 ---
 
-Roman denarius of Julia Maesa reused as a finger ring bezel
-===========================================================
-
-[![]({{ site.baseurl }}/2011/11/2011_T7521-300x185.jpg)]({{ site.baseurl }}/2011/11/2011_T7521.jpg)
+![]({{ site.baseurl }}/2011/11/2011_T7521-300x185.jpg)
 
 Roman denarii are fairly common finds in Lincolnshire, as are Roman finger rings, but to get a coin reworked as a setting is rather special. Take a look at LIN-A8E677.
 

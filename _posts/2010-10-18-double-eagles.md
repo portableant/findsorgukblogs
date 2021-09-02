@@ -1,20 +1,16 @@
---- 
-layout: default 
-published: 2010-10-18
-author: Ian Richardson 
-category: treasure
 ---
-
-Inquest opened for Gold American Coins from Hackney, Greater London
--------------------------------------------------------------------
-
-October 18th, 2010 by Ian Richardson
+layout: default
+published: 2010-10-18
+author: Ian Richardson
+category: treasure
+title: Inquest opened for Gold American Coins from Hackney, Greater London
+---
 
 An inquest was opened at St Pancras Coroner’s Court on Monday, 18 October 2010, in relation to a hoard of American gold twenty-dollar coins found in the borough of Hackney, Greater London.
 
 The inquest has been opened to determine whether the hoard qualifies as Treasure.  Because the coins are less than 300 years’ old, in order to qualify as Treasure they need to meet the following criteria:
 
-[![The group of American gold coins from Hackney]({{ site.baseurl }}/files/2010/10/2007T365-on-black-background-small1-300x225.jpg "The group of American gold coins from Hackney")](http://farm5.static.flickr.com/4113/5092576337_335dcec922_z.jpg)
+![The group of American gold coins from Hackney](http://farm5.static.flickr.com/4113/5092576337_335dcec922_z.jpg)
 
 1. Made of gold or silver
 
@@ -46,78 +42,46 @@ A catalogue of the hoard runs as follows:
 
 [![A close-up of a selection of the coins]({{ site.baseurl }}/files/2010/10/2007T365-close-up-small1-300x199.jpg "A close-up of a selection of the coins")](http://farm5.static.flickr.com/4089/5092576061_eb11cbb662_z.jpg)
 
-_Date                 Mint            Total number in find_
-
-1854           San Francisco                1
-
-1867           San Francisco                1
-
-1870           San Francisco                1
-
-1875           Carson City                    1
-
-1875            San Francisco                1
-
-1876           San Francisco                 5
-
-1876           Philadelphia                    2
-
-1877            San Francisco                 2
-
-1877            Philadelphia                    1
-
-1881            San Francisco                  1
-
-1882            San Francisco                  2
-
-1883            San Francisco                  3
-
-1884            San Francisco                  2
-
-1885            San Francisco                   1
-
-1888            San Francisco                  4
-
-1889             San Francisco                   1
-
-1890             Philadelphia                      1
-
-1891               San Francisco                  1
-
-1893               San Francisco                  1
-
-1894               San Francisco                  4
-
-1896               San Francisco                  3
-
-1898               San Francisco                  4
-
-1899                San Francisco                  4
-
-1900                San Francisco                  2
-
-1901                 San Francisco                  3
-
-1902                 San Francisco                  2
-
-1905                 San Francisco                  2
-
-1907                 Philadelphia                     1
-
-1908                 Philadelphia                     17
-
-1909                 Philadelphia                      1
-
-1910                  Philadelphia                      1
-
-1913                  Philadelphia                      3
-
-1913                  Denver                                  1
+| Date | Mint          | Total number in find |
+|------|---------------|----------------------|
+| 1854 | San Francisco |                    1|
+| 1867 | San Francisco |                    1 |
+| 1870 | San Francisco |                    1 |
+| 1875 | Carson City   |                    1 |
+| 1875 | San Francisco |                    1 |
+| 1876 | San Francisco |                    5 |
+| 1876 | Philadelphia  |                    2 |
+| 1877 | San Francisco |                    2 |
+| 1877 | Philadelphia  |                    1 |
+| 1881 | San Francisco |                    1 |
+| 1882 | San Francisco |                    2 |
+| 1883 | San Francisco |                    3 |
+| 1884 | San Francisco |                    2 |
+| 1885 | San Francisco |                    1 |
+| 1888 | San Francisco |                    4 |
+| 1889 | San Francisco |                    1 |
+| 1890 | Philadelphia  |                    1 |
+| 1891 | San Francisco |                    1 |
+| 1893 | San Francisco |                    1 |
+| 1894 | San Francisco |                    4 |
+| 1896 | San Francisco |                    3 |
+| 1898 | San Francisco |                    4 |
+| 1899 | San Francisco |                    4 |
+| 1900 | San Francisco |                    2 |
+| 1901 | San Francisco |                    3 |
+| 1902 | San Francisco |                    2 |
+| 1905 | San Francisco |                    2 |
+| 1907 | Philadelphia  |                    1 |
+| 1908 | Philadelphia  |                   17 |
+| 1909 | Philadelphia  |                    1 |
+| 1910 | Philadelphia  |                    1 |
+| 1913 | Philadelphia  |                    3 |
+| 1913 | Denver        |                    1 |
 
 The images above are copyright the Museum of London.
 
-**Contacts:**
+### Contacts
 
-Ian Richardson, Treasure Registrar, British Museum, London WC1B 3DG, tel.: 020 7323 8546, e-mail: treasure@thebritishmuseum.ac.uk
+Ian Richardson, Treasure Registrar, British Museum, London WC1B 3DG, tel.: 020 7323 8546, e-mail: [treasure@britishmuseum.org](mailto:treasure@britishmuseum.org)
 
-Kate Sumnall, Finds Liaison Officer & Community Archaeologist, Department of Archaeological Collections and Archive, Museum of London, 150 London Wall, London EC2Y 5HN; tel.: 020 7814 5733; e-mail: ksumnall@museumoflondon.org.uk
+Kate Sumnall, Finds Liaison Officer & Community Archaeologist, Department of Archaeological Collections and Archive, Museum of London, 150 London Wall, London EC2Y 5HN; tel.: 020 7814 5733; e-mail: [ksumnall@museumoflondon.org.uk](mailto:ksumnall@museumoflondon.org.uk)

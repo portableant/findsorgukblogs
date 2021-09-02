@@ -5,12 +5,9 @@ title: Rare Hercules and Antaeus knife handle from Lincs
 published: 2007-12-03T18:01:16+00:00
 category: lincolnshire
 ---
-Rare Hercules and Antaeus knife handle from Lincs
-=================================================
+Last week I has the pleasure of recording a rather rare folding knife handle found recently in Kesteven. The knife shows Hercules and Antaeus wrestling with each other, and is depicted with amazing detail and action. Hercules is the chap standing behind with his arms wrapped around Antaeus’ waist throwing Antaeus to the ground.
 
-[](http://finds.org.uk/blogs/lincolnshire/?attachment_id=26 "knife.jpg")[](http://finds.org.uk/blogs/lincolnshire/?attachment_id=27 "knife.jpg")[](http://finds.org.uk/blogs/lincolnshire/?attachment_id=28 "knife.jpg")Last week I has the pleasure of recording a rather rare folding knife handle found recently in Kesteven. The knife shows Hercules and Antaeus wrestling with each other, and is depicted with amazing detail and action. Hercules is the chap standing behind with his arms wrapped around Antaeus’ waist throwing Antaeus to the ground.
-
-[](http://finds.org.uk/blogs/lincolnshire/?attachment_id=29 "knife1.jpg")[![](http://finds.org.uk/blogs/lincolnshire/files/2007/12/knife1-276x300.jpg "knife1")](http://finds.org.uk/blogs/lincolnshire/files/2007/12/knife1.jpg)
+![]({{site.baseurl}}/files/2007/12/knife1-276x300.jpg "knife1")
 
 This knife handle represents an ancient myth, and therefore indicates that some people living in the Lincolnshire countryside were well aquained with Classical Roman mythology.
 

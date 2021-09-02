@@ -6,10 +6,11 @@ title: Fredag in Denmark
 published: 2010-12-17T07:09:25+00:00
 ---
 
-Fredag
-------
+Last night one blogger on TMS wrote
 
-Last night one blogger on TMS wrote ‘baa, baa, ponting have you any wool, no sir sir, been fleeced by the poms’, but today it is quite a different story – at the moment England are 186-8, and might not even make 200! The Aussies in the pub around the corner will be happy.
+> ‘baa, baa, ponting have you any wool, no sir sir, been fleeced by the poms’,
+
+but today it is quite a different story – at the moment England are 186-8, and might not even make 200! The Aussies in the pub around the corner will be happy.
 
 Today I draw my keys and pass for the last time at the Nationalmusset (must remember to hand them back, must remember to hand them back…, apparently you get shot if you forget). I hope to finish looking at those type 11A stirrup-strap mounts on the museum database, and then I’ll need to work out the significance of the distribution. There doesn’t seem to be too many of this type found here, so they could be ‘English’ imports.
 

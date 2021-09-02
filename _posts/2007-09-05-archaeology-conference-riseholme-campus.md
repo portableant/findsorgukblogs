@@ -6,9 +6,6 @@ title: Archaeology conference – Riseholme campus
 category: lincolnshire
 ---
 
-Archaeology conference – Riseholme campus
-=========================================
-
 Hello.
 
 Herewith is notice of an archaeology conference coming up in October.  The conference is looking at quarry sites.  Big holes, lots of archaeology. Not sure how much it is, but you can get tickets from the bookshop at Jew Court, Steep Hill, Lincoln.  The conference is at the university campus at Riseholme. Lovely deer park and ancient trees there – nice to look at if the speaker is dull.

@@ -6,13 +6,9 @@ layout: default
 title: The Shrewsbury Hoard From Discovery to Inquest
 ---
 
-The Shrewsbury Hoard From Discovery to Inquest
-==============================================
-
 The Shrewsbury hoard is one of the largest coin hoards ever found in Shropshire. It’s excavation, conservation and detailed study has revealed the secrets of a Roman time capsule which had lain hidden for almost 1700 years.
 
-**[]({{ site.baseurl }}/files/2011/10/Coin-Hoard-6-reduced.jpg)[![The Shrewsbury Coin Hoard]({{ site.baseurl }}/files/2011/10/Coin-Hoard-6-reduced-225x300.jpg)]({{ site.baseurl }}/files/2011/10/Coin-Hoard-6-reduced.jpg)
-**
+![]({{ site.baseurl }}/files/2011/10/Coin-Hoard-6-reduced.jpg)
 
 **The Discovery:**
 
@@ -26,7 +22,7 @@ It was obvious that this was a well preserved Roman vessel and from its weight w
 
 It is essential for all metal detector users to be familiar with the code of conduct for responsible metal detecting: [http://finds.org.uk/getinvolved/guides/codeofpractice](http://finds.org.uk/getinvolved/guides/codeofpractice)
 
-[![Peter Reavill and Hugh Hannaford Exavating Coin Hoard]({{ site.baseurl }}/files/2011/10/excav-6-300x225.jpg)]({{ site.baseurl }}/files/2011/10/excav-6.jpg)
+![Peter Reavill and Hugh Hannaford Exavating Coin Hoard]({{ site.baseurl }}/files/2011/10/excav-6-300x225.jpg)
 
 Peter Reavill and Hugh Hannaford Exavating Coin Hoard
 
@@ -48,24 +44,23 @@ All the coins from the hoard were removed and the area around the findspot was c
 
 Once the excavation had taken place the hoard was transported to the British Museum for more detailed work.
 
-[![Site after excavation]({{ site.baseurl }}/files/2011/10/excav-7-300x225.jpg)]({{ site.baseurl }}/files/2011/10/trevor.jpg)
+![Site after excavation]({{ site.baseurl }}/files/2011/10/excav-7-300x225.jpg)
 
 Site after excavation
 
-[![Finished excavation]({{ site.baseurl }}/files/2011/10/view-300x225.jpg)]({{ site.baseurl }}/files/2011/10/view.jpg)
+![Finished excavation]({{ site.baseurl }}/files/2011/10/view-300x225.jpg)
 
 Finished excavation
 
-[
-]({{ site.baseurl }}/files/2011/10/hole.jpg)
+![]({{ site.baseurl }}/files/2011/10/hole.jpg)
 
-[![Section drawing]({{ site.baseurl }}/files/2011/10/section-300x180.jpg)]({{ site.baseurl }}/files/2011/10/section.jpg)
+![Section drawing]({{ site.baseurl }}/files/2011/10/section-300x180.jpg)
 
 Section drawing of hole pot was found in
 
 **Conservation and Cataloguing:**
 
-[![]({{ site.baseurl }}/files/2011/10/conservator-and-coins-jpeg-195x300.jpg)]({{ site.baseurl }}/files/2011/10/conservator-and-coins-jpeg.jpg)
+![]({{ site.baseurl }}/files/2011/10/conservator-and-coins-jpeg-195x300.jpg)
 
 Conservation in action
 
@@ -75,7 +70,7 @@ In total there were a staggering 9315 coins within the hoard
 
 The coins were removed from the pot in eight layers of approximately 1000 coins in order to assess the presence of any internal stratigraphy. During this work, some fragments of textile were found within the pot, well-preserved by their proximity to the copper coins. The coins were then cleaned to enable a detailed study to be undertaken. This expert study was led by Dr Eleanor Ghey.
 
-[![Eleanor Ghey at work]({{ site.baseurl }}/files/2011/10/eleanor-at-work-jpeg-300x245.jpg)]({{ site.baseurl }}/files/2011/10/eleanor-at-work-jpeg.jpg)
+![Eleanor Ghey at work]({{ site.baseurl }}/files/2011/10/eleanor-at-work-jpeg-300x245.jpg)
 
 Eleanor Ghey at work
 
@@ -83,7 +78,7 @@ Eleanor found that the coins contained in the vessel and in the soil immediately
 
 The internal stratigraphy of the pot suggests that the latest coins were added in a later deposition event, as they are only significantly present in the upper three layers and the scattered coins outside the pot. This is hugely significant and could shed light on the nature of hoards in general. This is especially true as the vast majority of Roman coin hoards have been spread by the plough and so can not be interrogated as forensically as this example.
 
-[![]({{ site.baseurl }}/files/2011/10/textile-jpeg-300x266.jpg)]({{ site.baseurl }}/files/2011/10/textile-jpeg.jpg)
+![]({{ site.baseurl }}/files/2011/10/textile-jpeg-300x266.jpg)
 
 Textiles attached to coins
 
@@ -99,7 +94,7 @@ An inquest into the hoard was held today (25th October) by Mr John Ellery, HM Co
 
 **What was the hoard worth in Roman times**
 
-[![Reverse Types of the Coins from the Shrewsbury Hoard]({{ site.baseurl }}/files/2011/10/montage-of-reverses-copy-300x296.jpg)]({{ site.baseurl }}/files/2011/10/montage-of-reverses-copy.jpg)
+![Reverse Types of the Coins from the Shrewsbury Hoard]({{ site.baseurl }}/files/2011/10/montage-of-reverses-copy-300x296.jpg)
 
 Reverse Types of the Coins from the Shrewsbury Hoard
 
@@ -111,7 +106,7 @@ Dr Eleanor Ghey (British Museum) “This is an exceptional find of late Roman co
 
 **Locally:** This is a significant group of coins and suggests some form of significant material wealth amongst the local populace. The archaeology of Shropshire is rich in Roman heritage but very little is known about the later periods. Generally it is thought that the early 4th century was a time of plenty with many of the troubles of the previous 50 years settled. In Shropshire though the later 4th century is poorly represented in excavated villas and large farmsteads as well as finds reported through the PAS. This is supported by the map of Roman coin loss reported through the PAS looking at coins made between 317-330 AD (created by Philippa Walton). This map shows the bias towards the South and East during this period.
 
-[![PAS findspots of coins dated 317-330]({{ site.baseurl }}/files/2011/10/16findspots-211x300.jpg)]({{ site.baseurl }}/files/2011/10/16findspots.jpg)
+![PAS findspots of coins dated 317-330]({{ site.baseurl }}/files/2011/10/16findspots-211x300.jpg)
 
 PAS findspots of coins dated 317-330
 
@@ -123,11 +118,4 @@ The hoard will be valued by Treasure Valuation Committee in London who will advi
 
 Once a reward has been fixed, Shropshire Museums hope to raise funds to acquire the hoard for display within the county.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 Peter will be speaking about recent PAS finds from Shropshire – including this important hoard – at an Archaeological Dayschool in Shrewsbury, Shropshire on 12th November 2011.
-
-For more information and to book a place visit:
-
-[http://www.shropshire.gov.uk/environment.nsf/open/16A464755BB2FBB1802579090053FC43](http://www.shropshire.gov.uk/environment.nsf/open/16A464755BB2FBB1802579090053FC43)
-

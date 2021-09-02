@@ -5,11 +5,6 @@ author: Michael Lewis
 category: danish-research
 title: Onsdag in Denmark
 ---
-
-Onsdag (OE: Wodensday)
-----------------------
-
-
 Since Wednesday is Woden’s day I reckoned Onsdag must be Odin’s day, but when I asked the hotel receptionist about this she seemed a little miffed… I am starting to worry the Danes don’t know their history as much as I have been lead to believe.
 
 This morning I was back at the Nationalmuseet, and have spend most of the time looking at detector finds of hooked tags logged as part of danefæ; I am very grateful to Lisbeth Imer for all her help with this. To my surprise there have been relatively few such artefacts found here, which contrasts to England where about 400 examples are recorded on the PAS database alone. If any Danish detectorists have found such things please let me (and the Nationalmuseet) know…

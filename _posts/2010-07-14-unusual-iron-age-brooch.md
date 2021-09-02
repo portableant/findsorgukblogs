@@ -6,13 +6,9 @@ category: oxfordshire
 title: Unusual Iron Age Brooch
 ---
 
+![]({{ site.baseurl }}/2010/07/calowbrooch-300x180.jpg)
 
-Unusual Iron Age Brooch
------------------------
-
-July 14th, 2010 by Anni Byard
-
-[![]({{ site.baseurl }}/2010/07/calowbrooch-300x180.jpg)]({{ site.baseurl }}/2010/07/calowbrooch.jpg)Found in the Wickham area of Berkshire by Jim Calow, this (probable) Iron Age brooch is unusual – only one other has been recorded on the DB that bears any resemblance.
+Found in the Wickham area of Berkshire by Jim Calow, this (probable) Iron Age brooch is unusual – only one other has been recorded on the DB that bears any resemblance.
 
 PAS record number: BERK-4EFFC6
 Object type: Brooch

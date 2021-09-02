@@ -6,10 +6,6 @@ category: north-west
 title:  Coin Data from South Cheshire
 ---
 
-
-Coin Data from South Cheshire
------------------------------
-
 As mentioned previously, a large assemblage of coins from South Cheshire was put onto the database recently which added
 hugely to our data for this county. I have converted these coins into Reece periods to analyse them. The Roman period is
 split into Reece periods for coins(see [https://finds.org.uk/romancoins/reece.php](https://finds.org.uk/romancoins/reece.php)
@@ -33,6 +29,5 @@ of activity. It is a reminder that the boundaries we work with today are often m
 Below are the graphs which show the pattern of coin loss by Reece period, first from the South Cheshire data and second,
 Reece’s British mean. The patterns can be compared and the similarities in the rise/fall of periods can be seen.
 
-[]({{ site.baseurl }}/files/2008/08/pay-coins-graph.jpg)[![]({{ site.baseurl }}/files/2008/08/pay-coins-graph-300x168.jpg "pay-coins-graph")]({{ site.baseurl }}/files/2008/08/pay-coins-graph.jpg)
-
-[]({{ site.baseurl }}/files/2008/08/reece-coin-graph.jpg)[![]({{ site.baseurl }}/files/2008/08/reece-coin-graph-300x184.jpg "reece-coin-graph")]({{ site.baseurl }}/files/2008/08/reece-coin-graph.jpg)
+![]({{ site.baseurl }}/files/2008/08/pay-coins-graph-300x168.jpg "pay-coins-graph")
+![]({{ site.baseurl }}/files/2008/08/reece-coin-graph-300x184.jpg "reece-coin-graph")

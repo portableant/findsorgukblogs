@@ -6,15 +6,11 @@ published: 2010-10-25T13:22:33+00:00
 layout: default
 ---
 
-
-We wish Rod Trevaskus luck as he moves onto pastures new
-========================================================
-
 Jeff Spencer, HER officer for Clwyd Powys Archaeological Trust (CPAT) has written a short piece about his volunteer Rod, who after almost four years as a volunteer has decided to move on to pastures new. Rod has worked with Jeff recording artefacts for the PAS from Wrexham Heritage Society and independent metal detector users in Powys and Shropshire.
 
 Jeff Writes:
 
-[![Rod Trevaskus](http://finds.org.uk/blogs/themarches/files/2010/10/Rod-Trevaskus-at-Wrexham-Heritage-Society-300x289.jpg)](http://finds.org.uk/blogs/themarches/files/2010/10/Rod-Trevaskus-at-Wrexham-Heritage-Society.jpg)
+![Rod Trevaskus](/files/2010/10/Rod-Trevaskus-at-Wrexham-Heritage-Society-300x289.jpg)
 
 Rod started volunteering with the PAS in 2007 and as a direct result of his work the annual totals of recorded artefacts by CPAT have virtually doubled with each successive year;
 
@@ -85,6 +81,3 @@ A full list of finds recorded by Rod can be found here
 which can be mapped here
 
 [https://finds.org.uk/database/search/map/recorderID/00146B1E1CE0181E](https://finds.org.uk/database/search/map/recorderID/00146B1E1CE0181E)
-
-
-[View Larger Map](http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=http:%2F%2Fwww.finds.org.uk%2Fdatabase%2Fsearch%2Fresults%2FrecorderID%2F00146B1E1CE0181E%2Fformat%2Fkml%2F&sll=37.0625,-95.677068&sspn=50.823846,113.818359&ie=UTF8&t=h&ll=52.660286,-2.525438&spn=1.626444,2.698068)

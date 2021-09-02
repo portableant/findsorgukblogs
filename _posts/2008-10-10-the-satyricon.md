@@ -5,8 +5,6 @@ title: The Satyricon
 category: roman-numismatics-phd
 author: Philippa Walton
 ---
-The Satyricon
--------------
 
 October 10th, 2008 by Philippa Walton
 

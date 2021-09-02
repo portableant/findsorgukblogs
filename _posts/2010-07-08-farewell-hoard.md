@@ -6,16 +6,13 @@ published: 2010-07-08T09:01:51+00:00
 category: frome-hoard
 ---
 
-Farewell to the Frome hoard
-===========================
-
 26.04.10
 
 Just a quick entry to say that we said goodbye to the hoard today.
 
 Roger Bland, Head of the Portable Antquities Scheme, and Sam Moorhead, our Roman Coins Advisor, drove down in Sam’s car to pick it up. Roger rang first thing to say that they hoped to come down straight away, leaving us feeling slightly unprepared for how quickly it was going to leave us.
 
-[![]({{ site.baseurl }}files/2010/07/IMGP0738-300x225.jpg)]({{ site.baseurl }}files/2010/07/IMGP0738.jpg)
+![]({{ site.baseurl }}files/2010/07/IMGP0738-300x225.jpg)
 
 Anna shows coins to Sam and Roger © Somerset County Council
 
@@ -23,7 +20,7 @@ Before they arrived I had the opportunity to package it in slightly smaller boxe
 
 We helped Sam and Roger load it into the car and they headed back after a quick cup of tea, keen to get back to London before their destination, the British Museum, closed. They apparently made it in time and Sam sent me a message saying that he only realised the sheer size of what they were dealing with when he saw how low his car was sitting as it stood on the museum forecourt!
 
-[![]({{ site.baseurl }}files/2010/07/IMG_9715-300x200.jpg)]({{ site.baseurl }}files/2010/07/IMG_9715.jpg)
+![]({{ site.baseurl }}files/2010/07/IMG_9715-300x200.jpg)
 
 Coins being loaded © Somerset County Council
 

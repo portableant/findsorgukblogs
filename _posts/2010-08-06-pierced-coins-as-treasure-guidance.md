@@ -6,9 +6,6 @@ title: Pierced Coins as Treasure – Guidance
 category: treasure
 ---
 
-# Pierced Coins as Treasure – Guidance
-
-August 6th, 2010 by Ian Richardson
 
 The Treasure Act 1996 can be difficult to interpret with respect to certain specific classes of objects, one of which is pierced coins. That is because under the Act there are two sets of rules that are applied to artefacts and determine whether they are counted as ‘Treasure’. One set of rules applies to coins, another to all other worked objects. What about something that can appear to fit both definitions?
 
@@ -28,6 +25,6 @@ Please be aware that corrosion or physical damage to a coin may be sufficient to
 
 As always, if there is any question over whether an item may qualify as Treasure, we would urge a finder to contact their local Finds Liaison Officer.
 
-[![]({{ site.baseurl }}/files/2010/07/2009-T664-300x200.jpg)]({{ site.baseurl }}/files/2010/07/2009-T664.jpg)
+![]({{ site.baseurl }}/files/2010/07/2009-T664-300x200.jpg)
 
 Anglo-Saxon silver pierced denier from Suffolk declared Treasure and in the process of being acquired by Colchester and Ipswich Museums Service

@@ -6,9 +6,6 @@ author: Philippa Walton
 category: roman-numismatics-phd
 ---
 
-Wonderful, wonderful Copenhagen!
---------------------------------
-
 Things have been very quiet on the Piercebridge front recently, as I’ve been grappling with a chapter on the function of coinage in Roman Britain and more than 2600 coins from Old Winteringham in Lincolnshire!
 
 However, things will soon get back on track with regards to Piercebridge as I’m off to Copenhagen tomorrow to give a lecture at the Roman Military Equipment conference. Entitled ‘Is the Piercebridge assemblage a military votive deposit?’, I’m hoping the paper will lead to lots of interesting discussion and hopefully, I’ll get identifications for some of the objects which have proved difficult to pin down.

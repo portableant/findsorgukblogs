@@ -6,12 +6,9 @@ category: essex
 title: Sam visits the Colchester Club
 ---
 
-Sam visits the Colchester Club
-==============================
-
 Sam Moorhead, the PAS Roman coins finds advisor visited the Colchester Metal detecting club to talk to them about exciting Roman coin finds from the county.
 
-[![]({{ site.baseurl }}/files/2010/07/P7020025-300x225.jpg)]({{ site.baseurl }}/files/2010/07/P7020025.jpg)
+![]({{ site.baseurl }}/files/2010/07/P7020025-300x225.jpg)
 
 To Sam, and other coin specialists, ‘exciting coins’ aren’t just the beautiful coins that are practically in mint condition. All those horrid looking grotty green discs that most people think are worthless are actually a fantastic source of information for archaeologists.
 

@@ -7,7 +7,6 @@ title: Portable Antiquities Scheme joins Pelagios
 ---
 
 [The Portable Antiquities Scheme joins Pelagios](http://finds.org.uk/blogs/centralunit/2012/10/05/the-portable-antiquities-scheme-joins-pelagios/ "Link to The Portable Antiquities Scheme joins Pelagios")
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 NOTE: This has been recycled from: [http://pelagios-project.blogspot.co.uk/2012/10/the-portable-antiquities-scheme-joins.html](http://pelagios-project.blogspot.co.uk/2012/10/the-portable-antiquities-scheme-joins.html)
 
@@ -19,7 +18,7 @@ Earlier in 2012, the excellent [Linked Ancient World Data Institute](http://wiki
 
 I work for a project based at the British Museum called the [Portable Antiquities Scheme](http://finds.org.uk/) which encourages members of the public within England and Wales to voluntarily record objects that they discover whilst pursuing their hobbies (such as metal-detecting or gardening). The centrepiece of this projects is a publicly accessible database which has been on-line in various guises for over 13 years and the latest version is now in the position to produce interoperable data much more easily than previously.
 
-[![Image of the finds.org.uk database](http://1.bp.blogspot.com/-jV_pt-stSbg/UFyFlAwpCCI/AAAAAAAAEWs/7n-_nFp0AeY/s320/pasDb.png "A screenshot of the finds.org.uk database front end")](http://1.bp.blogspot.com/-jV_pt-stSbg/UFyFlAwpCCI/AAAAAAAAEWs/7n-_nFp0AeY/s1600/pasDb.png)
+![Image of the finds.org.uk database](http://1.bp.blogspot.com/-jV_pt-stSbg/UFyFlAwpCCI/AAAAAAAAEWs/7n-_nFp0AeY/s320/pasDb.png "A screenshot of the finds.org.uk database front end")
 
 The Portable Antiquities Scheme database
 
@@ -31,11 +30,11 @@ At some point in the future, I plan to try and match data extracted from natural
 
 For example, this object [WMID-3FE965](http://finds.org.uk/database/artefacts/record/id/49791), the Staffordshire Moorlands patera or trulla (shown below):
 
-[![](http://finds.org.uk/images/sworrell/medium/114-1479_img.jpg)](http://finds.org.uk/images/sworrell/medium/114-1479_img.jpg)
+![](http://finds.org.uk/images/sworrell/medium/114-1479_img.jpg)
 
 Has the following inscription with place names:
 
-[![](http://finds.org.uk/images/sworrell/medium/all-2bwhard.jpg)](http://finds.org.uk/images/sworrell/medium/all-2bwhard.jpg)
+![](http://finds.org.uk/images/sworrell/medium/all-2bwhard.jpg)
 
 This is a list of four forts located at the western end of Hadrian’s Wall; Bowness (MAIS), Drumburgh (COGGABATA), Stanwix (UXELODUNUM) and Castlesteads (CAMMOGLANNA). it incorporates the name of an individual, AELIUS DRACO and a further place-name, RIGOREVALI. Which can further be given Pleiades identifiers as such:
 
@@ -48,19 +47,18 @@ This is a list of four forts located at the western end of Hadrian’s Wall; Bow
 
 Using Pleiades and Nomisma identifers allows the PAS database to enrich records further via the use of rdfa in view scripts and by the incorporation of the Pelagios widget and the [ISAW javascript](http://isaw.nyu.edu/members/sebastian.heath-40nyu.edu/awld-js) library on a variety of pages. For example, the screenshot below gives a view of a gold aureus of Nero recorded in the North East of England with the Pelagios widget activated:
 
-[![](http://3.bp.blogspot.com/-_vl7V05DEx4/UFyJXQNvBDI/AAAAAAAAEW8/vBYowoDEu40/s320/widget.png)](http://3.bp.blogspot.com/-_vl7V05DEx4/UFyJXQNvBDI/AAAAAAAAEW8/vBYowoDEu40/s1600/widget.png)
+![](http://3.bp.blogspot.com/-_vl7V05DEx4/UFyJXQNvBDI/AAAAAAAAEW8/vBYowoDEu40/s320/widget.png)
 
 The pelagios widget embedded on a coin record:
 [DUR-B4E094 ](http://finds.org.uk/database/artefacts/record/id/495315)
 
 The javascript library by Nick Rabinowitz and Sebastian Heath also allows for enriched web pages, this page for [Nero](http://finds.org.uk/romancoins/emperors/emperor/id/12) shows the libary in action:
 
-[![](http://2.bp.blogspot.com/-Kw8j3x7pmhk/UGq7pz_rn2I/AAAAAAAAEYg/tXBgLer8Bf8/s320/nero.JPG)](http://2.bp.blogspot.com/-Kw8j3x7pmhk/UGq7pz_rn2I/AAAAAAAAEYg/tXBgLer8Bf8/s1600/nero.JPG)
+![](http://2.bp.blogspot.com/-Kw8j3x7pmhk/UGq7pz_rn2I/AAAAAAAAEYg/tXBgLer8Bf8/s320/nero.JPG)
 
 These emperor pages also pull in various resources from third party websites (such as Adrian Murdoch’s excellent talking head video [biographies of Roman emperors](http://www.youtube.com/user/adrianmurdoch?feature=watch)), data from dbpedia, nomisma, viaf and the site’s internal search engine. The same approach is also used, but in a more pared down way for all other issuer periods on our website, for example: [Cnut the Great](http://finds.org.uk/earlymedievalcoins/rulers/ruler/id/192).
 
-### **
-Integrating Johan’s map tiles**
+### Integrating Johan’s map tiles
 
 Following on from Johan’s posting on the magnificent set of map tiles that he’s produced for the Pelagios project (and as seen in use over at the [Pleiades](http://pleiades.stoa.org/home) site and [OCRE](http://numismatics.org/ocre/maps)), I’ve now integrated these into our mapping system. I’ve done it slightly differently to the examples that Johan gave; due to the volume of traffic that we serve up, it wasn’t fair to saddle the Pelagios team with extra bandwidth. Therefore, Johan provided zipped downloads of the map tiles and I store these on our server (if you’re a low traffic site, feel free to use our [tile store](http://finds.org.uk/imperium)):
 

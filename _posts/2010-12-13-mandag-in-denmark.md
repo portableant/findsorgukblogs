@@ -6,9 +6,6 @@ category: danish-research
 author: Michael Lewis
 ---
 
-Mandag in Denmark
------------------
-
 My first day at the Nationalmuseet where I am being looked after by Lisbeth Imer, an expert on runic inscriptions. It has been fascinating learning about danefæ (treasure trove), which I have had the opportunity to discuss with curators in both the medieval (c.1000 onwards) and coins departments. Here any object which is danefæ (i.e. dating to before 1536 and selective items thereafter) **is** acquired, and the finder is payed a reward (not necessarily equal to its market value). Coin finds are acquired by the national museum, whilst many other finds end up in various local museums. Amazingly, museums do not have to bid for funding to acquire finds (as is the case in the UK) - the state simply supplies the cash! It obviously saves the curators lots of work…
 
 Since the danefæ dates back 1241 it seems pretty fairly ingrained in the Danish consciousness that history is important, finds should be reported and the best place for them is in public collections.

@@ -10,13 +10,11 @@ The Talbot Vervel
 
 I have been sent details of this press release from Shropshire Council Museum service about their recent acquisition through the Treasure Act of  a silver vervel belonging to the 10th Earl of Shrewsbury – John Talbot. Not only does this release highlight the work of the PAS, and museum but it praises the finder, Frank Taylor, who has a long standing working relationship with the Museum Service which predates the PAS.
 
-[![Talbot Vervel](http://finds.org.uk/blogs/themarches/files/2011/03/HESH-3A6AE5-1024x514.jpg)](http://finds.org.uk/blogs/themarches/files/2011/03/HESH-3A6AE5.jpg)
+![Talbot Vervel](/files/2011/03/HESH-3A6AE5-1024x514.jpg)
 
 Vervel of John Talbot - Earl of Shrewsbury
 
 The release reads:
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Shropshire Council’s museum service has acquired another remarkable find by local metal detectorist, Frank Taylor – a small hoop and shield that gives us a glimpse into the life of the Earl of Shrewsbury around 380 years ago.
 
@@ -41,8 +39,6 @@ Janet Davies, Head of Regional Liaison & Purchase Grant Fund said:
 > “We were pleased to help the museum acquire this interesting piece. It’s a good example of how modest items are significant in shedding light on life in the past.”
 
 At the moment museum staff are working to develop the seventeenth century displays for the new Shrewsbury Museum and Art Gallery which is due to open in 2012.  Hopefully, the verval will be displayed here as part of the story of Shropshire during this period.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 for the full PAS Treasure report see:
 

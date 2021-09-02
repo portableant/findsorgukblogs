@@ -6,20 +6,17 @@ title: Fab Flint Finds!
 category: essex
 ---
 
-Fab Flint Finds!
-================
-
 Flint is a very difficult thing to spot when out about in a field – well it is for me anyway. Oh don’t get me wrong, I can pick up bits of flint until the cows some home, but never ever have I managed to spot a worked piece! However, there are people out there with a sharp eye who manage to spot these fantastically crafted objects.
 
 Quite often the flint I am given to to record onto the database are tools such as [ESS-98FF03](/database/artefacts/record/id/284882) a Mesolithic adze,  [ESS-388BD4](/database/artefacts/record/id/233826) a Neolithic polished axe or this exquisite barbed and tanged arrow head [ESS-7B4111](/database/artefacts/record/id/291177).
 
-[![]({{ site.baseurl }}/files/2010/08/ARROW-ESS-7B4111-300x222.jpg)]({{ site.baseurl }}/files/2010/08/ARROW-ESS-7B4111.jpg)
+![]({{ site.baseurl }}/files/2010/08/ARROW-ESS-7B4111-300x222.jpg)
 
 Bronze Age arrowhead
 
 As interesting and beautiful as completed tools are, the main thing I have been working on this week is a load of old rubbish. In fact I have been recording and identifying Mesolithic rubbish from an assemblage found in the Colchester District, to be a little more precise.  Although a few tools were brought in with the assemblage, the majority of the finds have been waste flakes (discarded fragments of knapped flint) and cores that have had flakes and blades removed from the surface;  see  [ESS-CFD107](/database/artefacts/record/id/392729),  [ESS-CFCDD4](/database/artefacts/record/id/392728) and [ESS-CFF7C4](/database/artefacts/record/id/392740) for a few examples.
 
-[![]({{ site.baseurl }}/files/2010/08/bladelet-core-ESS-CFCDDG-300x182.jpg)]({{ site.baseurl }}/files/2010/08/bladelet-core-ESS-CFCDDG.jpg)
+![]({{ site.baseurl }}/files/2010/08/bladelet-core-ESS-CFCDDG-300x182.jpg)
 
 Bladelet core
 

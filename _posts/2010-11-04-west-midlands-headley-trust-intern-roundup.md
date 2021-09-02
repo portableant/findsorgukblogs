@@ -14,12 +14,11 @@ I thought I would highlight a few of the more interesting finds I’ve dealt wit
 
 An Upper Palaeolithic flint chopper from Shropshire.
 
-[![CHOPPER](https://finds.org.uk/images/thumbnails/292111.jpg)](https://finds.org.uk/images/tgilmore/medium/waw-ec5e20.jpg "Medium sized image of: WAW-EC5E20 a PALAEOLITHIC CHOPPER")
+![CHOPPER](https://finds.org.uk/images/tgilmore/medium/waw-ec5e20.jpg)
 
 Chopper
 
 [WAW-EC5E20](https://finds.org.uk/database/artefacts/record/id/400553)  
-![Find waiting to be validated](https://finds.org.uk/images/icons/flag_orange.gif)
 
 Palaeolithic
 
@@ -27,12 +26,12 @@ Shropshire
 
 A Late Neolithic to Early Bronze Age discoidal scraper from Herefordshire.
 
-[![SCRAPER (TOOL)](https://finds.org.uk/images/thumbnails/291408.jpg)](https://finds.org.uk/images/tgilmore/medium/waw-707af4.jpg "Medium sized image of: WAW-707AF4 a NEOLITHIC SCRAPER (TOOL)")
+![SCRAPER (TOOL)](https://finds.org.uk/images/thumbnails/291408.jpg)](https://finds.org.uk/images/tgilmore/medium/waw-707af4.jpg "Medium sized image of: WAW-707AF4 a NEOLITHIC SCRAPER (TOOL)")
 
 Scraper (tool)
 
 [WAW-707AF4](https://finds.org.uk/database/artefacts/record/id/399844)  
-![Find waiting to be validated](https://finds.org.uk/images/icons/flag_orange.gif)
+
 
 Neolithic
 
@@ -45,7 +44,7 @@ An almost complete Socketed Axe, of Bronze Age dating from Staffordshire.
 Axe
 
 [WAW-F69CD5](https://finds.org.uk/database/artefacts/record/id/406303)  
-![Find waiting to be validated](https://finds.org.uk/images/icons/flag_orange.gif)
+
 
 Bronze age
 
@@ -84,7 +83,7 @@ A Wirral type Roman brooch, dating from 75 AD to 175 AD, found in Staffordshire.
 Brooch
 
 [WAW-F49688](https://finds.org.uk/database/artefacts/record/id/406266)  
-![Find waiting to be validated](https://finds.org.uk/images/icons/flag_orange.gif)
+
 
 Roman
 
@@ -97,7 +96,7 @@ A basesherd from a ceramic strainer type vessel, of Romano-British dating, from 
 Vessel
 
 [WAW-28CA23](https://finds.org.uk/database/artefacts/record/id/402615)  
-![Find waiting to be validated](https://finds.org.uk/images/icons/flag_orange.gif)
+
 
 Roman
 
@@ -110,7 +109,7 @@ A nice complete Cosmetic mortar, of Roman dating, from Derbyshire.
 Cosmetic mortar
 
 [WAW-0B6B74](https://finds.org.uk/database/artefacts/record/id/395084)  
-![Find waiting to be validated](https://finds.org.uk/images/icons/flag_orange.gif)
+
 
 Roman
 
@@ -123,7 +122,7 @@ The first Ansate type brooch recorded from Shropshire, dating from 8th to 9th Ce
 Brooch
 
 [WAW-EF0D50](https://finds.org.uk/database/artefacts/record/id/400638)  
-![Find waiting to be validated](https://finds.org.uk/images/icons/flag_orange.gif)
+
 
 Early medieval
 
@@ -136,7 +135,7 @@ A sherd of pottery of Anglo-Saxon dating, from amongst the Romano-British potter
 Vessel
 
 [WAW-4EA6D5](https://finds.org.uk/database/artefacts/record/id/392056)  
-![Find waiting to be validated](https://finds.org.uk/images/icons/flag_orange.gif)
+
 
 Early medieval
 
@@ -149,7 +148,7 @@ A quarter of a Papal Bulla, issued by Pope Gregory IX (1227-1241), from Shropshi
 Bulla
 
 [WAW-ECB526](https://finds.org.uk/database/artefacts/record/id/400561)  
-![Find waiting to be validated](https://finds.org.uk/images/icons/flag_orange.gif)
+
 
 Medieval
 
@@ -162,7 +161,7 @@ An almost intact Purse bar, of Late Medieval to Early Post Medieval dating, from
 Purse
 
 [WAW-682D27](https://finds.org.uk/database/artefacts/record/id/404343)  
-![Find waiting to be validated](https://finds.org.uk/images/icons/flag_orange.gif)
+
 
 Medieval
 
@@ -175,7 +174,7 @@ An uncommon combination lock of mid 16th to 17th Century dating, from Shropshire
 Lock
 
 [WAW-04DD90](https://finds.org.uk/database/artefacts/record/id/400843)  
-![Find waiting to be validated](https://finds.org.uk/images/icons/flag_orange.gif)
+
 
 Post medieval
 

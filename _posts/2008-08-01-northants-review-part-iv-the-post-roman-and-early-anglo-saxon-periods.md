@@ -5,10 +5,6 @@ published: 2008-08-01
 category: northants
 author: Steve Ashby
 ---
-
-Northants Review Part IV: The ‘Post-Roman’ and ‘Early Anglo-Saxon’ Periods
------------------------------------------------------------------------------------------
-
 August 1st, 2008 by Steve Ashby
 
 Hello! Yes, it’s me, Barry Scott. Rapidly following on from last week’s Roman extravaganza, I thought I’d give you a brief introduction to what we’re finding out about what archaeologists refer to as the sub-Roman and Early Saxon periods.
@@ -39,7 +35,7 @@ Well, one area in which it shows great potential is in understanding the importa
 
 The first evidence of migrants comes from a couple of very early, continental-style brooches. This [supporting arm brooch](http://www.findsdatabase.org.uk/hms/pas_obj.php?type=finds&id=001425E3BE801579 "Supporting-Armed Brooch") dates to around the late 5th-century, and clearly still wears its Roman influence on its sleeve. Importantly, it is a rare type in Britain, but is more well-known in the Germanic homelands of Schleswig-Holstein, northern Germany. Tantalisingly then, it might therefore have arrived in Britain on the clothes of one of the first Anglo-Saxon settlers.
 
-[]({{ site.baseurl }}/files/2008/08/radiate-headed-brooch.jpg)[![]({{ site.baseurl }}/files/2008/08/radiate-headed-brooch-225x300.jpg "radiate-headed-brooch")]({{ site.baseurl }}/files/2008/08/radiate-headed-brooch.jpg)
+![]({{ site.baseurl }}/files/2008/08/radiate-headed-brooch-225x300.jpg "radiate-headed-brooch")
 
 ### Radiate-headed Brooch
 

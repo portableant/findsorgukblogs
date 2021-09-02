@@ -25,6 +25,6 @@ With upwards of 20 cases of potential Treasure reported every year since 2004 in
 
 The Heritage Centre is run mostly by volunteers, and looks a lovely place to visit if you have the opportunity.
 
-[![An item from Eastbourne recently acquired by the British Museum]({{ site.baseurl }}/files/2011/09/2009T381mod-150x150.jpg)](http://finds.org.uk/database/artefacts/record/id/262994)
+![An item from Eastbourne recently acquired by the British Museum]({{ site.baseurl }}/files/2011/09/2009T381mod-150x150.jpg)
 
 An item from Eastbourne recently acquired by the British Museum

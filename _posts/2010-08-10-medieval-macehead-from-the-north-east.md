@@ -1,9 +1,13 @@
-\>Medieval macehead from the North East
----------------------------------------
+---
+title: Medieval macehead from the North East
+author: Frances McIntosh
+category: north-east
+layout: default
+---
 
 August 10th, 2010 by Frances McIntosh
 
-[![]({[ site.baseurl }}/files/2010/08/DUR-5ACBE0-204x300.jpg)]({[ site.baseurl }}/files/2010/08/DUR-5ACBE0.jpg)
+![]({[ site.baseurl }}/files/2010/08/DUR-5ACBE0-204x300.jpg)]({[ site.baseurl }}/files/2010/08/DUR-5ACBE0.jpg)
 
 Medieval macehead
 

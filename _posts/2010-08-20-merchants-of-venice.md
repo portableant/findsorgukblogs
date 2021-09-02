@@ -6,12 +6,10 @@ title: Merchants of Venice
 author: Adam Daubney
 ---
 
-Merchants of Venice
-===================
 
 On two occasions, in the early 15th and again in the early 16th century, there was a flood of Venetian silver coins into England. These exotic coins, known as ‘soldini’, became nick-named ‘galley-halfpennies’ after the Venetian galley-men who imported them. The reason for the flood of soldini was a serious shortage of English struck halfpennies in circulation. The fallout on the ground was severe, for a lack of pennies, halfpennies, and farthings affected everything from the purchase of bread to the payment of wages. The Venetian soldino was therefore a convenient, though illegal, alternative to the English halfpenny.
 
-[![]({{ site.baseurl }}/files/2010/08/soldino-300x150.jpg "soldino")]({{ site.baseurl }}/files/2010/08/soldino.jpg)
+![]({{ site.baseurl }}/files/2010/08/soldino-300x150.jpg "soldino")
 
 Venetian silver soldino of Doge Tomasso Mocenigo (1413-23).
 
@@ -23,7 +21,7 @@ Today, the Venetian coins of Late Medieval England are familiar due to the large
 
 The earliest textual evidence for the arrival of Venetian coins comes from a document dated to the year 1400, for which the numismatic evidence is in agreement. In June of that year a number of vessels from the annual trade fleet docked in London and its merchants began trading extensively with _soldini_. This caught the attention of the Council at Westminster, which promptly sought the advice of King Henry IV. The king took immediate action, instructing the Council to bring the laws against the circulation of foreign coins into force.
 
-[![]({{ site.baseurl }}/files/2010/08/Figure-1.-Soldini-of-the-first-incursion-colour-960x1024.jpg)]({{ site.baseurl }}/files/2010/08/Figure-1.-Soldini-of-the-first-incursion-colour.jpg)
+![]({{ site.baseurl }}/files/2010/08/Figure-1.-Soldini-of-the-first-incursion-colour-960x1024.jpg)
 
 Soldini of the first incursion
 
@@ -39,13 +37,13 @@ Now that the source of coin had been dealt with, the Government turned to tackle
 
 Despite the trauma of the first incursion, the government a hundred years later again failed to strike enough halfpennies. During the late 15th century, Venetian galleys changed their ports of call from London and Sandwich to Southampton. Once again, the lack of English halfpennies was met with a ready supply of similar-sized coins supplied by Venetian merchants; however by this time other batches of coin were arriving overland in ordinary commercial couriers’ bags sent weekly from the major Italian states and terminating at Bruges and Antwerp. A Venetian document records such an event, in which we read of Gerolamo Priuli sending 14,000 soldini overland in five batches in the ordinary commercial couriers’ bags to his brother Vicenzo in London in May, June, and September 1505.
 
-[![]({{ site.baseurl }}/files/2010/08/Figure-2.-Soldini-of-the-second-incursion-colour-891x1024.jpg)]({{ site.baseurl }}/files/2010/08/Figure-2.-Soldini-of-the-second-incursion-colour.jpg)
+![]({{ site.baseurl }}/files/2010/08/Figure-2.-Soldini-of-the-second-incursion-colour-891x1024.jpg)
 
 Soldini of the second incursion
 
 All coins of the second incursion were finally removed from circulation with the major re-coinage of silver in England beginning in 1526, though no doubt some were retained as curiosities and souvenirs, and some even to be used as a source of silver for jewellery, such as this button from Harlaston, Suffolk, made from a soldino of Doge Leonardo Loredan.
 
-[![]({{ site.baseurl }}/files/2010/08/2007-T627-reduced.jpg)]({{ site.baseurl }}/files/2010/08/2007-T627-reduced.jpg)
+![]({{ site.baseurl }}/files/2010/08/2007-T627-reduced.jpg)
 
 Silver Venetian soldino of Doge Leonardo Loredan (1501-21) made into a brooch (Treasure Reference no. 2007 T627).
 

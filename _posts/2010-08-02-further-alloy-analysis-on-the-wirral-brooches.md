@@ -6,8 +6,6 @@ category: north-west
 title: Further Alloy Analysis on the Wirral brooches
 ---
 
-# Further Alloy Analysis on the Wirral brooches
-
 [Further Alloy Analysis on the Wirral brooches]({{ site.baseurl }}/files/2010/08/Update-for-Museums.pdf)
 
 If you click onto the link above I have a short update on the Wirral brooch project. I was lucky enough to get some funding from Historic Scotland to pay for Dr. Matthew Ponting’s travel and time to come up to Edinburgh and do some analysis on the Scottish sub-group of the Wirral brooches.

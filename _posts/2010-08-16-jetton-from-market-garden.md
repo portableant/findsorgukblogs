@@ -6,7 +6,6 @@ published: 2010-08-16
 title: Jetton from market garden
 ---
 
-# Jetton from market garden
 
 August 16th, 2010 by Frances McIntosh
 
@@ -20,6 +19,6 @@ The jetton is in good condition and has been identified as a French jetton, dat
 
 A jetton can be described a metal counter used in calculation of financial sums but not itself directly exchangeable for coins, goods or services. If you search the PAS database for jettons you will see there are just over 3800 examples recorded there.  Many of the examples found in Britain come from abroad, particularly France and the Low Countries, with c.800 coming from Nuremberg.  I chose to put this example onto my blog as although jettons are fairly common finds from metal detectorists this is a slightly unusual type and also came with a different discovery method.
 
-[![Jetton]({{ site.baseurl }}/files/2010/08/DUR-106F90-300x216.jpg)]({{ site.baseurl }}/files/2010/08/DUR-106F90.jpg)
+![Jetton]({{ site.baseurl }}/files/2010/08/DUR-106F90-300x216.jpg)
 
 French jetton

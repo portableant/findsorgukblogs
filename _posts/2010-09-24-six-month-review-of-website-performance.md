@@ -3,12 +3,8 @@ layout: default
 author: Daniel Pett
 category: central-unit
 published: 2010-09-24
-category: labs
+title: Six month review of new website performance
 ---
-[Six month review of new website performance](/2010/09/24/six-month-review/ "Permanent Link to Six month review of new website performance")
---------------------------------------------------------------------------------------------------------------------------------------------
-
-September 24th, 2010 by Daniel Pett
 
 ![The Crosby Garrett Helmet](https://finds.org.uk/documents/image/19269498b.jpg "The Crosby Garrett Helmet")
 
@@ -19,11 +15,11 @@ The Scheme’s new website has been online now for 6 months and I’ve been look
 All the web statistics are produced via Google Analytics, I haven’t bothered with the old logfile analysis.  The old stats that we used to return for the DCMS and quoted in our annual reports were heavily reliant on ‘hits’, a metric I always hated.  Some simple observations:
 
 *   We get a trend of heavy weekday usage, with noticeable dips at weekends when recording isn’t as prevalent.
-    
-    [![Typical weekly pattern]({{ site.baseurl }}/files/2010/09/pattern-300x44.jpg "Typical weekly pattern")]({{ site.baseurl }}/files/2010/09/pattern.jpg)
-    
+
+    ![Typical weekly pattern](/files/2010/09/pattern-300x44.jpg "Typical weekly pattern")
+
     Typical weekly pattern
-    
+
 *   We don’t get a huge audience, our topic is pretty niche, but hopefully it will keep increasing.
 *   Overall visitors average 10mins 59 seconds on site and view nearly 14 pages a visit, with a bounce rate of 37.46%.
 *   Those visits that are mainly within the confines of the database module average 21 pages per visit and around 17 mins 17 seconds, with a bounce rate of 23.62%
@@ -115,6 +111,7 @@ Get satisfaction account: £36.38 ($57) which I cancelled after 3 months due to 
 Development costs: Covered by my salary, not revealing that.
 
 Total IT cost for running: £2013.95 (or around 8p per record or a more meaningless statistic because of the huge hoard, of circa 2p per object)  
+
 We plan to make this reduce further by switching backup to S3 for images as well or renegotiating with our excellent providers at Dedipower in Reading. Since the demise of Oxford ArchDigital, we’ve already made IT cost savings of c. £15,000 per annum in support fees and also all development work has been taken on in house.
 
 Hopefully people are finding our new site much more useful, we’ve got more stuff to come...

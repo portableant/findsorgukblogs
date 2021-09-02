@@ -5,8 +5,6 @@ published: 2010-11-23
 category: treasure
 title: Treasure annual report 2008
 ---
-Treasure Annual Report 2008
----------------------------
 
 November 23rd, 2010 by Ian Richardson
 

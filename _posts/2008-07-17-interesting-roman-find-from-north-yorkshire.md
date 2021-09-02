@@ -5,16 +5,13 @@ title: Interesting Roman find from North Yorkshire
 category: north-yorkshire
 ---
 
-Interesting Roman find from North Yorkshire
--------------------------------------------
-
-[]({{ site.baseurl }}/files/2008/07/msimpson-figurine-2.jpg)[![]({{ site.baseurl }}/files/2008/07/msimpson-figurine-2-300x256.jpg "msimpson-figurine-2")]({{ site.baseurl }}/files/2008/07/msimpson-figurine-2.jpg)
+![]({{ site.baseurl }}/files/2008/07/msimpson-figurine-2-300x256.jpg "msimpson-figurine-2")
 
 This is a really nice case of where an archaeologist spotted a find on UKDFD and, realising it was an important find, asked the detectorist to show it to his local FLO so they could record it. They promptly did this and now we have another really interesting find recorded for all to see.
 
-It is a copper alloy Roman tripod mount. 2 of these have previously been recorded on the PAS database ([LIN-1632D1](http://www.findsdatabase.org.uk/hms/pas_obj.php?type=finds&id=0014581692E013B6) and [YORYM-EC06D2](http://www.findsdatabase.org.uk/hms/pas_obj.php?type=finds&id=001465EC406017E4)) but both of these are very different in style to the one brought into me at Manchester. They both depict Romanised gods (Bacchus and possibly Harpocrates respectively). The North Yorkshire one (recorded as [LVPL-CB8B04](http://www.findsdatabase.org.uk/search/index.php?expand=24,&show=finds&coins=&linkmode=&act=click_old_findID_001487CBB3C016BA "Click to open the find")) does not seem to be representative of anyone in particular and the design style used on it is much more reminiscent of Celtic art than the more fancy Roman design on the other 2.
+It is a copper alloy Roman tripod mount. 2 of these have previously been recorded on the PAS database [LIN-1632D1] and [YORYM-EC06D2] but both of these are very different in style to the one brought into me at Manchester. They both depict Romanised gods (Bacchus and possibly Harpocrates respectively). The North Yorkshire one (recorded as [LVPL-CB8B04]) does not seem to be representative of anyone in particular and the design style used on it is much more reminiscent of Celtic art than the more fancy Roman design on the other 2.
 
-[](files/2008/07/msimpson-figure-1.jpg)[![]({{ site.baseurl }}/files/2008/07/msimpson-figure-1-107x300.jpg "msimpson-figure-1")]({{ site.baseurl }}/files/2008/07/msimpson-figure-1.jpg)
+![]({{ site.baseurl }}/files/2008/07/msimpson-figure-1-107x300.jpg "msimpson-figure-1")
 
 This is not to say it is cruder- just that it is different. It is probably more interesting than the other two because of its design. It shows a Roman object (the tripod) was not only being used by British people but that they were making this object and altering it to fit into their art styles. These are not common finds in
 

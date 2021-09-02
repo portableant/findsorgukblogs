@@ -10,7 +10,7 @@ title: Two new hoards of Treasure on show at the British Museum
 
 Yesterday, 3 December 2012, saw the launch of the latest Portable Antiquities Scheme Annual Report (2011) and the Treasure Annual Report (2010) at the British Museum. Among the finds on display for guests to view were a selection of items from a hoard of Viking silver found near Bedale, North Yorkshire, and most of the coins from a hoard of Roman solidi found near St Albans, Hertfordshire. Both of these finds have now been put on temporary display in the British Museum for members of the public to enjoy while they go through the treasure administration procedure.
 
-[![]({{ site.baseurl }}/files/2012/12/Bedale_Hoard_at_BM-150x150.jpg)]({{ site.baseurl }}/files/2012/12/Bedale_Hoard_at_BM.jpg)
+![]({{ site.baseurl }}/files/2012/12/Bedale_Hoard_at_BM-150x150.jpg)
 
 The hoard of Viking Silver material found in the Bedale Area on display in Room 2 of the British Museum
 
@@ -18,7 +18,7 @@ The [hoard of Viking material](http://finds.org.uk/database/artefacts/record/id/
 
 The finders of the hoard, Stuart Campbell and Steve Creswell, attended the report launch and spoke to guests and the press about the find. When they initially located the hoard in May 2012, they only removed a few of the items before they realised what it was, and, following best-practice, they contacted their local Finds Liaison Officer (FLO) Becky Griffiths rather than attempting to remove any more of the hoard. Becky was able to organise a careful excavation of the hoard, which gave archaeologists the opportunity to record contextual information. As the hoard contains items that are over 300 years old and composed of over 10% precious metal, it was reported to the Coroner for North Yorkshire (Eastern District) as potential Treasure, under the Treasure Act 1996.
 
-[![]({{ site.baseurl }}/files/2012/12/2012T373-image-150x150.jpg)]({{ site.baseurl }}/files/2012/12/2012T373-image.jpg)
+![]({{ site.baseurl }}/files/2012/12/2012T373-image-150x150.jpg)
 
 X-ray of the sword pommel from the Bedale Hoard
 
@@ -28,7 +28,7 @@ The [hoard of Roman gold solidi](http://finds.org.uk/database/artefacts/record/i
 
 As the hoard represents a find of two or more coins at least 300 years old containing more than 10% precious metal, it was also reported to the
 
-[![]({{ site.baseurl }}/files/2012/12/Hoard-on-show-in-Citi-Money-Gallery-150x150.jpg)]({{ site.baseurl }}/files/2012/12/Hoard-on-show-in-Citi-Money-Gallery.jpg)
+![]({{ site.baseurl }}/files/2012/12/Hoard-on-show-in-Citi-Money-Gallery-150x150.jpg)
 
 Roman solidi from the hoard found near St Albans, Hertforshire, on display in the Citi Money Gallery at the British Museum
 

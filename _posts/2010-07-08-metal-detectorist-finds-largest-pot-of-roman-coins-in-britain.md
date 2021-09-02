@@ -5,15 +5,16 @@ author: Daniel Pett
 category: frome-hoard
 title: Metal-detectorist finds largest pot of Roman coins from Britain
 ---
-
-Metal-detectorist finds largest pot of Roman coins from Britain
-===============================================================
-
 Tony Williams, Coroner for Somerset, will hold an inquest on Thursday 22nd July on one of the largest Roman coin hoards ever found in Britain, the Portable Antiquities Scheme funded by the Museums, Libraries and Archive Council and Somerset County Council has reported.
 
 Dave Crisp, found the hoard of some 52,500 coins dating to the 3rd century AD, while metal-detecting near Frome, and reported the find to his local Finds Liaison Officer. Initially Mr Crisp found 21 coins, but when he came across a pot filled with more knew he needed archaeological help to excavate them.
 
-[![Plan of the pot in situ.](http://farm5.static.flickr.com/4141/4771896894_1924341306_m.jpg)](http://farm5.static.flickr.com/4141/4771896894_1924341306_b_d.jpg "Plan of the pot in situ. by portableantiquities, on Flickr")[![Coin hoard closeup - silver denarius of Carausius and coins of Probus](http://farm5.static.flickr.com/4100/4771257009_3e952990ea_m.jpg)](http://farm5.static.flickr.com/4100/4771257009_3e952990ea_b_d.jpg "Coin hoard closeup - silver denarius of Carausius and coins of Probus by portableantiquities, on Flickr")[![A section of the removed rim](http://farm5.static.flickr.com/4135/4771234829_470309a566_m.jpg)](http://farm5.static.flickr.com/4135/4771234829_470309a566_z_d.jpg "A section of the removed rim by portableantiquities, on Flickr")
+![Plan of the pot in situ.](http://farm5.static.flickr.com/4141/4771896894_1924341306_m.jpg)
+
+![Coin hoard closeup - silver denarius of Carausius and coins of Probus](http://farm5.static.flickr.com/4100/4771257009_3e952990ea_m.jpg)
+
+![A section of the removed rim](http://farm5.static.flickr.com/4135/4771234829_470309a566_m.jpg)
+
 **Images can be downloaded from our flickr account at** **[www.flickr.com/finds/](http://www.flickr.com/finds/ "Obtain images from Flickr")**
 
 Anna Booth, Somerset County Council’s Finds Liaison Officer, said:
@@ -61,7 +62,8 @@ Olivia Rickman, Press Manager, British Museum, 020 7323 8583, [orickman@thebriti
 Upon discovering the hoard Dave Crisp contacted Katie Hinds, Finds Liaison Officer for Wiltshire. MS Hinds then contacted Anna Booth, Somerset Finds Liaison Officer, who, with Somerset County Council archaeologists, set about the delicate task of excavating the pot and its contents. The hoard was then taken to the British Museum, so that the coins could be cleaned and recorded. This work was done within two months and represented about 400 hours’ work for the conservator team.
 
 The coins all date from between AD 253 to AD 293 were found in a large, well-preserved pot – a type of container normally used for storing food – and weigh around 160kg. Since the pot containing the coins was found by the archaeologists to be already broken in the earth, the coins were removed from the pot in 12 layers, with each layer containing up to 16 separate bags of coins, a total of 67 separate groups in all.
-[![Carausius Adventus silver denarius - cleaned by BM conservation](http://farm5.static.flickr.com/4079/4771892086_3ab64038c9_m.jpg)](http://farm5.static.flickr.com/4079/4771892086_3ab64038c9_z_d.jpg "Carausius Adventus silver denarius - cleaned by BM conservation by portableantiquities, on Flickr")
+![Carausius Adventus silver denarius - cleaned by BM conservation](http://farm5.static.flickr.com/4079/4771892086_3ab64038c9_m.jpg)
+
 Because of the weight of the coins and the fragility of the pot in which they were buried, the pot must have been buried in the ground before the coins were tipped into them. This suggests that this hoard is unlikely to have been buried because its owner (or owners) were concerned about the threat of invasion and, wishing to find a safe place to store their wealth, intended to come back and recover it later when the times were more peaceful. If that had been their intention, then they would have buried their coins in smaller containers which would have been easier to recover. The only way anyone could have recovered this hoard would have been by breaking the pot and scooping the coins out of it, which would have been awkward. It is thought therefore most likely that the person or persons who buried this hoard entrusted it to the earth without intending to come back and recover it later. Perhaps it was the offering of an agricultural community for a good harvest or favourable weather.
 
 Each of the 67 groups of coins was washed and sorted separately and as a result we know that the great majority (85 per cent) of the coins of Carausius, the latest coins in the hoard, were contained within a single layer (Context 16). This gives us a fascinating insight into how the coins were placed in the pot, as a group of coins of Carausius must have been tipped into the pot separately from the rest of the coins.
@@ -291,19 +293,6 @@ Each of the 67 groups of coins was washed and sorted separately and as a result 
         suspected to be 300 or more years old and has a 10 per cent gold or silver content, has a legal obligation
         to declare it to the local coroner within 14 days.</p>
 
-    <p>
-        <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="300"
-                codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">
-            <param name="flashvars"
-                   value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Ffinds%2Fsets%2F72157624319051565%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Ffinds%2Fsets%2F72157624319051565%2F&amp;set_id=72157624319051565&amp;jump_to=">
-            <param name="allowFullScreen" value="true">
-            <param name="src" value="https://www.flickr.com/apps/slideshow/show.swf?v=71649">
-            <param name="allowfullscreen" value="true">
-            <embed type="application/x-shockwave-flash" width="400" height="300"
-                   src="https://www.flickr.com/apps/slideshow/show.swf?v=71649" allowfullscreen="true"
-                   flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Ffinds%2Fsets%2F72157624319051565%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Ffinds%2Fsets%2F72157624319051565%2F&amp;set_id=72157624319051565&amp;jump_to=">
-        </object>
-    </p>
-
+  
 
 </div>

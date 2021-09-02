@@ -6,11 +6,7 @@ author: Laura Burnett
 title: An Unusual Penannular Brooch
 ---
 
-An Unusual Penannular Brooch
-============================
-
-
-[![penannular brooch]({{ site.baseurl }}/files/2012/02/SOM-629D01-Brooch-271x300.jpg)]({{ site.baseurl }}/files/2012/02/SOM-629D01-Brooch.jpg)
+![penannular brooch]({{ site.baseurl }}/files/2012/02/SOM-629D01-Brooch-271x300.jpg)
 
 Iron Age to Roman penannular brooch from Wiltshire
 

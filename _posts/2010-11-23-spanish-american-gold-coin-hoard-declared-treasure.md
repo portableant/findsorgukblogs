@@ -6,10 +6,7 @@ category: lincolnshire
 title: Spanish-American Gold Coin Hoard declared Treasure
 ---
 
-Spanish-American Gold Coin Hoard declared Treasure
-==================================================
-
-[![]({{ site.baseurl }}/files/2010/11/2010-T271-small-1024x888.jpg)]({{ site.baseurl }}/files/2010/11/2010-T271-small.jpg)
+![]({{ site.baseurl }}/files/2010/11/2010-T271-small-1024x888.jpg)
 
 Spanish-American doubloons
 
@@ -19,4 +16,6 @@ This was the time of the Revolutionary and Napoleonic wars, when gold coin was b
 
 The coins were discovered on the same site as a previous hoard of similar coins found in 1928. At the time of deposit, the value of the two groups of Lincoln coins, now numbering 24, would have equated to several thousand pounds in terms of modern-day purchasing power.
 
-This particular hoard is unsual because despite being less than 300 years old it still falls under the provisions of the Treasure Act (1996). This is because it would previously have qualified as ”treasure trove’. Page 8, Para. 9 of the ‘Treasure Act (1996) Code of Practice’ state that _‘Only objects that are less than 300 years old, that are made substantially of gold or silver, that have been deliberately hidden with the intention of recovery and whose owners or heirs are unknown will come into this catagory. In practice such finds are rare and the only such discoveries that have been made within recent years have been hoards of gold or silver coins of the eighteenth, nineteenth ot twentieth centuries.’_
+This particular hoard is unsual because despite being less than 300 years old it still falls under the provisions of the Treasure Act (1996). This is because it would previously have qualified as ”treasure trove’. Page 8, Para. 9 of the ‘Treasure Act (1996) Code of Practice’ state that:
+
+> _‘Only objects that are less than 300 years old, that are made substantially of gold or silver, that have been deliberately hidden with the intention of recovery and whose owners or heirs are unknown will come into this catagory. In practice such finds are rare and the only such discoveries that have been made within recent years have been hoards of gold or silver coins of the eighteenth, nineteenth ot twentieth centuries.’_

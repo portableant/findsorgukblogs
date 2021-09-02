@@ -6,7 +6,6 @@ published: 2007-11-23T14:43:08+00:00
 title: Wirral brooches
 ---
 
-# Wirral brooches
 
 In 1999 a new type of Roman bow brooch was identified by Dr Philpott and named the Wirral brooch. It is very distinctive in design and it is thought that they could perhaps have originated from the Wirral with only a couple of work-shops making them. Not many are known to have been found and most of these have come from metal detectorists. This is a plea for anyone who has a Wirral type brooch which hasn’t been reported to the PAS to do so as I am hoping to make more of an in depth study of them to try and find their origin. It would be nice to prove that the Wirral was a producer of such a nice brooch and show that the North is not always the poor relation of the south in terms of finds.
 
@@ -22,4 +21,4 @@ Characteristics to look out for are -
 
 Here is an example which is almost complete- only the loop and the pin area missing.
 
-[](http://finds.org.uk/counties/northwest/files/2007/11/wirral-brooch2-copy.jpg "Wirral Brooch")[![]({{ site.baseurl }}/files/2007/11/wirral-brooch2-copy.jpg "wirral-brooch2-copy")]({{ site.baseurl }}/files/2007/11/wirral-brooch2-copy.jpg)
+![]({{ site.baseurl }}/files/2007/11/wirral-brooch2-copy.jpg "wirral-brooch2-copy")

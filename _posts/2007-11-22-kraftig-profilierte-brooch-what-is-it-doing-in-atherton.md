@@ -22,7 +22,7 @@ Their origin is thought to be Pannonia, an area around the Danube and Rhine. The
 
 However this view is starting to change. An example of a Pannonian brooch has been found during recent excavations at Wroxeter (2002; 103-4 fig 4.7 no 28). The authors of this report say-
 
-> “the basic message is that the Pannonian arrived early in small numbers and failed to travel as far as Hod Hillâ€¦ Wroxeter is one of the few assured finds in advance of the Fosse Way “.
+> “the basic message is that the Pannonian arrived early in small numbers and failed to travel as far as Hod HillÀ¦ Wroxeter is one of the few assured finds in advance of the Fosse Way “.
 
 Mr. Jackson’s example, along with the one from Wroxeter, starts to put into question the idea that the Pannonian type was not made in Britain. It is thought that the Kraftig type is the precursor of the British Trumpet brooch (Hattatt; 1982; 104-7) and alloy compositional studies have also suggested that some of the British examples could have been made here as copies of this style (Bayley and Butcher; 2004; 148). Variations would have occurred as the British brooch makers created their own versions of the Kraftig type and enough similarities can be seen between the trumpet and the Kraftig to see the transition to this new form took place.
 

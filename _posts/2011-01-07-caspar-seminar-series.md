@@ -6,10 +6,6 @@ author: Daniel Pett
 title: CASPAR seminars
 ---
 
-# CASPAR seminar series
-
-January 7th, 2011 by Daniel Pett
-
 The Centre for Audio-Visual studies and practice in Archaeology is holding an inaugural series of seminars at the Institute of Archaeology, UCL, 31- 34 Gordon Square on Monday afternoons, starting this coming week. The programme is quite varies and the following speakers are booked to speak:
 
 10 Jan Broadcast archaeology Michael Wood (Story of England, BBC) & Ray Sutcliffe (Chronicle)

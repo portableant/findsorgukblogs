@@ -2,11 +2,10 @@
 layout: default
 published: 2008-07-29T21:05:12+00:00
 category: central-unit
+title: Finds for Schools
 ---
 
-# Finds for Schools
-
-[]({{ site.baseurl }}/files/2008/07/tim-and-dave.jpg)[![]({{ site.baseurl }}/files/2008/07/tim-and-dave-300x225.jpg "tim-and-dave-300x225")]({{ site.baseurl }}/files/2008/07/tim-and-dave-300x225.jpg)
+![]({{ site.baseurl }}/files/2008/07/tim-and-dave-300x225.jpg "tim-and-dave-300x225")
 
 Dave and Tim
 

@@ -6,12 +6,9 @@ title: Adding old OS maps to findspot maps
 layout: default
 ---
 
-Adding old OS maps to findspot maps
-===================================
-
 Today on Twitter, David Haskiya [alerted me](http://twitter.com/DavidHaskiya/status/20468427452) to a set of old Ordnance Survey maps that have been scanned by the National Library of Scotland and turned into the  ‘[NLS Maps API](http://geo.nls.uk/maps/api/ "Detailed instructions on how to use the NLS api"): Historic map of Great Britain for use in mashups’. These old maps are really useful (they cover England and Wales as well as Scotland!) for the work that our Finds Liaison Officers do, or for researchers using our database. Low level phenomenological research can be conducted.  Their instructions are pretty straightforward to follow and I have now added this layer to our findspot mapping (at the moment just for higher level users). The image below gives an example of the embedded Googlemap that we can produce from these OS tiles:
 
-[![Old Map from NLS]({{ site.baseurl }}/files/2010/08/oldmap.jpg "Old Map from NLS")]({{ site.baseurl }}/files/2010/08/oldmap.jpg)
+![Old Map from NLS]({{ site.baseurl }}/files/2010/08/oldmap.jpg "Old Map from NLS")
 
 Our maps now have the following layers:
 

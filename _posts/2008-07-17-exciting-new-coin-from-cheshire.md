@@ -6,10 +6,8 @@ author: Frances McIntosh
 category: north-west
 ---
 
-Exciting New Coin from Cheshire!!
----------------------------------
 
-[]({{ site.baseurl }}/files/2008/07/pay-106.jpg)[![]({{ site.baseurl }}/files/2008/07/pay-106-300x205.jpg "pay-106")]({{ site.baseurl }}/files/2008/07/pay-106.jpg)
+![](/files/2008/07/pay-106-300x205.jpg)
 
 As promised here are more details about the Quadrans which was recorded with me from Cheshire. I have been really lucky as this is my 2nd one of these in less than 18 months (there are less than 10 on the PAS database I think).
 
@@ -20,4 +18,3 @@ The coin is recorded as [LVPL-F139A5](https://finds.org.uk/database/artefacts/re
 Obverse- Laureate head right
 
 Reverse- Two clasped hands, holding cauceus and two corn ears
-

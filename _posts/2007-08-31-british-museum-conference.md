@@ -5,10 +5,6 @@ published: 2007/08/31
 author: Daniel Pett
 category: central-unit
 ---
-
-Archaeology 2008 – A conference at the British Museum
------------------------------------------------------
-
 Archaeology 2008 – A conference at the British Museum, 9th-10th February 2008:
 
 A call for papers
@@ -23,5 +19,3 @@ Dept of Portable Antiquities and Treasure
 British Museum  
 London, WC1B 3DG  
 020 7323 8432
-
-   

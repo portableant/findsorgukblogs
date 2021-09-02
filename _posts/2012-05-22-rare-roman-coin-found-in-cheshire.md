@@ -6,9 +6,6 @@ category: north-west
 title: Rare Roman coin found in Cheshire!
 ---
 
-Rare Roman coin found in Cheshire!
-==================================
-
 A rare Roman as has been recently found in Cheshire. The coin is a copper alloy as of Nerva, (96-98AD). It has been recorded on the database as LVPL-716282.
 
 The coin is as follows:  
@@ -19,6 +16,6 @@ In 1984, Georges de Loye wrote about this type (Revue Numismatique 1984, pp. 95-
 
 The most common Roman coin type found in Cheshire is the nummus, 231 of which have been recorded on the database from the area. Currently only 38 asses have been recorded from Cheshire four of which were found around Chester. It is very exciting to have such a rare coin recorded from the Chester area.  
 
-[![]({{ site.baseurl }}/files/2012/05/LVPL-7162824-300x172.jpg)]({{ site.baseurl }}/files/2012/05/LVPL-7162824.jpg)
+![]({{ site.baseurl }}/files/2012/05/LVPL-7162824-300x172.jpg)
 
 Roman as of Nerva

@@ -9,11 +9,22 @@ category: northants
 Northants Review Part I: The Early Prehistoric Period
 -----------------------------------------------------
 
-[]({{ site.baseurl }}/files/2008/03/palaeolithic-axe.jpg "Palaeolithic axe")[]({{ site.baseurl }}/files/2008/03/palaeolithic-axe.jpg "Palaeolithic axe")[]({{ site.baseurl }}/files/2008/03/greenstone-adze.jpg "Greenstone Adze")[]({{ site.baseurl }}/files/2008/03/macehead1.jpg "Antler macehead from South Northants")[![]({{ site.baseurl }}/files/2008/03/macehead-300x283.jpg "macehead")]({{ site.baseurl }}/files/2008/03/macehead.jpg)[]({{ site.baseurl }}/files/2008/03/macehead.jpg "Neolithic antler macehead")
+![Palaeolithic axe]({{ site.baseurl }}/files/2008/03/palaeolithic-axe.jpg)
+
+![Palaeolithic axe]({{ site.baseurl }}/files/2008/03/palaeolithic-axe.jpg)
+
+![Greenstone Adze]({{ site.baseurl }}/files/2008/03/greenstone-adze.jpg)
+
+![Antler macehead from South Northants]({{ site.baseurl }}/files/2008/03/macehead1.jpg)
+
+![Macehead]({{ site.baseurl }}/files/2008/03/macehead-300x283.jpg)
+
+![Neolithic antler macehead]({{ site.baseurl }}/files/2008/03/macehead.jpg)
 
 Until relatively recently, little was known of early prehistoric Northamptonshire.  Over the last 30 years or so, fairly extensive excavation and landscape survey has allowed us to build some idea of Stone Age activity and settlement in the region, though there are still gaps in our knowledge. Finds of individual objects, and scatters of flint tools and waste, have the potential to add considerably to our knowledge, and objects recorded by the PAS  thus have an important role to play. Here, I’ll just introduce some of the more interesting finds.
 
-[]({{ site.baseurl }}/files/2008/03/palaeolithic-axe.jpg "Palaeolithic axe")[![]({{ site.baseurl }}/files/2008/03/palaeolithic-axe-300x223.jpg "palaeolithic-axe")]({{ site.baseurl }}/files/2008/03/palaeolithic-axe.jpg)
+![]({{ site.baseurl }}/files/2008/03/palaeolithic-axe.jpg "Palaeolithic axe")
+![]({{ site.baseurl }}/files/2008/03/palaeolithic-axe-300x223.jpg "palaeolithic-axe")
 
 Our only find certain to be from the Palaeolithic is the handaxe-like tool from Gayton ([NARC-FD1537](http://www.findsdatabase.org.uk/hms/pas_obj.php?type=finds&id=001467FD18D0123D "Lower Palaeolithic tool")), previously noted in this blog. But it’s a lovely find, so I thought you might want to see it again.  We have had other possible items of Palaeolithic date, including cores, but these are less certain.
 
@@ -26,4 +37,3 @@ For the Neolithic, with 127 records, we have a greater range of material, includ
 Other objects of probable early prehistoric date include bone beads ([NARC-248CB1](http://www.findsdatabase.org.uk/hms/pas_obj.php?type=finds&id=00146B2492901C0F "Prehistoric Bone Beads")) and the above Neolithic antler macehead ([NARC-181793](http://www.findsdatabase.org.uk/hms/pas_obj.php?type=finds&id=001468181C9018E9 "Antler macehead")). Such objects were probably the templates for late Neolithic stone maces and hammers, but examples are few, so this is an important example.
 
 All in all, finds from ‘pre-metallic’ Northamptonshire seem under-represented in comparison with those from later periods.  This is unsurprising, but one hopes that the situation will improve as detectorists and fieldwalkers become more aware of the importance of such material, and become better at identifying it. Nonetheless, the ability to identify flint scatters on maps is useful in telling us about settlements, temporary camps, and itinerant activity throughout this time period, while the more exotic finds (such as Langdale and other greenstone axes) are testament to long distance axes of trade working through the county and beyond.
-

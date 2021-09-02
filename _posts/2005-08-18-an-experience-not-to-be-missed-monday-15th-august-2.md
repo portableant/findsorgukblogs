@@ -2,11 +2,10 @@
 layout: default
 published: 2005-08-18T19:21:44+00:00
 author: Corrine Mills
-category: central-unit
+category: [central-unit,news]
 ---
 
-An experience not to be missed Monday 15th August
-=================================================
+# An experience not to be missed Monday 15th August
 
 ![A fragment of gold runic inscription](https://finds.org.uk/images/cmcdonald/medium/dscn0195.jpg "A fragment of gold runic inscription")
 

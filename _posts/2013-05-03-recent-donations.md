@@ -5,18 +5,11 @@ category: treasure
 published: 2013-05-03T15:09:14+00:00
 title: Recent donations
 ---
-
-[Recent Donations]({{ site.baseurl }}/recent-donations/2013-05-03-recent-donations.html "Link to Recent Donations")
------------------------------------------------------------------------------------------------------------------------------------
-
-**A find from the mud…
-**Mudlark John Higginbotham discovered this interesting Post-Medieval silver toilet implement ([LON-F6F381](http://finds.org.uk/database/artefacts/record/id/462295 "Toilet implement PAS record")) on the foreshore of the
-
-[![Toilet implement set from the Thames Foreshore]({{ site.baseurl }}/files/2013/05/Toiletimplementset-150x150.jpg)]({{ site.baseurl }}/files/2013/05/Toiletimplementset.jpg)
+![Toilet implement set from the Thames Foreshore]({{ site.baseurl }}/files/2013/05/Toiletimplementset-150x150.jpg)
 
 Toilet implement set from the Thames Foreshore
 
-River Thames.  The individual elements of the tool, which could have been used in various aspects of personal hygiene and the application of cosmetics, overlap with one another to form a three-dimensional female figure.  There are not many exact parallels recorded, although examples of the individual elements are known.  The preservation of this complete set makes it all the more interesting. 
+A find from the mud… Mudlark John Higginbotham discovered this interesting Post-Medieval silver toilet implement ([LON-F6F381](http://finds.org.uk/database/artefacts/record/id/462295 "Toilet implement PAS record")) on the foreshore of the River Thames.  The individual elements of the tool, which could have been used in various aspects of personal hygiene and the application of cosmetics, overlap with one another to form a three-dimensional female figure.  There are not many exact parallels recorded, although examples of the individual elements are known.  The preservation of this complete set makes it all the more interesting. 
 
 Only those people with a license from the Port of London Authority (PLA) are allowed to search with metal detectors on the Thames foreshore and to disturb the ground.   All others should restrict their activities to searching with their eyes alone! 
 
@@ -25,7 +18,7 @@ John and the owner of the foreshore, the Crown Estate, agreed to waive their rig
 **Silver cuff link showcasing a royal occasion 
 **This single silver cuff link ([SUSS-5904A7](http://finds.org.uk/database/artefacts/record/id/454515 "Cuff link PAS Record")) was found by Tyndall Jones in Warningcamp, West Sussex.  It would have originally been joined by a metal link to a matching cuff link which would have enabled them to hold together two pieces of fabric.  Cuff links with this design ‘Crown over two hearts’ are likely to be associated with a commemoration of the marriage of Charles II to Catharine of Braganza in 1662. 
 
-[![Silver cufflink from Warningcamp, West Sussex]({{ site.baseurl }}/files/2013/05/2011T436SilverCuffLink-150x150.jpg)]({{ site.baseurl }}/files/2013/05/2011T436SilverCuffLink.jpg)
+![Silver cufflink from Warningcamp, West Sussex]({{ site.baseurl }}/files/2013/05/2011T436SilverCuffLink-150x150.jpg)
 
 Silver cufflink from Warningcamp, West Sussex
 

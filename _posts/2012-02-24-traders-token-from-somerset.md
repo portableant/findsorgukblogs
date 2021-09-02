@@ -5,10 +5,7 @@ author: Laura Burnett
 category: somerset
 title: "Trader’s Token from Somerset"
 ---
-Trader’s Token from Somerset
-============================
-
-[![]({{ site.baseurl }}/files/2012/02/SOM-2DC917-Token-300x189.jpg)]({{ site.baseurl }}/files/2012/02/SOM-2DC917-Token.jpg)
+![]({{ site.baseurl }}/files/2012/02/SOM-2DC917-Token-300x189.jpg)
 
 In the 17th century, small denominations of coinage were in short supply. This meant that day to day transactions, for instance buying a loaf of bread, became difficult. Following pilot schemes under Elizabeth I, copper farthings were issued officially under licence during the reigns of James I and Charles I. By the execution of Charles I in 1649, the shortage of small change was again severe (Dickinson, 1986, 4). It is at this point that unlicensed tokens began to be issued by private individuals.
 

@@ -2,14 +2,10 @@
 layout: default
 published: 2009-11-03
 title: >-
-    British Museum display Staffordshire Hoard to celebrate another successful year for the
-    Portable Antiquities Scheme and Treasure Act
+    British Museum display Staffordshire Hoard to celebrate another successful year for the Portable Antiquities Scheme and Treasure Act
 author: Daniel Pett
 category: central-unit
 ---
-
-British Museum display Staffordshire Hoard to celebrate another successful year for the Portable Antiquities Scheme and Treasure Act
-====================================================================================================================================
 
 The Staffordshire Hoard, the most remarkable archaeological discovery for a generation, goes on temporary public display at the British Museum today, to coincide with the launch of the Portable Antiquities and Treasure Annual Report 2007; both events are being launched by Margaret Hodge, Culture Minister. Highlights of the hoard will be displayed, fresh from the earth, from 3rd November until the New Year in gallery 37, near to the famous Sutton Hoo Anglo-Saxon Treasure.
 

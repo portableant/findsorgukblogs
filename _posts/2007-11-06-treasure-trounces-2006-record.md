@@ -66,7 +66,7 @@ Comment by [Adam Daubney](https://finds.org.uk) — November 7, 2007 @ [5:04 pm]
 Corinne, reporting treasure is not “responsible detecting” it is complying with the law.
 
 Katharine,
-“Iâ€™m of the view that the more people that report Treasure the better”
+“I'm of the view that the more people that report Treasure the better”
 Indeed, as not doing so is criminal.
 
 Persuasion and liason with a view to persuading people to be responsible detectorists is one thing. Criminality is an entirely different matter.

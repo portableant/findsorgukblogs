@@ -5,12 +5,9 @@ category: sussex
 published: 2010/08/24
 title: Another lovely swivel
 ---
-# Another lovely swivel
-
-
 As promised back in [July]({{ site.baseurl }}2010/07/12/a-rather-lovely-swivel/) I have had another interesting swivel:
 
-[![]({{ site.baseurl }}files/2010/08/SUSS-101B44-1024x480.jpg)]({{ site.baseurl }}files/2010/08/SUSS-101B44.jpg)
+![]({{ site.baseurl }}files/2010/08/SUSS-101B44-1024x480.jpg)
 
 [SUSS-101B44](http://finds.org.uk/database/artefacts/record/id/391910) is of a more typical form than the one I highlighted previously ([SUSS-225F31](http://finds.org.uk/database/artefacts/record/id/395344)). It has a small loop with animal heads at the ends biting a domed centre from which projects a circular pin. This is the ‘male’ half of a two part swivel, similar to [SF-CA5816](http://finds.org.uk/database/artefacts/record/id/252217).
 

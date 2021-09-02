@@ -3,14 +3,12 @@ layout: default
 published: 2010-07-08T09:04:57+00:00
 author: Katie Hinds
 category: frome-hoard
+title: Katie Day Two
 ---
-
-Katie – day two
-===============
 
 I dreamt about coins and pots last night, unsurprisingly. Anna and I were on site just after 8am and began the exciting part of lifting the fragments of inverted vessel before Alan started on the main part of the pot. The fabric is black burnished ware and it really is a pot of beauty. Alan is half-sectioning the pot and taking the coins out in layers. As the
 
-[![]({{ site.baseurl }}/files/2010/07/IMG_0149-300x200.jpg)]({{ site.baseurl }}/files/2010/07/IMG_0149.jpg)
+![]({{ site.baseurl }}/files/2010/07/IMG_0149-300x200.jpg)
 
 Layers (C) Somerset County Council
 
@@ -22,7 +20,7 @@ Steve Minnitt from the Somerset County Museum spent most of the afternoon with u
 
 My hands are stained brown/ green from the copper-infused clayey soil. While Anna and Alan took turns excavating
 
-[![]({{ site.baseurl }}/files/2010/07/IMG_0203-200x300.jpg)]({{ site.baseurl }}/files/2010/07/IMG_0203.jpg)
+![]({{ site.baseurl }}/files/2010/07/IMG_0203-200x300.jpg)
 
 Bagging (C) Somerset County Council
 

@@ -6,9 +6,6 @@ category: frome-hoard
 author: Daniel Pett
 ---
 
-The Frome hoard has been valued at £320,250
-===========================================
-
 Art Fund to match-fund public donations to appeal
 
 Today, the value of the Frome Hoard has been announced at £320,250. Somerset County Council Heritage Service now has until 1 February 2011 to raise the funds in order to keep this important treasure on public display in the county in which it was discovered. The rare find, made up of 52,503 Roman coins dating from the 3rd century AD, was unearthed tightly packed in a pot and is the largest coin hoard to have been found in a single container.

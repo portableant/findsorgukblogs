@@ -5,12 +5,10 @@ category: the-marches
 published: 2010-08-03T15:37:47+00:00
 title: Medieval Shrewsbury Coin Declared Treasure
 ---
-Medieval Shrewsbury Coin Declared Treasure
-==========================================
 
 Mr John Ellery, coroner for North Shropshire, today (3-8-2010) found that this single silver penny of Henry III (see link below) was part of the much larger Baschurch hoard. As such Mr Ellery declared that this was Treasure in accordance with the Treasure Act 1996. Shropshire County Museum Service has expressed an interest in this coin and as such it will be valued by the Treasure Valuation Committee (TVC). The TVCs valuation will then be offered as a reward to the finder and landowner.
 
-[![]({{ site.baseurl }}/files/2010/08/2009-T289-300x134.jpg)]({{ site.baseurl }}/files/2010/08/2009-T289.jpg)
+![]({{ site.baseurl }}/files/2010/08/2009-T289-300x134.jpg)
 
 A display of the Baschurch hoard is planned for the New Year at Shrewsbury Museum and Art Gallery (Rowley’s House), after which it will form part of the redisplayed medieval gallery at the new museum (Music Hall) in Shrewsbury.
 
@@ -33,6 +31,4 @@ Stable url: [http://finds.org.uk/database/artefacts/record/id/251501](https://fi
 See the link below for other coins of Henry III struck in Shrewsbury between 1248-1250 AD:
 [https://finds.org.uk/database/search/results/objecttype/coin/broadperiod/Medieval/ruler/204/mint/194](https://finds.org.uk/database/search/results/objecttype/coin/broadperiod/Medieval/ruler/204/mint/194)
 
-and a link to the results mapped:  [https://finds.org.uk/database/search/map/objecttype/coin/broadperiod/Medieval/ruler/204/mint/194](https://finds.org.uk/database/search/map/objecttype/coin/broadperiod/Medieval/ruler/204/mint/194) or a map embedded in the page:
-
-[View Larger Map](http://maps.google.co.uk/maps?f=q&source=embed&hl=en&geocode=&q=http:%2F%2Fwww.finds.org.uk%2Fdatabase%2Fsearch%2Fresults%2Fobjecttype%2Fcoin%2Fbroadperiod%2FMedieval%2Fruler%2F204%2Fmint%2F194%2Fformat%2Fkml&sll=53.800651,-4.064941&sspn=13.418145,39.506836&ie=UTF8&ll=50.651456,-3.117625&spn=1.144343,4.896004)
+and a link to the results mapped:  [https://finds.org.uk/database/search/map/objecttype/coin/broadperiod/Medieval/ruler/204/mint/194](https://finds.org.uk/database/search/map/objecttype/coin/broadperiod/Medieval/ruler/204/mint/194) 

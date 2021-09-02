@@ -3,10 +3,8 @@ layout: default
 published: 2008-06-06T13:26:59+00:00
 category: north-west
 author: Frances McIntosh
+title: Wirral Brooch Updates
 ---
-
-Wirral Brooch Updates
----------------------
 
 The project is really getting moving now. Matthew Ponting at Liverpool University has sampled c.15 brooches and I have just taken up another 8.Â  He has tested 8 of the samples already taken and I am currently waiting for information on these.
 
@@ -15,5 +13,3 @@ Last week he went to the British Museum to take a sample of the only surviving W
 Comparing this with the Meols numbers makes them really stand out. This was a fairly important port in Roman times and there were probably a lot of people coming and going. Nearly 10% of brooches lost were Wirral types, this suggests that they were well represented in what was being worn at that time. I think that this is further proof that the source of the Wirral brooches is actually on the Wirral as they were obviously much more popular here than anywhere else. Even though they are found in a wider area than just the Wirral, it is never in such high concentrations.
 
 We are also starting to notice Wirral variants as more detectorists and FLO’s are recognising what to look out for. What this space for pictures and more information on some of these.
-
-

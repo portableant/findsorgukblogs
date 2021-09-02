@@ -3,13 +3,13 @@ layout: default
 published: 2010-12-20T10:11:06+00:00
 author: Michael Lewis
 category: danish-research
-title: Postscript to Denmark 
+title: Postscript to Denmark
 ---
 
 Postscript (Monday)
 -------------------
 
-[![]({{ site.baseurl }}/2010/12/IMG00056-20101220-0829-300x225.jpg)]({{ site.baseurl }}/2010/12/IMG00056-20101220-0829.jpg)
+![](/2010/12/IMG00056-20101220-0829-300x225.jpg)
 
 It snowed quite a bit in London over the weekend, causing the usual travel chaos; but I was able to get into the British Museum (pictured) ok today.
 

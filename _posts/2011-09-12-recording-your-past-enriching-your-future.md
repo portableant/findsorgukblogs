@@ -5,12 +5,10 @@ category: west-midlands
 published: 2011/09/12
 title: Recording your past, Enriching your future
 ---
-# Recording your past, Enriching your future
-
 September 12th, 2011 by Angie Bolton
 
-The CBA in the West Midlands is organising a dayschool entitled **_Recording your past, Enriching your future_**. It is 
-aimed at anyone researching archaeology or local history in the West Midlands and gives people the opportunity to gain 
+The CBA in the West Midlands is organising a dayschool entitled **_Recording your past, Enriching your future_**. It is
+aimed at anyone researching archaeology or local history in the West Midlands and gives people the opportunity to gain
 an understanding of Historic Environment Records / Site and Monuments Records in the West Midlands area.
 
 The programme is as follows:

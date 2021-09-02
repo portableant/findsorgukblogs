@@ -5,11 +5,10 @@ published: 2011/08/18
 category: the-marches
 title: Jeremy Hall (1940–2011), Photographer and Friend
 ---
-# Jeremy Hall (1940–2011), Photographer and Friend
 
 August 18th, 2011 by Peter Reavill
 
-[![]({{ site.baseurl }}/files/2011/08/jeremy-300x224.jpg)]({{ site.baseurl }}/files/2011/08/jeremy.jpg)
+![]({{ site.baseurl }}/files/2011/08/jeremy-300x224.jpg)
 
 Over the past five years or so I have worked closely with Jeremy Hall, retired photographer of the Royal Armouries, Tower of London. His recent death is a great sadness to all that knew him. Jeremy, and his wife Jane, were regular volunteers at Ludlow Museum Resource Centre, working specifically on the arms and armour collections as well as helping with many other projects. Jeremy was also the museums unofficial ‘official’ photographer.
 
@@ -25,19 +24,19 @@ Rest in Peace.
 
 A few of Jeremy’s photos
 
-[![]({{ site.baseurl }}/files/2011/08/moo-cow-270x300.jpg)]({{ site.baseurl }}/files/2011/08/moo-cow.jpg)
+![]({{ site.baseurl }}/files/2011/08/moo-cow-270x300.jpg)
 
 Stone Roman figurine
 
-[![]({{ site.baseurl }}/files/2011/08/myddle-coins-black-300x239.jpg)]({{ site.baseurl }}/files/2011/08/myddle-coins-black.jpg)
+![]({{ site.baseurl }}/files/2011/08/myddle-coins-black-300x239.jpg)
 
 The Myddle Coin Hoard
 
-[![]({{ site.baseurl }}/files/2011/08/Musket-on-own-212x300.jpg)]({{ site.baseurl }}/files/2011/08/Musket-on-own.jpg)
+![]({{ site.baseurl }}/files/2011/08/Musket-on-own-212x300.jpg)
 
 Lock Plate and Hammer on a musket in the Shropshire Museum Collection
 
-[![]({{ site.baseurl }}/files/2011/08/Shropshire-Pendant-2-244x300.jpg)]({{ site.baseurl }}/files/2011/08/Shropshire-Pendant-2.jpg)
+![]({{ site.baseurl }}/files/2011/08/Shropshire-Pendant-2-244x300.jpg)
 
 West Shropshire Pendant, 7th century
 

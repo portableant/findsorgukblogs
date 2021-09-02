@@ -1,12 +1,10 @@
---- 
+---
 layout: default
 title: Put your left foot forward! Looking at the shoes from Piercebridge
 author: Philippa Walton
 category: piercebridge
 ---
 
-Put your left foot forward! Looking at the shoes from Piercebridge
-------------------------------------------------------------------
 A couple of weeks ago, the project was lucky to have Dr Beth Greene, an expert in Roman shoes, from the University of Western Ontario, take a look at our small assemblage of leather from the river. She’s worked extensively on the Roman shoes from Vindolanda ([http://www.vindolanda.com/doorway-articles/life-at-vindolanda](http://www.vindolanda.com/doorway-articles/life-at-vindolanda)), so she’s well placed to study our footwear! Here’s what she has to say about them:
 
 Our Roman shoe expert, Beth Greene

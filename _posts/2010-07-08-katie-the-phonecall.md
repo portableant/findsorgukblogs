@@ -3,10 +3,8 @@ layout: default
 author: Katie Hinds
 published: 2010-07-08T09:02:18+00:00
 category: frome-hoard
+title: Katie - the phone call about the Frome Hoard
 ---
-Katie - the phone call about the Frome Hoard
-============================================
-
 
 Katie – THE phonecall
 =====================
@@ -16,13 +14,13 @@ Katie – THE phonecall
 How very exciting! I have just had a phone call from Dave, who is the secretary of the Trowbridge MDC and a fan of all things Roman, with some very exciting news!  Last week I received an email from Dave to say he had found a few siliquae, was writing to the coroner, and would let me have them at the next club meeting. I have to admit I had half forgotten about them until Dave rang me today. The conversation went something like this:
 
 > ‘Hi Katie, I have a few things to tell you’
-> 
+>
 > ‘Oh yes of course! How exciting about your siliquae hoard! Your first hoard! You must be so chuffed! How many have you got?’
-> 
+>
 > ‘About 30 I think…’
-> 
+>
 > ‘30!! I thought you had five or six! That’s fantastic, I really look forward to seeing them’
-> 
+>
 > ‘…but the real reason I’m ringing is to tell you that I’ve found another hoard, and its in a pot!’
 
 Dave had always bemoaned the fact he had never found a hoard. He has made some super finds over the years but that hoard had eluded him – which is perhaps why he found another while searching for the dispersed coins of his first! Hoards are like buses maybe, you wait for one and two come along at once…
