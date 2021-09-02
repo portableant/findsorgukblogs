@@ -6,7 +6,7 @@ published: 2013-03-25T12:21:43+00:00
 category: piercebridge
 ---
 
-![Frances opens a box of pottery we haven't seen before!]({{ site.baseurl }}/piercebridge/files/2013/03/francessorts-225x300.jpg)
+![Frances opens a box of pottery we haven't seen before!]({{ site.baseurl }}/files/2013/03/francessorts-225x300.jpg)
 
 Frances opens a box of pottery we haven’t seen before!
 
@@ -18,7 +18,7 @@ Here’s what James has to say about the assemblage:
 
 It was a pretty interesting collection. The first impression is that it’s all pretty fresh with sharp edges and breaks. This is important because it should indicate that the pottery hasn’t travelled far in the river. 
 
-![Some of the decorated Samian from Piercebridge]({{ site.baseurl }}/piercebridge/files/2013/03/Potteryday-005-300x225.jpg)
+![Some of the decorated Samian from Piercebridge]({{ site.baseurl }}/files/2013/03/Potteryday-005-300x225.jpg)
 
 Some of the decorated Samian from Piercebridge
 
@@ -28,14 +28,14 @@ There’s a small but important collection of [samian](http://potsherd.net/atlas
 
 Most of the pottery are black and grey kitchen and tablewares. Jars, bowls and dishes are present and the vessels range in date from the second until the fourth century. Some of the latest sherds are from [BB1](http://potsherd.net/atlas/Ware/BB1.html) jars and bowls. It was nice to see these because they come from Dorset and I wrote my PhD on this type of pottery!
 
-![James explains the dating of Black Burnished ware to Bob]({{ site.baseurl }}/piercebridge/files/2013/03/Potteryday-009-300x225.jpg)
+![James explains the dating of Black Burnished ware to Bob]({{ site.baseurl }}/files/2013/03/Potteryday-009-300x225.jpg)
 
 James explains the dating of Black Burnished ware to Bob
 
 It’s early days and the next step is to get the pottery up to Newcastle so I can study it properly. That said, one striking aspect of this pottery is the lack of any flagons (jugs). I’m not sure how to explain this but it’s a hint that these boxes of pottery have secrets to reveal.”
 
-![James, Philippa, Bob and Rolfe on pottery sorting duty]({{ site.baseurl }}/piercebridge/files/2013/03/Potteryday-020-300x225.jpg)
+![James, Philippa, Bob and Rolfe on pottery sorting duty]({{ site.baseurl }}/files/2013/03/Potteryday-020-300x225.jpg)
 
-![James, Philippa, Bob and Rolfe on pottery sorting duty]({{ site.baseurl }}/piercebridge/files/2013/03/Potteryday-020-300x225.jpg)
+![James, Philippa, Bob and Rolfe on pottery sorting duty]({{ site.baseurl }}/files/2013/03/Potteryday-020-300x225.jpg)
 
 James, Philippa, Bob and Rolfe on pottery sorting duty

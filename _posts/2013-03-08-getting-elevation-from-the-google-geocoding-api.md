@@ -16,80 +16,80 @@ And there is a specific requirement for where this data will be used:
 
 Access the google elevation
 
-    <?php /\*\* A class for getting elevation of a latlon point against the google api \* @version 1 \* @author Daniel Pett \* @license GNU \* @package Pas\_Service \* @subpackage Geo \* @category Pas \* @see https://developers.google.com/maps/documentation/elevation/ \* @uses Zend\_Http\_Client \* @uses Zend\_Json \*/ class Pas\_Service\_Geo\_Elevation{ const ELEVATIONURI = 'http://maps.googleapis.com/maps/api/elevation/json'; /\*\* Get the coordinates from an address string \* @param float $lat \* @param float $lon \* @access public \*/ public function \_getElevationApiCall($lat, $lon) { $client = new Zend\_Http\_Client(); $client->setUri(self::ELEVATIONURI); $client->setParameterGet('locations', $lon . ',' . $lat) ->setParameterGet('sensor', 'false'); $result = $client->request('GET'); $response = Zend\_Json\_Decoder::decode($result->getBody(), Zend\_Json::TYPE\_OBJECT); return $response; } /\*\* Get the coordinates of an address \* @param float $lat \* @param float $lon \* @access public \*/ public function getElevation($lat, $lon) { $response = $this->\_getElevationApiCall($lat, $lon); if(isset($response->results\[0\]->elevation)){ return $response->results\[0\]->elevation; } else { return null; } } }
+    <?php /** A class for getting elevation of a latlon point against the google api * @version 1 * @author Daniel Pett * @license GNU * @package Pas_Service * @subpackage Geo * @category Pas * @see https://developers.google.com/maps/documentation/elevation/ * @uses Zend_Http_Client * @uses Zend_Json */ class Pas_Service_Geo_Elevation{ const ELEVATIONURI = 'http://maps.googleapis.com/maps/api/elevation/json'; /** Get the coordinates from an address string * @param float $lat * @param float $lon * @access public */ public function _getElevationApiCall($lat, $lon) { $client = new Zend_Http_Client(); $client->setUri(self::ELEVATIONURI); $client->setParameterGet('locations', $lon . ',' . $lat) ->setParameterGet('sensor', 'false'); $result = $client->request('GET'); $response = Zend_Json_Decoder::decode($result->getBody(), Zend_Json::TYPE_OBJECT); return $response; } /** Get the coordinates of an address * @param float $lat * @param float $lon * @access public */ public function getElevation($lat, $lon) { $response = $this->_getElevationApiCall($lat, $lon); if(isset($response->results[0]->elevation)){ return $response->results[0]->elevation; } else { return null; } } }
 
 
 
     <?php
 
-    /\*\* A class for getting elevation of a latlon point against the google api
-    \* @version 1
-    \* @author Daniel Pett
-    \* @license GNU
-    \* @package Pas\_Service
+    /** A class for getting elevation of a latlon point against the google api
+    * @version 1
+    * @author Daniel Pett
+    * @license GNU
+    * @package Pas_Service
 
-    \* @subpackage Geo
+    * @subpackage Geo
 
-    \* @category Pas
+    * @category Pas
 
-    \* @see https://developers.google.com/maps/documentation/elevation/
+    * @see https://developers.google.com/maps/documentation/elevation/
 
-    \* @uses Zend\_Http\_Client
+    * @uses Zend_Http_Client
 
-    \* @uses Zend\_Json
+    * @uses Zend_Json
 
-    \*/
+    */
 
-    class  Pas\_Service\_Geo\_Elevation{
+    class  Pas_Service_Geo_Elevation{
 
-    const  ELEVATIONURI  \=  'http://maps.googleapis.com/maps/api/elevation/json';
+    const  ELEVATIONURI  = 'http://maps.googleapis.com/maps/api/elevation/json';
 
-    /\*\* Get the coordinates from an address string
+    /** Get the coordinates from an address string
 
-         \* @param float $lat
+         * @param float $lat
 
-         \* @param float $lon
+         * @param float $lon
 
-         \* @access public
+         * @access public
 
-         \*/
+         */
 
-    public  function  \_getElevationApiCall($lat,  $lon)  {
+    public  function  _getElevationApiCall($lat,  $lon)  {
 
-    $client  \=  new  Zend\_Http\_Client();
+    $client  = new  Zend_Http_Client();
 
-    $client\->setUri(self::ELEVATIONURI);
+    $client->setUri(self::ELEVATIONURI);
 
     $client->setParameterGet('locations',  $lon  .  ','  .  $lat)
            ->setParameterGet('sensor',  'false');
 
-    $result  \=  $client\->request('GET');
+    $result  = $client->request('GET');
 
-    $response  \=  Zend\_Json\_Decoder::decode($result\->getBody(),
+    $response  = Zend_Json_Decoder::decode($result->getBody(),
 
-    Zend\_Json::TYPE\_OBJECT);
+    Zend_Json::TYPE_OBJECT);
 
     return  $response;
 
     }
 
-    /\*\* Get the coordinates of an address
+    /** Get the coordinates of an address
 
-         \* @param float $lat
+         * @param float $lat
 
-         \* @param float $lon
+         * @param float $lon
 
-         \* @access public
+         * @access public
 
-         \*/
+         */
 
     public  function  getElevation($lat,  $lon){
 
-    $response  \=  $this\->\_getElevationApiCall($lat,  $lon);
+    $response  = $this->_getElevationApiCall($lat,  $lon);
 
-    if(isset($response\->results\[0\]\->elevation)){
+    if(isset($response->results[0]->elevation)){
 
-    return  $response\->results\[0\]\->elevation;
+    return  $response->results[0]->elevation;
 
     }  else  {
 
@@ -105,10 +105,10 @@ To use this in your code do the below:
 
 Use the service class
 
-    $api = new Pas\_Service\_Geo\_Elevation(); $elevation = $api->getElevation($data\['declong'\], $data\['declat'\]);
+    $api = new Pas_Service_Geo_Elevation(); $elevation = $api->getElevation($data['declong'], $data['declat']);
 
-    $api  \=  new  Pas\_Service\_Geo\_Elevation();
+    $api  = new  Pas_Service_Geo_Elevation();
 
-    $elevation  \=  $api\->getElevation($data\['declong'\],  $data\['declat'\]);
+    $elevation  = $api->getElevation($data['declong'],  $data['declat']);
 
 Pretty simple.

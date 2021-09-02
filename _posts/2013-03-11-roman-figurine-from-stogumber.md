@@ -10,7 +10,7 @@ Small figurines in the shape of boars were popular in the Late Iron Age and Earl
 
 This example ([SOM-B820E3](http://finds.org.uk/database/artefacts/record/id/530918)) has a well moulded head with a long snout and deeply drilled eyes, which gives it a rather fierce appearance seen face on. The crest of bristles along the back is emphasised by incised lines. It swells out initially to make the upper part of the body before narrowing to a plain rectangular base. At the tail end it tapers to a rounded point, this is broken but is too narrow to have formed an attachment to a larger implement such as a knife although it may have had some indication of a tail. It may have been freestanding on the base or fitted into a larger base piece.
 
-![Roman boar figurine]({{ site.baseurl }}/files/2012/12/SOM-B820E3-boar-cropped-300x177.jpg)
+![Roman boar figurine](https://finds.org.uk/images/elburnett/medium/SOM-B820E3.JPG)
 
 Roman boar figurine
 

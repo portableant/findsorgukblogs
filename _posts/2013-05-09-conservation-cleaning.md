@@ -36,4 +36,5 @@ Production line of Dremel rotary brushing.
 Mechanical cleaning involves reducing corrosion products with a scalpel under magnification and brushing to remove surface corrosion product residue.  The photo above shows a production line of conservators using natural fibre dental brushes, on rotary Dremels® . This allows for a greater quantity of coins to be brushed at one time, and is more efficient than brushing them by hand.
 
 ![Following chemical cleaning the coins corrosion and dirt residues remain on the coin. This coin has been half brushed to demonstrate the difference in legibility before and after. ]({{ site.baseurl }}/files/2012/12/brushing-from-CSRmtg-ppt-297x300.png)
+
 Following chemical cleaning corrosion and dirt residues remain on the coin. This coin has been brushed on one half to demonstrate the difference in legibility before and after.

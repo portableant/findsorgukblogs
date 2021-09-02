@@ -9,7 +9,7 @@ A couple of weeks ago, the project was lucky to have Dr Beth Greene, an expert i
 
 Our Roman shoe expert, Beth Greene
 
-“At the moment, only three Roman leather shoes have been recovered from the river deposit for study. However, Bob and Rolfe have re-buried dozens more, so there’s massive potential for further work which could keep me busy for some time!
+> “At the moment, only three Roman leather shoes have been recovered from the river deposit for study. However, Bob and Rolfe have re-buried dozens more, so there’s massive potential for further work which could keep me busy for some time!
 
 So, here’s the good news: the shoes are **most definitely Roman!** They are all very well preserved and tell us a great deal about their previous owners and perhaps also the individual who deposited them in this watery resting place. One is a small sandal of about 22cm long (before chemical conservation) that may have belonged to a woman or an adolescent male. The sandal is an interesting shape that developed at the end of the 2nd century and into the 3rd, with a flat toe area and very wide at the toes and ball of the foot. This sandal type evolves to become enormous at the toe end and eventually looks more like a ping-pong paddle than a shoe! Our example is more sensible in its stylistic details, but still has a flare that can only be chalked up to fashionable tastes rather than practicality.
 

@@ -13,10 +13,10 @@ I’m currently working on mapping PAS data to the [CIDOC-CRM](http://www.cidoc-
 To obtain the URIs and extra information from the FISH archaeological objects thesaurus which number 2020:
 
 	PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-	SELECT \*
+	SELECT *
 	WHERE {
 	?subject a skos:Concept ;
-	skos:inScheme <http://purl.org/heritagedata/schemes/mda\_obj> ;
+	skos:inScheme <http://purl.org/heritagedata/schemes/mda_obj> ;
 	skos:prefLabel ?label ;
 	skos:scopeNote ?note
 	}
@@ -27,10 +27,10 @@ To obtain the URIs and extra information from the FISH archaeological objects th
 To obtain the English Heritage period URIs which number 30 in total:
 
 	PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-	SELECT \*
+	SELECT *
 	WHERE {
 	?subject a skos:Concept ;
-	skos:inScheme <http://purl.org/heritagedata/schemes/eh\_period>;
+	skos:inScheme <http://purl.org/heritagedata/schemes/eh_period>;
 	skos:prefLabel ?label;
 	}
 	ORDER BY ASC(?label)
@@ -40,10 +40,10 @@ To obtain the English Heritage period URIs which number 30 in total:
 To obtain the English Heritage building materials URIs which number 231 in total:
 
 	PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-	SELECT \*
+	SELECT *
 	WHERE {
 	?subject a skos:Concept ;
-	skos:inScheme <http://purl.org/heritagedata/schemes/eh\_tbm>;
+	skos:inScheme <http://purl.org/heritagedata/schemes/eh_tbm>;
 	skos:prefLabel ?label;
 	}
 	ORDER BY ASC(?label)
@@ -53,10 +53,10 @@ To obtain the English Heritage building materials URIs which number 231 in total
 To obtain the English Heritage event type URIs  of which there are 97:
 
 	PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-	SELECT \*
+	SELECT *
 	WHERE {
 	?subject a skos:Concept ;
-	skos:inScheme <http://purl.org/heritagedata/schemes/agl\_et> ;
+	skos:inScheme <http://purl.org/heritagedata/schemes/agl_et> ;
 	skos:prefLabel ?label ;
 	}
 	ORDER BY ASC(?label)
@@ -66,7 +66,7 @@ To obtain the English Heritage event type URIs  of which there are 97:
 To obtain the EH monument type URIs of which there are 4855:
 
 	PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-	SELECT \*
+	SELECT *
 	WHERE {
 	?subject a skos:Concept ;
 	skos:inScheme <http://purl.org/heritagedata/schemes/eh\_tmt2> ;
@@ -79,7 +79,7 @@ To obtain the EH monument type URIs of which there are 4855:
 To get a count for any of these:
 
 	PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-	SELECT (COUNT(\*) AS ?count)
+	SELECT (COUNT(*) AS ?count)
 	WHERE {
 	?subject a skos:Concept ;
 	skos:inScheme <SCHEME URI> ;
@@ -90,7 +90,7 @@ To get a count for any of these:
 The end point returns a maximum of 250 records, and so to get more results, use OFFSET n as shown below:
 
 	PREFIX skos:
-	SELECT \*
+	SELECT *
 	WHERE {
 	?subject a skos:Concept;
 	skos:inScheme <YOUR SCHEME URI>;
