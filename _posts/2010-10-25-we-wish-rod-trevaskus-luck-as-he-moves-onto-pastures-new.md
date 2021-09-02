@@ -10,7 +10,7 @@ Jeff Spencer, HER officer for Clwyd Powys Archaeological Trust (CPAT) has writte
 
 Jeff Writes:
 
-![Rod Trevaskus](/files/2010/10/Rod-Trevaskus-at-Wrexham-Heritage-Society-300x289.jpg)
+![Rod Trevaskus](/files/2010/10/Rod-Trevaskus-at-Wrexham-Heritage-Society.jpg)
 
 Rod started volunteering with the PAS in 2007 and as a direct result of his work the annual totals of recorded artefacts by CPAT have virtually doubled with each successive year;
 
@@ -30,7 +30,7 @@ Before working with us he had successful careers in the RAF and in banking in th
 
 The following are good examples of some of his records on the PAS database:
 
-![CPAT-446CE7](https://www.finds.org.uk/images/thumbnails/193099.jpg)
+![CPAT-446CE7](https://finds.org.uk/images/rod/medium/2672-0004r.jpg)
 
 PAS record number: CPAT-446CE7
 Object type: Seal matrix

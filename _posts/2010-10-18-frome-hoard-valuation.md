@@ -66,8 +66,6 @@ The first book on the Frome Hoard, written by Sam Moorhead, Roger Bland and Anna
 
 #### The Authors
 
-![Cover image for The Frome Hoard](http://ecx.images-amazon.com/images/I/61aJ411PX7L._SL160_.jpg)
-
 Sam Moorhead is National Finds Adviser for Iron Age and Roman coins in the department of Portable Antiquities and Treasure at the British Museum.
 
 Anna Booth was Somerset County Council’s Finds Liaison Officer, and worked on the excavation of the hoard. She is now researching for a PhD at the University of Leicester.

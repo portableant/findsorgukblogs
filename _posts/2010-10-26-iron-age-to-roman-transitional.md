@@ -11,7 +11,7 @@ Some other Roman brooches are enamelled and some do have similar patterns, for e
 
 The object below is a Roman stud which has been enamelled with a chequerboard pattern in yellow and red.  It appears to have been re-used/repaired at some point as there are are two small rivet holes. This may be due to the stud on the reverse breaking. However the important thing is the decoration.
 
-![DUR-A8C9F7]({{ site.base.url }}/files/2010/09/DUR-A8C9F7-milne-stud.jpg)
+![DUR-A8C9F7](/files/2010/09/DUR-A8C9F7-milne-stud.jpg)
 
 The linch pin below is a really nice find on its own, in very good condition and with lovely decoration. However it also has the chequerboard pattern with the characteristic colours of red and yellow.
 
@@ -21,6 +21,6 @@ Below are two examples of the Wirral brooch. If you search for these items on th
 
 ![LVPL-F3CA77](https://finds.org.uk/images/alexw/medium/LVPLF3CA77.jpg)
 
-![WMID-947693]({{ site.base.url }}/files/2010/09/wmid-947693_31-300x237.jpg)
+![WMID-947693](/files/2010/09/wmid-947693_31-300x237.jpg)
 
 At the moment, from my limited work through my dissertation I am looking at ideas of continued style and art ideas from the Iron Age through to the Roman period, as this chequerboard pattern is common in both periods. I am hoping to investigate this trend more this year and will try to put more on the blog when I get time.
