@@ -10,7 +10,9 @@ First of all, welcome to the Wiltshire blog on the \*new\* PAS database! I hope 
 
 Today I am handing back this rather unusual Middle Bronze Age (1400-1150 BC) socketed axehead, found in the Marlborough area by a RSPB warden checking birds. It was just lying on the surface of the field!
 
-![WILT-C4C954](https://www.finds.org.uk/images/thumbnails/289190.jpg)PAS record number: WILT-C4C954
+![WILT-C4C954](https://finds.org.uk/images/khinds/medium/Read0710chisel.jpg)
+
+PAS record number: WILT-C4C954
 
 Object type: Socketed axehead
 

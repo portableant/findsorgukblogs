@@ -13,7 +13,9 @@ The discovery of two gold coins sheds light on a little known British Emperor.
 
 Two gold coins of the emperor Carausius have just been found on a construction site in the Midlands. They were reported to the Portable Antiquities Scheme and archaeologists are investigating the find further. Gold coins of Carausius are extremely rare, until now only 23 being in existence. The last example found was in 1975 in Hampshire and it is quite possible that we will have to wait for over 30 years before another one sees the light of day.
 
-![DENO-651C91](https://www.finds.org.uk/images/thumbnails/159526.jpg)PAS record number: DENO-651C91  
+![DENO-651C91](https://finds.org.uk/images/arohde/medium/E5986%20aureus%20pax.jpg)
+
+PAS record number: DENO-651C91  
 Object type: Coin  
 Broadperiod: Roman  
 County of discovery: Derbyshire  
@@ -21,7 +23,9 @@ Stable url: [https://finds.org.uk/database/artefacts/record/id/203507](https://f
 
 Carausius was a Menapian (from modern Belgium). In the AD 280s he was the commander of the Roman Fleet (Classis Britannica) that patrolled the English Channel and North Sea. The fleet was commanded from Boulogne and one of its major functions was to defend Britain and Gaul (France) from Saxon raiders. Carausius fell foul of the Roman emperors Diocletian and Maximian, supposedly because he allowed the Saxons to RAID and only intercepted them afterwards, keeping the stolen loot for himself! Rather than hand himself over, Carausius declared himself emperor of Northern Gaul and Britain and set up his own mini-empire.
 
-![DENO-64DAE1](https://www.finds.org.uk/images/thumbnails/159525.jpg)PAS record number: DENO-64DAE1  
+![DENO-64DAE1](https://finds.org.uk/images/arohde/medium/E5986%20aureus%20concordia%20milit.jpg)
+
+PAS record number: DENO-64DAE1  
 Object type: Coin  
 Broadperiod: Roman  
 County of discovery: Derbyshire  

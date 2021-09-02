@@ -16,7 +16,7 @@ All the web statistics are produced via Google Analytics, I haven’t bothered w
 
 *   We get a trend of heavy weekday usage, with noticeable dips at weekends when recording isn’t as prevalent.
 
-    ![Typical weekly pattern](/files/2010/09/pattern-300x44.jpg "Typical weekly pattern")
+    ![Typical weekly pattern](/files/2010/09/pattern.jpg)
 
     Typical weekly pattern
 

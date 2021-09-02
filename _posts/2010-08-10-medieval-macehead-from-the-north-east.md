@@ -7,9 +7,7 @@ layout: default
 
 August 10th, 2010 by Frances McIntosh
 
-![]({[ site.baseurl }}/files/2010/08/DUR-5ACBE0-204x300.jpg)]({[ site.baseurl }}/files/2010/08/DUR-5ACBE0.jpg)
-
-Medieval macehead
+![Medieval macehead](/files/2010/08/DUR-5ACBE0.jpg)
 
 Maceheads are items which are rarely found in Britain, the PAS database has less than 15 recorded. There is a focus in central England (apparently Lincs. in particular), though a number exist close to coasts and waterways. It is thought they originated as weapons in Scandinavia.
 

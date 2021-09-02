@@ -16,8 +16,4 @@ My first find which I would like to feature is not Roman, in fact it is late Med
 
 Although it looks simple and is not made from precious metal it is none-the-less another piece of the past which is improving our knowledge of material culture and how it differs or is the same across the country. The majority of Medieval and Post Medieval lead toys were found in London but the data recorded with the PAS is changing this and showing that these items were used all over the country, even if it was in smaller numbers.
 
-![brown ampulla DUR-35B102](/files/2010/08/brown-ampulla-DUR-35B102-150x150.jpg "brown ampulla DUR-35B102")
-
-![Lead toy jug](/files/2010/08/brown-ampulla-DUR-35B1021-150x150.jpg "DUR-35B102")
-
-Lead toy jug
+![brown ampulla DUR-35B102](https://finds.org.uk/images/frances/medium/brown%20ampulla%20DUR-35B102.jpg)

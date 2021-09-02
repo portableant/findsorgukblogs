@@ -15,9 +15,8 @@ What has been done is pretty simple and we need to do a few things before you ca
 *   Register for a [user account](http://www.finds.org.uk/users/account/register "Register with us") with us (if you don’t have one already)
 *   Contact your local [finds liaison officer](http://www.finds.org.uk/contacts "A list of our staff") and tell them your user name
 *   They then link your user account to the details that we safeguard on our database
-*   Voila, next time you login, you have access to your finds (published and those on validation) from your logged in area. Look for the link that says “My finds recorded by FLOs” and which looks like the below image
+*   Voila, next time you login, you have access to your finds (published and those on validation) from your logged in area. Look for the link that says “My finds recorded by FLOs”
 
-![]({{ site.baseurl }}/files/2010/03/Picture-1.png "Picture-1")
 
 Coming in the next few days to complement this are a couple of features:
 
