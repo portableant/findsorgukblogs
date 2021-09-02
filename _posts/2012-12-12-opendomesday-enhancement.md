@@ -29,23 +29,23 @@ Service class for interacting with Domesday site
 
     <?php
 
-    class  App\_Service\_Domesday\_Place  extends  Zend\_Rest\_Client  {
+    class  App-Service-Domesday-Place  extends  Zend-Rest-Client  {
 
-    protected  $\_params  \=  array();
+    protected  $_params  =  array();
 
-    protected  $\_uri  \=  'http://domesdaymap.co.uk';
+    protected  $_uri  =  'http://domesdaymap.co.uk';
 
-    protected  $\_responseTypes  \=  array('xml',  'json',  'django');
+    protected  $_responseTypes  =  array('xml',  'json',  'django');
 
-    protected  $\_responseType  \=  'json';
+    protected  $_responseType  =  'json';
 
-    protected  $\_methods  \=  array('place',  'placesnear',  'manor',
+    protected  $_methods  =  array('place',  'placesnear',  'manor',
 
     'image',  'hundred',  'area',
 
     'county'  );
 
-    protected  $\_placeNearParams  \=  array(
+    protected  $_placeNearParams  =  array(
 
     'lat',  'lng',  'radius',
 
@@ -53,15 +53,15 @@ Service class for interacting with Domesday site
 
     'w','format');
 
-    protected  $\_apiPath  \=  '/api/1.0/';
+    protected  $_apiPath  =  '/api/1.0/';
 
-    public  function  \_\_construct(){
+    public function  __construct(){
 
-    $this\->setUri($this\->\_uri);
+    $this->setUri($this->-uri);
 
-    $client  \=  self::getHttpClient();
+    $client  =  self::getHttpClient();
 
-    $client\->setHeaders('Accept-Charset',  'ISO-8859-1,utf-8');
+    $client->setHeaders('Accept-Charset',  'ISO-8859-1,utf-8');
 
     }
 
@@ -69,19 +69,19 @@ Service class for interacting with Domesday site
 
     {
 
-    foreach  ($params as  $key  \=\>  $value)  {
+    foreach  ($params as  $key  =>  $value)  {
 
     switch  (strtolower($key))  {
 
     case  'format':
 
-    $this\->\_params\['format'\]  \=  $this\->setResponseType($value);
+    $this->-params['format']  =  $this->setResponseType($value);
 
     break;
 
     default:
 
-    $this\->\_params\[$key\]  \=  $value;
+    $this->-params[$key]  =  $value;
 
     break;
 
@@ -97,7 +97,7 @@ Service class for interacting with Domesday site
 
     {
 
-    return  $this\->\_params;
+    return  $this->-params;
 
     }
 
@@ -105,15 +105,15 @@ Service class for interacting with Domesday site
 
     {
 
-    if  (!in\_array(strtolower($responseType),  $this\->\_responseTypes))  {
+    if  (!in-array(strtolower($responseType),  $this->-responseTypes))  {
 
-    throw  new  Pas\_Service\_Domesday\_Exception('Invalid Response Type');
+    throw  new  Pas-Service-Domesday-Exception('Invalid Response Type');
 
     }
 
-    $this\->\_responseType  \=  strtolower($responseType);
+    $this->-responseType  =  strtolower($responseType);
 
-    return  $this\->\_responseType;
+    return  $this->-responseType;
 
     }
 
@@ -121,7 +121,7 @@ Service class for interacting with Domesday site
 
     {
 
-    return  $this\->\_responseType;
+    return  $this->-responseType;
 
     }
 
@@ -129,89 +129,89 @@ Service class for interacting with Domesday site
 
     {
 
-    $requestType  \=  ucfirst(strtolower($requestType));
+    $requestType  =  ucfirst(strtolower($requestType));
 
     if  ($requestType  !==  'Post'  &&  $requestType  !==  'Get')  {
 
-    throw  new  Pas\_Service\_Domesday\_Exception('Invalid request type: '  .  $requestType);
+    throw  new  Pas-Service-Domesday-Exception('Invalid request type: '  .  $requestType);
 
     }
 
     try  {
 
-    $requestMethod  \=  'rest'  .  $requestType;
+    $requestMethod  =  'rest'  .  $requestType;
 
-    $response  \=  $this\->{$requestMethod}($path,  $this\->getParams());
+    $response  =  $this->{$requestMethod}($path,  $this->getParams());
 
-    return  $this\->formatResponse($response);
+    return  $this->formatResponse($response);
 
-    }  catch  (Zend\_Http\_Client\_Exception  $e)  {
+    }  catch  (Zend-Http-Client-Exception  $e)  {
 
-    throw  new  Pas\_Service\_Domesday\_Exception($e\->getMessage());
-
-    }
+    throw  new  Pas-Service-Domesday-Exception($e->getMessage());
 
     }
 
-    /\*\* Set up the response rendering
+    }
 
-     \*
+    /** Set up the response rendering
 
-     \* @param string $response
+     *
 
-     \*/
+     * @param string $response
 
-    public  function  formatResponse(Zend\_Http\_Response  $response)
+     */
+
+    public  function  formatResponse(Zend-Http-Response  $response)
 
     {
 
-    if  ('json'  \===  $this\->getResponseType())  {
+    if  ('json'  ===  $this->getResponseType())  {
 
-    return  json\_decode($response\->getBody());
+    return  json-decode($response->getBody());
 
     }else  {
 
-    return  new  Zend\_Rest\_Client\_Result($response\->getBody());
+    return  new  Zend-Rest-Client-Result($response->getBody());
 
     }
 
     }
 
-    /\*\* Retrieve data from the api
+    /** Retrieve data from the api
 
-         \*
+         *
 
-         \* @param string $method
+         * @param string $method
 
-         \* @param array $params
+         * @param array $params
 
-         \*/
+         */
 
-    public  function  getData($method,  array  $params  \=  array())
+    public  function  getData($method,  array  $params  =  array())
 
     {
 
-    if(!in\_array($method,$this\->\_methods)){
+    if(!in-array($method,$this->-methods)){
 
-    throw  new  Pas\_Service\_Domesday\_Exception('That is not a valid method');
-
-    }
-
-    foreach($params as  $k  \=\>  $v)  {
-
-    if(!in\_array($k,  $this\->\_placeNearParams)){
-
-    unset($params\['k'\]);
+    throw  new  Pas-Service-Domesday-Exception('That is not a valid method');
 
     }
 
+    foreach($params as  $k  =>  $v)  {
+
+    if(!in-array($k,  $this->-placeNearParams)){
+
+    unset($params['k']);
+
     }
 
-    $this\->setParams($params);
+    }
 
-    $path  \=  $this\->\_apiPath  .  $method;
+    $this->setParams($params);
 
-    return  $this\->sendRequest('GET',  $path);
+    $path  =  $this->-apiPath  .  $method;
+
+    return  $this->sendRequest('GET',  $path);
 
     }
 
@@ -221,27 +221,27 @@ Exception class
 
     <?php
 
-    /\*\* The exception for geo based classes
+    /** The exception for geo based classes
 
-    \* @category   Pas
+    * @category   Pas
 
-    \* @package    Pas\_Service\_Domesday
+    * @package    Pas-Service-Domesday
 
-    \* @subpackage Exception
+    * @subpackage Exception
 
-    \* @copyright  Copyright (c) 2011 Daniel Pett
+    * @copyright  Copyright (c) 2011 Daniel Pett
 
-    \* @license    GNU
+    * @license    GNU
 
-    \* @author        Daniel pett
+    * @author        Daniel pett
 
-    \* @version       1
+    * @version       1
 
-    \* @since        26 September 2011
+    * @since        26 September 2011
 
-    \*/
+    */
 
-    class  Pas\_Service\_Domesday\_Exception  extends  Zend\_Exception  {
+    class  Pas-Service-Domesday-Exception  extends  Zend-Exception  {
 
     }
 
@@ -252,81 +252,81 @@ This needs rewriting for OO PHP and chained methods and perhaps moving HTML to a
 
     <?php
 
-    /\*\*
+    /**
 
-    \*
+    *
 
-    \* @author dpett
+    * @author dpett
 
-    \* @version
+    * @version
 
-    \*/
+    */
 
-    /\*\*
+    /**
 
-    \* DomesdayNear helper
+    * DomesdayNear helper
 
-    \*
+    *
 
-    \* @uses viewHelper Pas\_View\_Helper
+    * @uses viewHelper Pas-View-Helper
 
-    \*/
+    */
 
-    class  Pas\_View\_Helper\_DomesdayNear
+    class  Pas-View-Helper-DomesdayNear
 
-    extends  Zend\_View\_Helper\_Abstract  {
+    extends  Zend-View-Helper-Abstract  {
 
-    protected  $\_url  \=  'http://domesdaymap.co.uk/';
+    protected  $_url  =  'http://domesdaymap.co.uk/';
 
-    protected  $\_baseurl  \=  'http://domesdaymap.co.uk/place/';
+    protected  $_baseurl  =  'http://domesdaymap.co.uk/place/';
 
-    protected  $\_domesday;
+    protected  $_domesday;
 
-    protected  $\_cache;
+    protected  $_cache;
 
-    public  function  \_\_construct(){
+    public  function  --construct(){
 
-    $this\->\_domesday  \=  new  Pas\_Service\_Domesday\_Place();
+    $this->-domesday  =  new  Pas-Service-Domesday-Place();
 
-    $this\->\_cache  \=  Zend\_Registry::get('cache');
+    $this->-cache  =  Zend-Registry::get('cache');
 
     }
 
-    /\*\*
+    /**
 
-         \*
+         *
 
-         \*/
+         */
 
     public  function  domesdayNear($lat,  $lng,  $radius)  {
 
-    if(!is\_int($radius)){
+    if(!is-int($radius)){
 
     throw  new  Exception('Defined radius needs to be an integer');
 
     }
 
-    $params  \=  array('lat'  \=\>  $lat,  'lng'  \=\>  $lng,  'radius'  \=\>  $radius);
+    $params  =  array('lat'  =>  $lat,  'lng'  =>  $lng,  'radius'  =>  $radius);
 
-    $key  \=  md5($lat  .  $lng  .  $radius);
+    $key  =  md5($lat  .  $lng  .  $radius);
 
-    $response  \=  $this\->getPlacesNear($params,$key);
+    $response  =  $this->getPlacesNear($params,$key);
 
-    return  $this\->buildHtml($response,  $radius);
+    return  $this->buildHtml($response,  $radius);
 
     }
 
     public  function  getPlacesNear(array  $params,  $key  ){
 
-    if  (!($this\->\_cache\->test($key)))  {
+    if  (!($this->-cache->test($key)))  {
 
-    $data  \=  $this\->\_domesday\->getData('placesnear',  $params);
+    $data  =  $this->-domesday->getData('placesnear',  $params);
 
-    $this\->\_cache\->save($data);
+    $this->-cache->save($data);
 
     }  else  {
 
-    $data  \=  $this\->\_cache\->load($key);
+    $data  =  $this->-cache->load($key);
 
     }
 
@@ -338,23 +338,23 @@ This needs rewriting for OO PHP and chained methods and perhaps moving HTML to a
 
     if($response){
 
-    $html  \=  '<h3>Adjacent Domesday Book places</h3>';
+    $html  =  '<h3>Adjacent Domesday Book places</h3>';
 
-    $html  .\=  '<a  href="'  .  $this\->\_url  .  '"><img class="dec flow" src="http://domesdaymap.co.uk/media/images/lion1.gif" width="67" height="93"/></a>';
+    $html  .=  '<a  href="'  .  $this->-url  .  '"><img class="dec flow" src="http://domesdaymap.co.uk/media/images/lion1.gif" width="67" height="93"/></a>';
 
-    $html  .\=  '<ul>';
+    $html  .=  '<ul>';
 
     foreach($response as  $domesday){
 
-    $html  .\=  '<li><a href="'  .  $this\->\_baseurl  .  $domesday\->grid  .  '/'  .  $domesday\->vill\_slug
+    $html  .=  '<li><a href="'  .  $this->-baseurl  .  $domesday->grid  .  '/'  .  $domesday->vill-slug
 
-    .  '">'.  $domesday\->vill  .  '</a></li>';
+    .  '">'.  $domesday->vill  .  '</a></li>';
 
     }
 
-    $html  .\=  '</ul>';
+    $html  .=  '</ul>';
 
-    $html  .\=  '<p>Domesday data  within '  .  $radius  .  ' km of discovery point is surfaced via the excellent <a href="http://domesdaymap.co.uk">
+    $html  .=  '<p>Domesday data  within '  .  $radius  .  ' km of discovery point is surfaced via the excellent <a href="http://domesdaymap.co.uk">
 
         Open Domesday</a> website.</p>';
 
@@ -370,5 +370,5 @@ To use this:
 
     <?php
     //In the view script in which you want this to appear
-    echo  $this\->domesdayNear($lat,  $lng,  $radius);
+    echo  $this->domesdayNear($lat,  $lng,  $radius);
     ?>

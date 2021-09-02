@@ -55,15 +55,13 @@ Vessel
 
 [WAW-05C782](https://finds.org.uk/database/artefacts/record/id/211981)  
 
-![Find validated and published by finds advisers](https://finds.org.uk/images/icons/flag_green.gif)
-
 Iron age
 
 Warwickshire
 
 A copper alloy nummus of the House of Constantine, VRBS ROMA issue, with Wolf and twins on the reverse, dating from 330 to 335 AD. Discovered during the Fosse Way rally in Warwickshire.
 
-![COIN]((https://finds.org.uk/images/tgilmore/medium/waw-960356.jpg "Medium sized image of: WAW-960356 a ROMAN COIN")
+![COIN]((https://finds.org.uk/images/tgilmore/medium/waw-960356.jpg)
 
 Coin
 

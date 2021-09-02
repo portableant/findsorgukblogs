@@ -7,7 +7,6 @@ author: Ana Tam
 ---
 
 ## The Questions
--------------
 
 ![Dave Crisp at the side of the trench](http://farm5.staticflickr.com/4141/4771877560_e2034d4769.jpg "Dave Crisp at the side of the trench")
 
@@ -20,9 +19,14 @@ The quick thinking of metal detectorist David Crisp meant that the Frome hoard w
 *    How many different groups (smaller pots, leather bags etc) were emptied into the hoard?  We hope that by analysing all the coins, by layer and bag once they have been catalogued, we will gain an insight into how many different groups of coins were in the hoard.
 
 ## Forward towards some answers
-----------------------------
 
-The information stamped onto the coins can help answer these sorts of questions.  The **LEGEND** is the text on a coin which names the emperor (Augustus and Caesar in Latin) ruling at the time of issue.  Other titles include commander (_imperator_), pious (_pius_) and blessed (_felix_). Because the Frome hoard was buried towards the end of period in which there were several civil wars and many barbarian invasions, there are around 25 rulers represented over a 40 year period (AD 253 to around 290) The mintmarks on the reverse of the coin often appear in the **FIELDS** and the **EXERGUE** of the coin, giving us important information about where and when a coin was struck. In the illustration of a coin of Carausius (AD 286-93) below, the letters ‘B’ and ‘E’ are mint control letters in the field of the coin – we do not know what they stand for, but there was a large issue of coins bearing ‘B E’.  The ‘MLXXI’ in the exergue stands for ‘Moneta Londiniensis’ (the mint of London), one part silver to twenty parts copper (i.e. 5% silver).   The mint marks are often recorded in the format shown at the bottom right of the image.  Carausius reigned from around AD 286 to 293, but we know that this coin was struck in the middle of his reign, around AD 290 and is one of the latest coins in the hoard.   
+The information stamped onto the coins can help answer these sorts of questions.  The **LEGEND** is the text on a coin which names the emperor (Augustus and Caesar in Latin) ruling at the time of issue.  Other titles include commander (_imperator_), pious (_pius_) and blessed (_felix_). Because the Frome hoard was buried towards the end of period in which there were several civil wars and many barbarian invasions, there are around 25 rulers represented over a 40 year period (AD 253 to around 290) The mintmarks on the reverse of the coin often appear in the **FIELDS** and the **EXERGUE** of the coin, giving us important information about where and when a coin was struck.
+
+In the illustration of a coin of Carausius (AD 286-93) below, the letters ‘B’ and ‘E’ are mint control letters in the field of the coin – we do not know what they stand for, but there was a large issue of coins bearing ‘B E’.  The ‘MLXXI’ in the exergue stands for ‘Moneta Londiniensis’ (the mint of London), one part silver to twenty parts copper (i.e. 5% silver).   
+
+The mint marks are often recorded in the format shown at the bottom right of the image. 
+
+Carausius reigned from around AD 286 to 293, but we know that this coin was struck in the middle of his reign, around AD 290 and is one of the latest coins in the hoard.   
 
 Carausius set up a [breakaway empire in Britain](http://http/www.britishmuseum.org/explore/young_explorers/discover/museum_explorer/roman_britain/leaders_and_rulers/coin_of_carausius.aspx "breakaway empire in Britain")  and Pax (the personification of peace, as seen on this coin) was the most common [reverse type](https://finds.org.uk/romancoins/personifications "reverse type") used on his coinage.
 

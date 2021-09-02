@@ -11,7 +11,7 @@ In general I don’t record finds that are less than 300 years old. Not because 
 
 However sometimes something comes in with a nice local link or that is just fun and I know it will be useful in talks or schools sessions. This finger ring from Hinton St George is an example, find number [SOM-AE96C7](http://finds.org.uk/database/artefacts/record/id/507872).
 
-![Finger ring made of 1940 penny]({{ site.baseurl }}/files/2012/12/SOM-AE96C7inscription-300x229.jpg)
+![Finger ring made of 1940 penny](https://finds.org.uk/images/elburnett/medium/SOM-AE96C7.JPG)
 
 Finger ring made of 1940 penny
 
