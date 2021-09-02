@@ -6,7 +6,7 @@ author: Philippa Walton
 category: piercebridge
 ---
 
-![]({{ site.baseurl }}/files/2013/07/436-300x190.jpg)
+![A bronze coin of Juba II of Numidia](https://finds.org.uk/images/jasonlundock/medium/436.jpg)
 
 A bronze coin of Juba II of Numidia
 
@@ -17,9 +17,8 @@ and Mauretania (an area which covers modern Algeria, Morocco and Tunisia) in the
 childhood in Rome, as a ‘hostage’ and had been raised by Julius Caesar and later Augustus. He even married the daughter
 of Cleopatra and Mark Antony, Cleopatra Selene II.
 
-It is not clear how one of his coins arrived in Piercebridge, although ‘exotic’ coins like this one, do occasionally
- turn up in large assemblages, particularly those from temple sites. Perhaps it arrived in the pocket of a traveller, soldier or merchant who had visited or lived in North Africa and thought it an appropriate personal offering for the Gods…
+It is not clear how one of his coins arrived in Piercebridge, although ‘exotic’ coins like this one, do occasionally turn up in large assemblages, particularly those from temple sites. Perhaps it arrived in the pocket of a traveller, soldier or merchant who had visited or lived in North Africa and thought it an appropriate personal offering for the Gods…
 
-![800px-Juba_II_of_Numidia_burial_place]({{ site.baseurl }}/files/2013/07/800px-Juba_II_of_Numidia_burial_place-300x199.jpg)
+![800px-Juba_II_of_Numidia_burial_place](https://upload.wikimedia.org/wikipedia/commons/0/0e/Tombeau_de_la_Chr%C3%A9tienne.JPG){: .img-fluid}
 
-The tomb of Juba II in Tipaza, Algeria
+The tomb of Juba II in Tipaza, Algeria (Wikipedia)
