@@ -6,11 +6,6 @@ author: Naomi Payne
 category: somerset
 ---
 
-Recent finds of note
-====================
-
-Posted on [February 5, 2008](http://finds.org.uk/blogs/somerset/2008/02/05/recent-finds-of-note/ "2:25 pm") by [npayne](http://finds.org.uk/blogs/somerset/author/npayne/ "View all posts by npayne")
-
 These two objects were recently discovered near Charlton Mackrell in South Somerset. They are both pretty unusual for Somerset and it has been difficult to find a close parallel for the second.
 
 The first find is a copper alloy knobbed terret harness fitting (SOM-9455E3) which probably dates from the second century AD. Terret rings were metal loops which served as rein guides on horse-drawn vehicles. Terrets would have been positioned on the yoke, like on this reconstruction (see below) of the Newbridge chariot which has recently been built by a Somerset craftsman, Robert Hurford, and is on display at the Somerset County Museum in Taunton until is taken to its new home at the National Museum of Scotland in Edinburgh.
