@@ -3,12 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-permalink: /tag/
+permalink: /tag
 ---
 <div class="tags-expo">
   <div class="tags-expo-list">
     {% for tag in site.categories %}
-    <a href="#{{ tag[0] | slugify }}"> <div class="tag">{{ tag[0] }}</div></a>
+    <a href="#{{ tag[0] | slugify }}">{{ tag[0] }}</a>
     {% endfor %}
   </div>
   <hr />

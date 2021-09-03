@@ -28,18 +28,9 @@ Total posts:
 
 <hr />
 
-{% assign tags = site.categories | sort %}
-{% for tag in tags %}
- <span class="site-tag">
-    <a href="{{site.baseurl}}/tag/{{ tag | first | slugify }}/"
-        style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
-            {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
-    </a>
-</span>
-{% endfor %}
-
 <!-- Pagination links -->
 <div class="pagination">
+  <p>
     {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | relative_url }}" class="previous">Previous</a>
     {% else %}
@@ -51,4 +42,5 @@ Total posts:
     {% else %}
     <span class="next ">Next</span>
     {% endif %}
+    </p>
 </div>
